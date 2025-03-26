@@ -14,6 +14,9 @@ from dotenv import load_dotenv
 from schemas.Person import Person
 from schemas.PersonData import PersonData
 
+from langchain_core.utils.function_calling import tool_example_to_messages
+
+
 prompt_template = ChatPromptTemplate.from_messages(
     [
         (
@@ -54,11 +57,40 @@ def main():
     singleInfo = "Alan Smith is a 6 feet person tall and has blond hair."
     multipleInfo = "My name is Jeff, my hair is black and i am 6 feet tall. Anna has the same color hair as me."
     prompt = prompt_template.invoke({"text" : multipleInfo})
-    response = get_llm_response(prompt)
+    # response = get_llm_response(prompt)
+    tool_call_prompting()
 
-    if response is not None:
-       print(response)
-    else:
-        print("ggpp")
+    # if response is not None:
+    #    print(response)
+    # else:
+    #     print("ggpp")
+
+def tool_call_prompting():
+
+    examples = [
+        (
+            "The ocean is vast and blue. It's more than 20,000 feet deep.",
+            PersonData(people=[]),
+        ),
+        (
+            "Fiona traveled far from France to Spain.",
+            PersonData(people=[Person(name="Fiona", height_in_meters=None, hair_color=None)]),
+        ),
+    ]
+
+
+    messages = []
+
+    for txt, tool_call in examples:
+        if tool_call.people:
+            ai_response = "Detected people."
+        else:
+            ai_response = "Detected no people."
+
+    messages.extend(tool_example_to_messages(txt, [tool_call], ai_response=ai_response))
+
+    for message in messages:
+        message.pretty_print()
+
 if __name__ == '__main__':
     main()
