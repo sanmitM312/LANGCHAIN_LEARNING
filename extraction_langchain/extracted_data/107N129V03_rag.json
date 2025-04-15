@@ -1,0 +1,301 @@
+{
+    "company_name": {
+        "value": "Kotak Mahindra Life Insurance Company Ltd",
+        "page_number": "33",
+        "description": "Name of the insurance company",
+        "chunks": null
+    },
+    "product_name": {
+        "value": "Kotak e-Term",
+        "page_number": "1",
+        "description": "Name of the insurance product/policy",
+        "chunks": null
+    },
+    "product_uin": {
+        "value": "107N129V03",
+        "page_number": "34",
+        "description": "Unique Identification Number of the product",
+        "chunks": null
+    },
+    "product_type": {
+        "value": "Non-Participating Non-Linked Life Insurance Individual Pure Risk Product",
+        "page_number": "1",
+        "description": "Type of the insurance product (e.g., Term, ULIP, Endowment)",
+        "chunks": null
+    },
+    "distribution_channel": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "plan_description": {
+        "value": "A specially designed pure risk cover plan that provides protection to your loved ones.",
+        "page_number": "1",
+        "description": "Key features of the insurance policy/product",
+        "chunks": null
+    },
+    "plan_options": {
+        "value": "1. **Life Option**: This plan provides basic life coverage, ensuring that the policyholder's beneficiaries receive a sum assured in the event of the policyholder's death.\n2. **Life Plus Option**: This option includes the benefits of the Life Option along with additional features such as Accidental Death Benefit, providing enhanced protection against unforeseen events.\n3. **Life Secure Option**: This plan offers comprehensive coverage that includes benefits from the Life Option and also includes Waiver of Future Outstanding Premium on Total and Permanent Disability, ensuring that the policy remains active even if the policyholder becomes disabled.",
+        "page_number": "2",
+        "description": "Descriptions of the three plan options available under the Kotak e-Term policy.",
+        "chunks": [
+            "Life Plus \nOption\nLife Secure \nOption\nBenefit under Life \nOption  + Accidental \nDeath Benefit\nBenefit under Life \nOption + Waiver of \nFuture Outstanding \nPremium on Total and \nPermanent Disability\nPlan Options\nYou may select any one of the 3 Plan Options available under this plan \nat inception based on your requirements. Once the Plan Option is \nchosen, the same cannot be changed during the policy term.",
+            "Key Features:\nLow Cost Insurance \noffers the benefit of \nhigh cover at \neconomical prices\n3 Plan Options\nto choose from\n3 Payout Options\nto choose from\nHow Does the Plan Work?\nEnhance Your Cover\nat specific events of \nlife through Step-Up \noption\nEnhanced Protection\nagainst Accidental \nDeath, Critical \nIllness and Total \nPermanent Disability\nSpecial Rates\nfor Non-Tobacco \nUsers & Women\nOption to Exit \nat Age 60 years\nInbuilt Wellness \nBenefits\n without any \nadditional cost\n2\nStep 1:",
+            "Benefits\n without any \nadditional cost\n2\nStep 1:\nChoose your Coverage \nAmount (Basic Sum \nAssured) & Policy Term \n& Premium Payment \nTerm based on your \nrequirement\nStep 2:\nSelect any one of the 3 \nPlan Options: \n\u2022 Life \n\u2022 Life Plus \n\u2022 Life Secure",
+            "Enhancing your Options\nAdditional Features Benefits\nConvenient premium \npayment \nterm and modes\nAs per suitability, you can opt for premium payment \nterm (PPT) i.e. regular or limited or single pay, from \navailable options (please refer to \u201cEligibility\u201d \nsection below). \nYou have the option to pay your premiums yearly, \nhalf yearly, quarterly or monthly and can also \nchange the premium payment mode on policy \nanniversary\nAdditional Protection \n(Optional)\n through Riders*"
+        ]
+    },
+    "terminal_illness_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "other_benefits": {
+        "value": "1. **Additional Protection (Optional)**: The policy offers optional riders that can enhance coverage. These include:\n   - **Life Plus Option**: Provides benefits under the Life Option plus Accidental Death Benefit.\n   - **Life Secure Option**: Provides benefits under the Life Option plus Waiver of Future Outstanding Premium on Total and Permanent Disability.\n\n2. **Kotak Critical Illness Plus Benefit Rider**: This rider provides a Rider Sum Assured payable upon the admission of a claim for any one of the 37 covered critical illnesses, subject to terms and conditions, definitions, and specific exclusions.\n\n3. **Plan Options**: The policy allows selection of one of the three Plan Options at inception:\n   - **Life**\n   - **Life Plus**\n   - **Life Secure**\n   Note: Once a Plan Option is chosen, it cannot be changed during the policy term.\n\n4. **Premium Payment Flexibility**: The policy offers convenient premium payment terms and modes, allowing for yearly, half-yearly, quarterly, or monthly payments, with the option to change the premium payment mode on the policy anniversary.",
+        "page_number": "null",
+        "description": "Summary of additional/optional benefits included in the Kotak e-Term policy.",
+        "chunks": [
+            "Enhancing your Options\nAdditional Features Benefits\nConvenient premium \npayment \nterm and modes\nAs per suitability, you can opt for premium payment \nterm (PPT) i.e. regular or limited or single pay, from \navailable options (please refer to \u201cEligibility\u201d \nsection below). \nYou have the option to pay your premiums yearly, \nhalf yearly, quarterly or monthly and can also \nchange the premium payment mode on policy \nanniversary\nAdditional Protection \n(Optional)\n through Riders*",
+            "Life Plus \nOption\nLife Secure \nOption\nBenefit under Life \nOption  + Accidental \nDeath Benefit\nBenefit under Life \nOption + Waiver of \nFuture Outstanding \nPremium on Total and \nPermanent Disability\nPlan Options\nYou may select any one of the 3 Plan Options available under this plan \nat inception based on your requirements. Once the Plan Option is \nchosen, the same cannot be changed during the policy term.",
+            "Benefits\n without any \nadditional cost\n2\nStep 1:\nChoose your Coverage \nAmount (Basic Sum \nAssured) & Policy Term \n& Premium Payment \nTerm based on your \nrequirement\nStep 2:\nSelect any one of the 3 \nPlan Options: \n\u2022 Life \n\u2022 Life Plus \n\u2022 Life Secure",
+            "(Optional)\n through Riders*\nIf you feel the insurance cover is not adequate or \nwish to customize the protection, you can do so by \nattaching below mentioned optional Riders to your \nBase Plan on payment of additional premium:\nKotak Critical Illness Plus Benefit Rider (UIN: \n107B020V02): Rider Sum Assured shall be payable \non admission of a claim on any one of the 37 \ncovered critical illness, subject to terms and \nconditions, definitions and specific exclusions"
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Payout Options**:\n   - **Level Recurring Payout**: 6% of **Sum Assured** on death shall be payable immediately at the end of the first year from the date of death, with subsequent payouts increasing by 10% every year (Simple Interest Rate). These instalments are payable at the end of every year for 15 years starting from one year after the date of death.\n   - **Increasing Recurring Payout**: 6% of **Sum Assured** on death shall be payable immediately at the end of every year for 15 years, with the first payment made one year after the date of death. If the nominee opts for a lump sum instead of recurring payouts, a discounted value of the outstanding payouts will be paid as a lump sum, calculated using a discounting rate of 6.0% p.a. (compounded yearly).\n   - **Immediate Payout**: A lump sum payment of 10% of **Sum Assured** on death shall be paid immediately at the time of claim settlement. There is an option to receive this annual payment in monthly mode, where monthly payments shall be 8.22% of the annual payments, starting from one year after the date of death.\n   - **Lump Sum Payment**: The full **Sum Assured** on death shall be paid in lump sum immediately, and the policy shall terminate.\n   - **Accidental Death Benefit**: Applicable under the \u2018Life Plus\u2019 option, this benefit shall be payable in lump sum irrespective of the payout options selected.",
+        "page_number": "6",
+        "description": "Summary of death benefit payout/payment options for Kotak e-Term insurance policy.",
+        "chunks": [
+            "month after the date of death of the life insured.\nPayout Options\nIncreasing \nRecurring Payout\nImmediate \nPayout\nUnder Level /Increasing Recurring Payout option, in case the nominee decides \nto receive the benefit in lump sum instead of recurring payouts, a discounted \nvalue of the outstanding payouts shall be paid as lump sum. The discounted \nvalue shall be calculated using a discounting rate of 6.0% p.a. (compounded",
+            "Payout \n6% of Sum Assured \non death shall be \npayable immediately \nat the end of every \nyear for 15 years; the \nfirst payment being \nmade one year after \nthe date of death of \nthe life insured\nLump sum payment of 10% of Sum Assured on \ndeath shall be paid immediately at the time of claim \nsettlement, and\n\u2022 There is an option to receive this annual payment \n in monthly mode\n\u2022 Monthly payments shall be 8.22% of the Annual  \n Payments. The first payment shall start from one",
+            "6\nSum Assured on death \nshall be paid in lump sum \nimmediately and the \npolicy shall terminate.\n6% of Sum Assured on death \nshall be payable immediately \nat the end of the first year \nfrom the date of death, \nthereafter the payout shall \ncontinue to increase by 10% \nevery year (Simple Interest \nRate). These instalments \nshall be payable at the end of \nevery year for 15 years \nstarting from one year after \nthe date of death\nLevel Recurring \nPayout \n6% of Sum Assured \non death shall be",
+            "yearly). However, Accidental Death Benefit applicable under \u2018Life Plus\u2019 option \nshall be payable in Lump sum irrespective of the above payout options selected."
+        ]
+    },
+    "premium_payment_option": {
+        "value": "1. **Regular Pay**  \n2. **Limited Pay**  \n3. **Single Pay**",
+        "page_number": "Not available",
+        "description": "Premium payment options available for the Kotak e-Term policy.",
+        "chunks": [
+            "Premium \nPayment Term Policy Term\nMin: 5 Years\nMax: \n\u2022 Life Option:  Highest of 40  \n Years or 75 Years less Age \n at Entry or 85 Years less \n Age at Entry\n\u2022 Life Plus Option:  Higher of \n 40 Years or 75 Years less \n Age at Entry\nPremium Payment \nOption\nRegular, Limited and Single Pay\nPremium Payment \nMode\nSingle, Yearly, Half-Yearly, Quarterly and Monthly\nModal Factor\nThe following modal loadings shall be used to \ncalculate the instalment premium in case of Regular",
+            "Enhancing your Options\nAdditional Features Benefits\nConvenient premium \npayment \nterm and modes\nAs per suitability, you can opt for premium payment \nterm (PPT) i.e. regular or limited or single pay, from \navailable options (please refer to \u201cEligibility\u201d \nsection below). \nYou have the option to pay your premiums yearly, \nhalf yearly, quarterly or monthly and can also \nchange the premium payment mode on policy \nanniversary\nAdditional Protection \n(Optional)\n through Riders*",
+            "Modal Factor Yearly\nHalf-Yearly\nQuarterly\nMonthly\n100% of Annual Premium\n51% of Annual Premium\n26% of Annual Premium\n8.8% of Annual Premium\nRegular/ Limited Pay\nSingle Premium 100% of Base Premium\nPremium Payment \nModal Factor\nPremium \nPayment Type\nPremium \nMinimum Premium shall vary based on the Age, Gender \n& Lifestyle (Tobacco / Non-Tobacco user) of the Life \nInsured along with Plan Option, Payout Option, Policy \nTerm, Premium Payment Term, Distribution Channel",
+            "monthly mode there is a grace period of 15 days. During this  \n  period the policy will be considered to be in-force with risk cover \n  as per the terms of the policy.\n10. Riders:\n  The payment of Rider premium shall be made in addition to the \n  premium for the Base Plan and collected along with the premiums  \n  for the Base Plan. Premium payment type (Regular/Limited/Single) \n  and premium payment mode of the rider should be same as that of"
+        ]
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "11",
+        "description": "Minimum age required to purchase the policy/product (in years)",
+        "chunks": null
+    },
+    "max_age_at_entry": {
+        "value": "65 years",
+        "page_number": "11",
+        "description": "Maximum age allowed for policy/product entry (in years)",
+        "chunks": null
+    },
+    "max_age_at_maturity": {
+        "value": "85 years",
+        "page_number": "11",
+        "description": "Maximum age allowed at policy/product maturity (in years)",
+        "chunks": null
+    },
+    "minimum_sum_assured": {
+        "value": "\u20b951,00,000",
+        "page_number": "12",
+        "description": "Minimum sum assured for the policy/product (in INR)",
+        "chunks": null
+    },
+    "maximum_sum_assured": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Maximum sum assured for the policy/product",
+        "chunks": null
+    },
+    "minimum_policy_term": {
+        "value": "5 years",
+        "page_number": "11",
+        "description": "Minimum term for the policy/product (in years)",
+        "chunks": null
+    },
+    "maximum_policy_term": {
+        "value": "40 years",
+        "page_number": "11",
+        "description": "Maximum term for the policy/product (in years)",
+        "chunks": null
+    },
+    "premium_paying_term": {
+        "value": "1. **Regular Pay**: Minimum Premium Payment Term (PPT) of 5 Years. Maximum PPT is the highest of 40 Years or 75 Years less Age at Entry or 85 Years less Age at Entry for Life & Life Secure Option; and higher of 40 Years or 75 Years less Age at Entry for Life Plus Option.\n\n2. **Limited Pay**: Minimum PPT of 10 Years (Pay till 60 Years). Maximum PPT options include:\n   - 5 Pay: 10 years\n   - 7 Pay: 12 years\n   - 10 Pay: 15 years\n   - 15 Pay: 20 years\n\n3. **Single Pay**: One Time Payment with no specified minimum or maximum PPT.",
+        "page_number": "1",
+        "description": "Premium Payment Terms (PPT) available for the Kotak e-Term policy.",
+        "chunks": [
+            "Premium \nPayment Term Policy Term\nMin: 5 Years\nMax: \n\u2022 Life Option:  Highest of 40  \n Years or 75 Years less Age \n at Entry or 85 Years less \n Age at Entry\n\u2022 Life Plus Option:  Higher of \n 40 Years or 75 Years less \n Age at Entry\nPremium Payment \nOption\nRegular, Limited and Single Pay\nPremium Payment \nMode\nSingle, Yearly, Half-Yearly, Quarterly and Monthly\nModal Factor\nThe following modal loadings shall be used to \ncalculate the instalment premium in case of Regular",
+            "Enhancing your Options\nAdditional Features Benefits\nConvenient premium \npayment \nterm and modes\nAs per suitability, you can opt for premium payment \nterm (PPT) i.e. regular or limited or single pay, from \navailable options (please refer to \u201cEligibility\u201d \nsection below). \nYou have the option to pay your premiums yearly, \nhalf yearly, quarterly or monthly and can also \nchange the premium payment mode on policy \nanniversary\nAdditional Protection \n(Optional)\n through Riders*",
+            "Cess, as applicable.\nEligibility\n18 years \n23 years \nEligibility Criteria MaximumMinimum\n65 years (Except for Limited Pay - \u201cPay \ntill 60 Years\u201d)\n50 Years (For Limited Pay - \u201cPay till 60 \nYears\u201d)\n85 years (for Life & Life Secure Option)\n75 years (for Life Plus Option)\nEntry Age \n(Age as on \nlast birthday)\nMaturity Age (Age \nas on last birthday)\nPremium Payment \nTerm (PPT)/\nPolicy Term (PT)\nRegular Pay:\nPremium \nPayment Term Policy Term\nMin: 5 Years\nMax: \n\u2022 Life & Life Secure Option:",
+            "\u2022 Life & Life Secure \n Option: Highest of \n 40 Years or 75 \n Years less Age at \n Entry or 85 Years \n less Age at Entry\n\u2022 Life Plus Option:  \n Higher of 40 Years \n or 75 Years less \n Age at Entry\nPay till 60 Years \n(Minimum Premium \nPayment \nTerm of 10 Years)\nPremium \nPayment Term Min Max\n Policy Term\nLimited Pay\n7 Pay \n5 Pay 10 years\n12 years\n10 Pay 15 years\n15 Pay 20 years\n15 years\nPremium Payment \nTerm (PPT)/\nPolicy Term (PT) Single Pay:\nOne Time Payment\nPremium \nPayment Term Policy Term"
+        ]
+    },
+    "minimum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Minimum annual premium amount (in INR)",
+        "chunks": null
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Maximum premium amount",
+        "chunks": null
+    },
+    "death_benefits": {
+        "value": "1. **Sum Assured on Death**: In case of the death of the life insured during the policy term, the Nominee shall receive the **Sum Assured on Death**, which is the highest of the following:  \n   - **Basic Sum Assured**  \n   - **11 times Annualised Premium**  \n   - **105% of all premiums paid** till the date of death.  \n   The **Sum Assured on Death** shall be paid in a lump sum immediately, and the policy shall terminate.  \n\n2. **Recurring Payout Option**:  \n   - **6% of Sum Assured on Death** shall be payable immediately at the end of the first year from the date of death.  \n   - The payout shall continue to increase by **10% every year** (Simple Interest Rate) for **15 years**, starting from one year after the date of death.  \n\n3. **Death Benefit during Grace Period**:  \n   - In case of death during the **Grace Period**, the **Sum Assured on Death** less the premium due at the time of death shall be payable to the Nominee.  \n   - For non-annual Premium Payment Modes, the balance of the premiums (if any) payable in the policy year of death shall be deducted.  \n\n4. **Accidental Death Benefit**:  \n   - Under the **\u201cLife Plus\u201d Option**, in the event of the life insured\u2019s accidental death, additional benefits may apply (specific details not provided).",
+        "page_number": "16",
+        "description": "Summary of death benefits available under the Kotak e-Term insurance policy.",
+        "chunks": [
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16",
+            "5\nSum Assured on Death\nIn case of an unfortunate event of death of the life insured during the \npolicy term, provided the policy is in-force, the Nominee shall receive \nthe Sum Assured on death as mentioned below:\nFor Regular and Limited Premium \nSum Assured on death shall be \nhighest of the following:\n+\n\u2022 Sum Assured  OR\n@\n\u2022 11 times Annualised Premium\n\u2022 105% of all premiums** paid till the \n date of  death\nSum Assured on death shall be higher \nof the following:\n\u2022 Basic Sum Assured OR",
+            "6\nSum Assured on death \nshall be paid in lump sum \nimmediately and the \npolicy shall terminate.\n6% of Sum Assured on death \nshall be payable immediately \nat the end of the first year \nfrom the date of death, \nthereafter the payout shall \ncontinue to increase by 10% \nevery year (Simple Interest \nRate). These instalments \nshall be payable at the end of \nevery year for 15 years \nstarting from one year after \nthe date of death\nLevel Recurring \nPayout \n6% of Sum Assured \non death shall be",
+            "Terms and Conditions\n1.  Death Benefit:\n  In case of unfortunate event of the death of the life insured during \n  the Grace Period, the Sum Assured on Death less the premium \n  due at the time of death, shall be payable to the Nominee. In \n  addition, for non-annual Premium Payment Modes, balance of \n  the Premiums (if any) payable in the policy year of death shall be  \n  deducted.\n2.  Accidental Death Benefit:\n  Under \u201cLife Plus\u201d Option, in the event of the life insured\u2019s accidental"
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "Not available",
+        "page_number": "20",
+        "description": "Information regarding instant cash benefits or claims available for the Kotak e-Term policy.",
+        "chunks": [
+            "20. Maturity/Survival Benefit:\n  There is no benefit available on Survival or Maturity of the Policy.\n32"
+        ]
+    },
+    "surrender_benefits": {
+        "value": "1. **Special Exit Value**: A **Special Exit Value** shall be payable where the total premiums paid, plus underwriting extra premiums paid, plus loadings for modal premiums, if any, shall be returned if you terminate the policy. This benefit is available for a period of one year to avail after the policyholder has paid all due premiums.\n\n2. **Voluntary Termination Value**: \n   - **Single Premium Policies**: The **Voluntary Termination Value** shall be acquired immediately once the premium has been received.\n   - **Limited Pay Policies**: The **Voluntary Termination Value** is applicable.\n   - **Regular Premium Paying Policies**: The **Voluntary Termination Value** shall not be acquired under these policies.\n\n3. **Conditions for Special Exit Benefit**: \n   - The policy must be in-force at the time of availing this benefit.\n   - This benefit is not available with the **Life Secure variant** if the Underwriting Policy (BAUP) of the Company is applicable.\n   - The policy shall be terminated after availing this benefit.\n   - This benefit is not available for policy terms less than 40 years.\n   - The benefit is applicable on the **Base Policy** and not on **Riders**.\n   - If a lapsed policy is not revived during the revival period, the policy shall be terminated without paying any benefits.",
+        "page_number": "29",
+        "description": "Summary of surrender benefits for the Kotak e-Term policy, excluding paid-up value and exit options.",
+        "chunks": [
+            "Not Available\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\nPremium \nPayment Option Voluntary Termination Value\nRegular Pay\nLimited Pay\nSingle Pay\n Please note the following conditions for Special Exit Benefit:\n  \u2022 The policy has to be in-force at the time of availing this benefit\n  \u2022 This benefit shall not be available with Life Secure variant, if",
+            "Underwriting Policy (BAUP) of the Company. \n  If a lapsed policy is not revived during the revival period, the policy \n  shall be terminated without paying any benefits. \n13. Special Exit Value\n  A Special Exit Value shall be payable to you, where the total \n  premiums paid plus underwriting extra premiums paid plus \n  loadings for modal premiums, if any shall be returned if you \n  terminate the policy. You shall have a period of one year to avail",
+            "Premium policies, in case the policyholder has paid all the due \n    premiums\n  \u2022  Voluntary Termination value shall be acquired immediately  \n    under Single Premium policies once the premium has been \n    received.\n  In case you wish to terminate the policy, the, Voluntary \n  Termination Value payable shall be based as per the table given \n29",
+            "waiver of premium has been triggered under the policy\n  \u2022 This benefit shall not be available for policy terms less than 40 \n   years\n  \u2022 This benefit shall be applicable on the Base Policy and not on \n   Riders\n  \u2022 The policy shall be terminated after availing this benefit\n14. Voluntary Termination Value\n  \u2022  Voluntary Termination value shall not be acquired under \n    Regular Premium Paying policy. \n  \u2022  Voluntary Termination value shall be acquired under Limited"
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "60% x (Unexpired Policy Term / Policy Term) x Sum of Total Premium Paid",
+        "page_number": "20",
+        "description": "Surrender value/benefit factor for the policy",
+        "chunks": [
+            "20. Maturity/Survival Benefit:\n  There is no benefit available on Survival or Maturity of the Policy.\n32",
+            "Not Available\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\nPremium \nPayment Option Voluntary Termination Value\nRegular Pay\nLimited Pay\nSingle Pay\n Please note the following conditions for Special Exit Benefit:\n  \u2022 The policy has to be in-force at the time of availing this benefit\n  \u2022 This benefit shall not be available with Life Secure variant, if",
+            "waiver of premium has been triggered under the policy\n  \u2022 This benefit shall not be available for policy terms less than 40 \n   years\n  \u2022 This benefit shall be applicable on the Base Policy and not on \n   Riders\n  \u2022 The policy shall be terminated after availing this benefit\n14. Voluntary Termination Value\n  \u2022  Voluntary Termination value shall not be acquired under \n    Regular Premium Paying policy. \n  \u2022  Voluntary Termination value shall be acquired under Limited"
+        ]
+    },
+    "paid_up_value": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Paid-up value/benefit available for the Kotak e-Term policy is not specified in the provided documents.",
+        "chunks": [
+            "Not Available\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\nPremium \nPayment Option Voluntary Termination Value\nRegular Pay\nLimited Pay\nSingle Pay\n Please note the following conditions for Special Exit Benefit:\n  \u2022 The policy has to be in-force at the time of availing this benefit\n  \u2022 This benefit shall not be available with Life Secure variant, if",
+            "20. Maturity/Survival Benefit:\n  There is no benefit available on Survival or Maturity of the Policy.\n32",
+            "Underwriting Policy (BAUP) of the Company. \n  If a lapsed policy is not revived during the revival period, the policy \n  shall be terminated without paying any benefits. \n13. Special Exit Value\n  A Special Exit Value shall be payable to you, where the total \n  premiums paid plus underwriting extra premiums paid plus \n  loadings for modal premiums, if any shall be returned if you \n  terminate the policy. You shall have a period of one year to avail",
+            "Premium policies, in case the policyholder has paid all the due \n    premiums\n  \u2022  Voluntary Termination value shall be acquired immediately  \n    under Single Premium policies once the premium has been \n    received.\n  In case you wish to terminate the policy, the, Voluntary \n  Termination Value payable shall be based as per the table given \n29"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Paid-up sum assured on death for the Kotak e-Term policy is not specified in the provided documents.",
+        "chunks": [
+            "5\nSum Assured on Death\nIn case of an unfortunate event of death of the life insured during the \npolicy term, provided the policy is in-force, the Nominee shall receive \nthe Sum Assured on death as mentioned below:\nFor Regular and Limited Premium \nSum Assured on death shall be \nhighest of the following:\n+\n\u2022 Sum Assured  OR\n@\n\u2022 11 times Annualised Premium\n\u2022 105% of all premiums** paid till the \n date of  death\nSum Assured on death shall be higher \nof the following:\n\u2022 Basic Sum Assured OR",
+            "6\nSum Assured on death \nshall be paid in lump sum \nimmediately and the \npolicy shall terminate.\n6% of Sum Assured on death \nshall be payable immediately \nat the end of the first year \nfrom the date of death, \nthereafter the payout shall \ncontinue to increase by 10% \nevery year (Simple Interest \nRate). These instalments \nshall be payable at the end of \nevery year for 15 years \nstarting from one year after \nthe date of death\nLevel Recurring \nPayout \n6% of Sum Assured \non death shall be",
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16",
+            "Payout \n6% of Sum Assured \non death shall be \npayable immediately \nat the end of every \nyear for 15 years; the \nfirst payment being \nmade one year after \nthe date of death of \nthe life insured\nLump sum payment of 10% of Sum Assured on \ndeath shall be paid immediately at the time of claim \nsettlement, and\n\u2022 There is an option to receive this annual payment \n in monthly mode\n\u2022 Monthly payments shall be 8.22% of the Annual  \n Payments. The first payment shall start from one"
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Special Exit Value**: A **Special Exit Value** shall be payable where the total premiums paid, plus underwriting extra premiums paid, plus loadings for modal premiums, if any, shall be returned if you terminate the policy. You have a period of one year to avail this benefit.\n\n2. **Voluntary Termination Value**: The **Voluntary Termination Value** is available under different premium payment options:\n   - **Regular Pay**: The value is calculated based on the formula: 60% x (Unexpired Policy Term / Policy Term) x Sum of Total Premium Paid.\n   - **Limited Pay**: Same calculation as Regular Pay.\n   - **Single Pay**: The value is acquired immediately once the premium has been received.\n\n3. **Conditions for Special Exit Benefit**:\n   - The policy must be in-force at the time of availing this benefit.\n   - This benefit is not available with the **Life Secure** variant, if Underwriting Policy (BAUP) of the Company applies.\n\n4. **Termination of Lapsed Policy**: If a lapsed policy is not revived during the revival period, the policy shall be terminated without paying any benefits.",
+        "page_number": "1",
+        "description": "Exit values/options/benefits available for the Kotak e-Term policy excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "Not Available\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\nPremium \nPayment Option Voluntary Termination Value\nRegular Pay\nLimited Pay\nSingle Pay\n Please note the following conditions for Special Exit Benefit:\n  \u2022 The policy has to be in-force at the time of availing this benefit\n  \u2022 This benefit shall not be available with Life Secure variant, if",
+            "Underwriting Policy (BAUP) of the Company. \n  If a lapsed policy is not revived during the revival period, the policy \n  shall be terminated without paying any benefits. \n13. Special Exit Value\n  A Special Exit Value shall be payable to you, where the total \n  premiums paid plus underwriting extra premiums paid plus \n  loadings for modal premiums, if any shall be returned if you \n  terminate the policy. You shall have a period of one year to avail",
+            "Life Plus \nOption\nLife Secure \nOption\nBenefit under Life \nOption  + Accidental \nDeath Benefit\nBenefit under Life \nOption + Waiver of \nFuture Outstanding \nPremium on Total and \nPermanent Disability\nPlan Options\nYou may select any one of the 3 Plan Options available under this plan \nat inception based on your requirements. Once the Plan Option is \nchosen, the same cannot be changed during the policy term.",
+            "Premium policies, in case the policyholder has paid all the due \n    premiums\n  \u2022  Voluntary Termination value shall be acquired immediately  \n    under Single Premium policies once the premium has been \n    received.\n  In case you wish to terminate the policy, the, Voluntary \n  Termination Value payable shall be based as per the table given \n29"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "1. **Special Exit Value**: A **Special Exit Value** shall be payable where the total premiums paid, plus underwriting extra premiums paid, plus loadings for modal premiums (if any), shall be returned if you terminate the policy.\n\n2. **Conditions for Availing Special Exit Benefit**:\n   - The policy must be **in-force** at the time of availing this benefit.\n   - This benefit is **not available** with the **Life Secure variant** if the Underwriting Policy (BAUP) of the Company applies.\n\n3. **Voluntary Termination Value**: The formula for calculating the **Voluntary Termination Value** is:\n   - 60% x (Unexpired Policy Term / Policy Term) x Sum of Total Premium Paid.\n\n4. **Lapsed Policy**: If a lapsed policy is not revived during the revival period, the policy shall be **terminated without paying any benefits**.",
+        "page_number": "1",
+        "description": "Summary of terms and conditions for Exit value/options/benefits under the Kotak e-Term insurance policy.",
+        "chunks": [
+            "Not Available\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\n60% x (Unexpired Policy Term / Policy Term) x Sum of \nTotal Premium Paid\nPremium \nPayment Option Voluntary Termination Value\nRegular Pay\nLimited Pay\nSingle Pay\n Please note the following conditions for Special Exit Benefit:\n  \u2022 The policy has to be in-force at the time of availing this benefit\n  \u2022 This benefit shall not be available with Life Secure variant, if",
+            "Underwriting Policy (BAUP) of the Company. \n  If a lapsed policy is not revived during the revival period, the policy \n  shall be terminated without paying any benefits. \n13. Special Exit Value\n  A Special Exit Value shall be payable to you, where the total \n  premiums paid plus underwriting extra premiums paid plus \n  loadings for modal premiums, if any shall be returned if you \n  terminate the policy. You shall have a period of one year to avail",
+            "Life Plus \nOption\nLife Secure \nOption\nBenefit under Life \nOption  + Accidental \nDeath Benefit\nBenefit under Life \nOption + Waiver of \nFuture Outstanding \nPremium on Total and \nPermanent Disability\nPlan Options\nYou may select any one of the 3 Plan Options available under this plan \nat inception based on your requirements. Once the Plan Option is \nchosen, the same cannot be changed during the policy term."
+        ]
+    },
+    "discount_online": {
+        "value": "Not available",
+        "page_number": null,
+        "description": null,
+        "chunks": [
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16",
+            "automatically be applicable in the 1st policy year on Step Up \n  Option Fees since Step Up Option Fee is a percentage of Premium.\n4.  Additional Discount for Existing Customers:\nst\n  There would be an additional discount of 5% in the 1  policy year, \n  applicable for individual life insured under existing policies, \n  members of group policyholders and employees of Kotak Group \n  who wish to purchase this plan through any distribution channel.\nst",
+            "st\n  This discount shall automatically be applicable in the 1  policy \n  year on Step Up Option Fees since Step Up Option Fee is a \n  percentage of Premium\n  Note: If the Life Insured is both a Salaried Individual and Existing \n  KLI Customer, he/she shall be eligible for only one discount.\n5.  Conditions and Definitions for Inbuilt Accidental Death Benefit \n  (applicable under Life Plus option): \n  In the unfortunate event of the death of life insured due to an"
+        ]
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Discounts for female individuals in the Kotak e-Term policy",
+        "chunks": [
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16"
+        ]
+    },
+    "discount_existing_customers": {
+        "value": "1. **Additional Discount for Existing Customers**: There is a **5% discount** in the **1st policy year** applicable for individual life insured under existing policies, members of group policyholders, and employees of Kotak Group who wish to purchase this plan through any distribution channel.  \n2. This discount is automatically applicable on **Step Up Option Fees** since the Step Up Option Fee is a percentage of Premium.  \n3. If the Life Insured is both a **Salaried Individual** and an **Existing KLI Customer**, they shall be eligible for only **one discount**.",
+        "page_number": "16",
+        "description": "Discounts available for existing customers in the Kotak e-Term policy",
+        "chunks": [
+            "automatically be applicable in the 1st policy year on Step Up \n  Option Fees since Step Up Option Fee is a percentage of Premium.\n4.  Additional Discount for Existing Customers:\nst\n  There would be an additional discount of 5% in the 1  policy year, \n  applicable for individual life insured under existing policies, \n  members of group policyholders and employees of Kotak Group \n  who wish to purchase this plan through any distribution channel.\nst",
+            "st\n  This discount shall automatically be applicable in the 1  policy \n  year on Step Up Option Fees since Step Up Option Fee is a \n  percentage of Premium\n  Note: If the Life Insured is both a Salaried Individual and Existing \n  KLI Customer, he/she shall be eligible for only one discount.\n5.  Conditions and Definitions for Inbuilt Accidental Death Benefit \n  (applicable under Life Plus option): \n  In the unfortunate event of the death of life insured due to an",
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16"
+        ]
+    },
+    "discount_salaried": {
+        "value": "5% discount in the 1st policy year for salaried customers",
+        "page_number": "16",
+        "description": "Additional discount for salaried customers applicable in the first policy year",
+        "chunks": [
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16",
+            "st\n  This discount shall automatically be applicable in the 1  policy \n  year on Step Up Option Fees since Step Up Option Fee is a \n  percentage of Premium\n  Note: If the Life Insured is both a Salaried Individual and Existing \n  KLI Customer, he/she shall be eligible for only one discount.\n5.  Conditions and Definitions for Inbuilt Accidental Death Benefit \n  (applicable under Life Plus option): \n  In the unfortunate event of the death of life insured due to an"
+        ]
+    },
+    "discount_high_sum": {
+        "value": "Not available",
+        "page_number": null,
+        "description": null,
+        "chunks": [
+            "death, 100% of the Basic Sum Assured, subject to a maximum of `\n  1 Crore shall be payable in addition to the Death Benefit. The \n  conditions and exclusions are mentioned under Point 5 & 7 \n  respectively.\n3.  Additional Discount for Salaried Customers:\n  There would be an additional discount of 5% in the 1st policy year \n  applicable for individual life insured. This discount shall \n16",
+            "st\n  This discount shall automatically be applicable in the 1  policy \n  year on Step Up Option Fees since Step Up Option Fee is a \n  percentage of Premium\n  Note: If the Life Insured is both a Salaried Individual and Existing \n  KLI Customer, he/she shall be eligible for only one discount.\n5.  Conditions and Definitions for Inbuilt Accidental Death Benefit \n  (applicable under Life Plus option): \n  In the unfortunate event of the death of life insured due to an",
+            "automatically be applicable in the 1st policy year on Step Up \n  Option Fees since Step Up Option Fee is a percentage of Premium.\n4.  Additional Discount for Existing Customers:\nst\n  There would be an additional discount of 5% in the 1  policy year, \n  applicable for individual life insured under existing policies, \n  members of group policyholders and employees of Kotak Group \n  who wish to purchase this plan through any distribution channel.\nst",
+            "Term, Premium Payment Term, Distribution Channel \nand the Basic Sum Assured opted for the policy.\nMaximum Premium: No limit, but shall depend on the \nMaximum Basic Sum Assured which is subject to \nunderwriting\nMin \u2013  51,00,000 `\nMax \u2013 No limit, subject to Underwriting Policy\nHowever Accidental Death Benefit payable under Life \nPlus Option shall be subject to a maximum of  1 Crore`\nBasic Sum Assured\nWellness Benefits:\nIn these uncertain times, to keep the Life Insured\u2019s health up to the \nth"
+        ]
+    },
+    "rider_benefits": {
+        "value": "1. **Kotak Critical Illness Plus Benefit Rider**: This rider provides a **Rider Sum Assured** that shall be payable upon the admission of a claim for any one of the **37 covered critical illnesses**, subject to the terms, conditions, definitions, and specific exclusions outlined in the policy.",
+        "page_number": "Not available",
+        "description": "Description of the rider benefits available under the Kotak e-Term policy.",
+        "chunks": [
+            "Rider - 107B020V02.\nThis is a non-participating non-linked life insurance individual pure \nrisk product. For sub-standard lives, extra premium may be charged \nbased on Kotak Mahindra Life Insurance Company\u2019s underwriting \npolicy. The sales brochure gives only the salient features of the plan. \nPlease refer to the Policy Document for specific details on all terms \nand conditions. For more details on riders please read the Rider \nBrochure. \nKotak Mahindra Life Insurance Company Ltd. ; CIN:",
+            "(Optional)\n through Riders*\nIf you feel the insurance cover is not adequate or \nwish to customize the protection, you can do so by \nattaching below mentioned optional Riders to your \nBase Plan on payment of additional premium:\nKotak Critical Illness Plus Benefit Rider (UIN: \n107B020V02): Rider Sum Assured shall be payable \non admission of a claim on any one of the 37 \ncovered critical illness, subject to terms and \nconditions, definitions and specific exclusions",
+            "Enhancing your Options\nAdditional Features Benefits\nConvenient premium \npayment \nterm and modes\nAs per suitability, you can opt for premium payment \nterm (PPT) i.e. regular or limited or single pay, from \navailable options (please refer to \u201cEligibility\u201d \nsection below). \nYou have the option to pay your premiums yearly, \nhalf yearly, quarterly or monthly and can also \nchange the premium payment mode on policy \nanniversary\nAdditional Protection \n(Optional)\n through Riders*",
+            "Base Plan. For more details on the Rider, please refer to the rider  \n  brochure.\n11. Lapse:\n  Regular & Limited Premium Paying policy: The policy shall lapse \n  at the end of the Grace Period, if the due premiums are not \n  received during the Premium Payment Term.\n  Single Premium Paying policy: The policy shall not lapse\n26"
+        ]
+    }
+}

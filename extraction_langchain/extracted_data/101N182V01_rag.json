@@ -1,0 +1,284 @@
+{
+    "company_name": {
+        "value": "HDFC Life Insurance Company Limited",
+        "page_number": "1",
+        "description": "Name of the insurance company",
+        "chunks": null
+    },
+    "product_name": {
+        "value": "HDFC Life Click 2 Protect Elite Plus",
+        "page_number": "1",
+        "description": "Name of the insurance product/policy",
+        "chunks": null
+    },
+    "product_uin": {
+        "value": "101N182V01",
+        "page_number": "1",
+        "description": "Unique Identification Number of the product",
+        "chunks": null
+    },
+    "product_type": {
+        "value": "Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings Life Insurance Plan",
+        "page_number": "1",
+        "description": "Type of the insurance product (e.g., Term, ULIP, Endowment)",
+        "chunks": null
+    },
+    "distribution_channel": {
+        "value": "Online and Offline",
+        "page_number": "1",
+        "description": "Distribution channel for the product (e.g., Online, Offline, Online and Offline, Agent)",
+        "chunks": null
+    },
+    "plan_description": {
+        "value": "1. **Financial Protection**: Provides financial protection to your family in the event of the policyholder's demise.\n2. **Smart Exit Benefit**: Get back all premiums paid with this benefit, which can be exercised in any policy year greater than 25, but not during the last 5 policy years.\n3. **Premium Break Benefit**: Option to defer premiums by up to 12 months, applicable only after completion of 5 policy years for a maximum of 12 consecutive months at a time, with a minimum gap of 5 years between each request.\n4. **Return of Premium Option**: Get back all premiums paid on survival till maturity, ensuring that the policyholder receives their investment back if they outlive the policy term.\n5. **Accelerated Instant Death Benefit**: Provides an instant death benefit of \u20b95 Lakhs with immediate payout on claim intimation, ensuring quick financial support to beneficiaries.",
+        "page_number": "1",
+        "description": "Key features of the HDFC Life Click 2 Protect Elite Plus policy with brief descriptions of each feature.",
+        "chunks": [
+            "Non-Linked, Participating, Individual, Pure Risk Premium, Life / Health rider\nThis Product brochure is indicative of the terms, warranties, conditions and \nexclusions contained in the insurance policy. Please know the associated risk \nand applicable charges from your insurance agent or the intermediary or \npolicy document of the insurer.  ARN: ED/02/25/21468.",
+            "1938 as amended from time to time shall be applicable.\nC)  Tax Benefits\nTax benefits under this plan may be available. Premiums paid by an \nindividual or HUF under this plan and the benefits received from this \npolicy may be eligible for tax benefits as per the applicable sections \nof the Income Tax Act, 1961, as amended from time to time. You are \nrequested to consult your tax advisor for advice on Tax Benefits.\nD)  Cancellation in the Free-Look period: \nIn case as the policyholder you disagree to any policy terms and \nconditions under this product, you have the option of returning the \npolicy to us stating the reasons thereof, within 30 days from the date",
+            "Key Features\nProvides financial protection to \nyour family\nGet back all premiums paid with\nSmart Exit Benefit1\nOption to defer premiums by up to\n12 months with Premium Break Benefit 2\nGet back all premiums paid on survival till\nmaturity with Return of Premium 3 option\nAccelerated instant death benefit of\nINR 5 Lakhs with Immediate Payout on\nClaim Intimation 4\n1This option can be exercised in any policy year greater than 25, but not \nduring the last 5 policy years. \n2 Applicable only after completion of 5 policy years for a maximum of 12 consecu-\ntive months at a time with a minimum gap of 5 years between each request,"
+        ]
+    },
+    "plan_options": {
+        "value": "1. **Base Plan**: This is the fundamental coverage provided under the policy, ensuring life insurance protection for the policyholder. \n\n2. **Return of Premium Option**: This option allows the policyholder to receive a return of **100% of the Total Premiums paid** as a lump sum upon survival till maturity. This option can only be selected at policy inception and is available under specific policy term conditions: \n   - Policy term between 10 and 40 years for Regular Pay and 5 Pay. \n   - Policy term between 15 and 40 years for 10 Pay. \n   - Policy term between 20 and 40 years for Premium Paying Term \u2013 15 years. \n   An additional premium is required for this option, and once chosen, the policyholder cannot opt out of this benefit.\n\n3. **Renewability Option at Maturity**: This option allows the policyholder to renew the policy upon maturity, ensuring continued coverage without the need to reapply for a new policy. \n\n",
+        "page_number": "Not available",
+        "description": "Summary of plan options available under HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "premium over and above that payable for the base plan and he/she \nwill receive a return of 100% of the Total Premiums paid as lump sum, \nupon survival till maturity. \nThis additional option can be chosen only at policy inception and will \nbe available only where:\n\u0081 Policy term is between 10 and 40 years for Regular Pay and 5 Pay. \n\u0081 Policy term is between 15 and 40 years for 10 Pay.\n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \n\u2013 15 years.\nTo avail this option, additional premium shall be payable. Once \nchosen, the policyholder doesn\u2019t have the option to opt out of this \nbenefit.\n3) Renewability Option at Maturity"
+        ]
+    },
+    "terminal_illness_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "other_benefits": {
+        "value": "1. **Option to alter premium frequency**: The policyholder can change the premium payment frequency during the premium payment term.\n2. **Return of Premium (ROP) Option**: If selected, the policyholder pays an additional premium and receives a return of 100% of the Total Premiums paid as a lump sum upon survival till maturity. This option is only available at policy inception and under specific policy term conditions.\n3. **Renewability Option at Maturity**: This option is available for additional options selected.",
+        "page_number": "1",
+        "description": "Additional benefits included in the HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "e) Sum Assured on Maturity is the amount which is guaranteed to \nbecome payable on maturity of the policy, in accordance with the \nterms and conditions of the policy.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will \nbe payable, which will be equal to 100 % of the Total Premiums Paid, if \nReturn of Premium option is selected, Nil otherwise. \nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency \nduring the premium payment term. \n2) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional",
+            "premium over and above that payable for the base plan and he/she \nwill receive a return of 100% of the Total Premiums paid as lump sum, \nupon survival till maturity. \nThis additional option can be chosen only at policy inception and will \nbe available only where:\n\u0081 Policy term is between 10 and 40 years for Regular Pay and 5 Pay. \n\u0081 Policy term is between 15 and 40 years for 10 Pay.\n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \n\u2013 15 years.\nTo avail this option, additional premium shall be payable. Once \nchosen, the policyholder doesn\u2019t have the option to opt out of this \nbenefit.\n3) Renewability Option at Maturity",
+            "for additional options selected.\nc) Sum Assured on Death is the absolute amount of benefit which is \nguaranteed to become payable on death of the life assured in \naccordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health \ncover.\nd) Basic Sum Assured is the amount of sum assured chosen by the \npolicyholder.\nDeath Benefit:\nTotal Premiums Paid: INR 2,58,133 \n0\nOn death of the LIfe Assured \nduring the 7th Policy Year, a \nlumpsum benefit of INR 2,00,00,000\nis paid out to the nominee\n102 3\nPolicy Term \n(30 years)\nAnnualized Premium\nINR 37,794 from\n2nd year onwards\nAnnualized Premium\nof INR 31,369 in First Year \nPolicy Starts",
+            "this period, the Company shall pay the eligible claim under the policy \nafter deducting all the deferred Amount. \nThis benefit option is available subject to the following conditions: \n1. The policyholder shall be required to submit a written request at \nleast 30 days (15 days in case of monthly premium paying mode and \n30 days in case of other modes) in advance each time, the \npolicyholder intends to opt for the above benefit. If a premium \n(including applicable taxes, cesses and levies, etc. if any) remains"
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Death Benefit**: The death benefit is payable as a lump sum if the life assured dies during the policy term. It is the highest of the following options:\n   - **Basic Sum Assured**: The amount of sum assured chosen by the policyholder.\n   - **10 times the Annualized Premium**: This is calculated based on the annual premium amount payable in a year, excluding taxes and other additional premiums.\n   - **105% of Total Premiums Paid**: This includes the total of all premiums received, excluding any extra premium, rider premium, and taxes.\n\n2. **Statistical Details**:\n   - **Total Premiums Paid**: \u20b92,58,133\n   - **Basic Sum Assured**: \u20b92,00,00,000 (this is the amount paid out to the nominee on the death of the life assured during the 7th policy year).\n   - **Annualized Premium**: \u20b937,794 from the 2nd year onwards; \u20b931,369 in the first year.\n\n3. **Additional Options**:\n   - **Smart Exit Benefit**: Get back all premiums paid after 25 years, but not during the last 5 policy years.\n   - **Premium Break Benefit**: Option to defer premiums by up to 12 months after completion of 5 policy years.\n   - **Return of Premium Option**: Get back all premiums paid on survival till maturity, available only at policy inception with additional premium payable.\n   - **Accelerated Instant Death Benefit**: \u20b95 Lakhs with immediate payout on claim intimation.",
+        "page_number": "0",
+        "description": "Summary of death benefit payout/payment options and statistical details from the HDFC Life Click 2 Protect Elite Plus policy document.",
+        "chunks": [
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during \nthe policy term. It is the highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year \nchosen by the policyholder, excluding taxes, rider premiums, \nunderwriting extra premiums and loadings for modal premiums, if \nany.\nb) Total Premiums Paid are the total of all the premiums received, \nexcluding any extra premium, any rider premium and taxes. Where \nadditional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid",
+            "for additional options selected.\nc) Sum Assured on Death is the absolute amount of benefit which is \nguaranteed to become payable on death of the life assured in \naccordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health \ncover.\nd) Basic Sum Assured is the amount of sum assured chosen by the \npolicyholder.\nDeath Benefit:\nTotal Premiums Paid: INR 2,58,133 \n0\nOn death of the LIfe Assured \nduring the 7th Policy Year, a \nlumpsum benefit of INR 2,00,00,000\nis paid out to the nominee\n102 3\nPolicy Term \n(30 years)\nAnnualized Premium\nINR 37,794 from\n2nd year onwards\nAnnualized Premium\nof INR 31,369 in First Year \nPolicy Starts",
+            "Key Features\nProvides financial protection to \nyour family\nGet back all premiums paid with\nSmart Exit Benefit1\nOption to defer premiums by up to\n12 months with Premium Break Benefit 2\nGet back all premiums paid on survival till\nmaturity with Return of Premium 3 option\nAccelerated instant death benefit of\nINR 5 Lakhs with Immediate Payout on\nClaim Intimation 4\n1This option can be exercised in any policy year greater than 25, but not \nduring the last 5 policy years. \n2 Applicable only after completion of 5 policy years for a maximum of 12 consecu-\ntive months at a time with a minimum gap of 5 years between each request,",
+            "premium over and above that payable for the base plan and he/she \nwill receive a return of 100% of the Total Premiums paid as lump sum, \nupon survival till maturity. \nThis additional option can be chosen only at policy inception and will \nbe available only where:\n\u0081 Policy term is between 10 and 40 years for Regular Pay and 5 Pay. \n\u0081 Policy term is between 15 and 40 years for 10 Pay.\n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \n\u2013 15 years.\nTo avail this option, additional premium shall be payable. Once \nchosen, the policyholder doesn\u2019t have the option to opt out of this \nbenefit.\n3) Renewability Option at Maturity"
+        ]
+    },
+    "premium_payment_option": {
+        "value": "Limited Pay: 5-Pay, 10-Pay, 15-Pay & Regular Pay",
+        "page_number": "1",
+        "description": "Different premium payment options available (e.g., Single, Regular, Limited)",
+        "chunks": null
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "1",
+        "description": "Minimum age required to purchase the policy/product (in years)",
+        "chunks": null
+    },
+    "max_age_at_entry": {
+        "value": "45 years",
+        "page_number": "1",
+        "description": "Maximum age allowed for policy/product entry (in years)",
+        "chunks": null
+    },
+    "max_age_at_maturity": {
+        "value": "85 years",
+        "page_number": "1",
+        "description": "Maximum age allowed at policy/product maturity (in years)",
+        "chunks": null
+    },
+    "minimum_sum_assured": {
+        "value": "\u20b950,00,000",
+        "page_number": "1",
+        "description": "Min. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "maximum_sum_assured": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Max. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "minimum_policy_term": {
+        "value": "10 years for 5-Pay & Regular Pay; 15 years for 10-Pay; 20 years for 15-Pay",
+        "page_number": "1",
+        "description": "Minimum policy/product term(in years)",
+        "chunks": null
+    },
+    "maximum_policy_term": {
+        "value": "40 years",
+        "page_number": "1",
+        "description": "Maximum policy/product term (in years)",
+        "chunks": null
+    },
+    "premium_paying_term": {
+        "value": "1. **Regular Pay**: Policy term between 10 and 40 years.\n2. **5 Pay**: Policy term between 10 and 40 years.\n3. **10 Pay**: Policy term between 15 and 40 years.\n4. **Premium Paying Term \u2013 15 years**: Policy term between 20 and 40 years.",
+        "page_number": "1",
+        "description": "Premium Payment Terms (PPT) available for HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "Policy Year PCV Factor\nDuring PPT or if all due premiums have not been paid 30%\nPost PPT if all due premiums have been paid 50%\nThe policyholder has an option to receive Smart Exit Benefit, equal to \nTotal Premiums Paid under the policy. No additional premium is \npayable to avail this option.\nThis option can be exercised by cancelling the policy subject to the \nfollowing conditions:\nThis option can be exercised in any policy year greater than 25, \nbut not during the last 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nThis option shall not be available where:\n\u0081 Return of Premium option has been selected\nSmart Exit Benefit:",
+            "premium over and above that payable for the base plan and he/she \nwill receive a return of 100% of the Total Premiums paid as lump sum, \nupon survival till maturity. \nThis additional option can be chosen only at policy inception and will \nbe available only where:\n\u0081 Policy term is between 10 and 40 years for Regular Pay and 5 Pay. \n\u0081 Policy term is between 15 and 40 years for 10 Pay.\n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \n\u2013 15 years.\nTo avail this option, additional premium shall be payable. Once \nchosen, the policyholder doesn\u2019t have the option to opt out of this \nbenefit.\n3) Renewability Option at Maturity",
+            "subject to a written request at least 30 days (15 days in case of monthly mode \npolicy) in advance, and payment of all outstanding premiums along with next due \npremium.\n3Available on payment of additional premium(s)\n4Applicable for all in force policies after a waiting period of 1 year, with a base sum \nassured of INR 2 crore or more. Claim Payout would be restricted to INR 5 Lakhs. \nRest of the claim amount would be released after completion of investigation.",
+            "The rider PT and PPT shall be consistent with the base policy\u2019s PT and \nPPT. Riders will not be offered if the policy term/premium payment \nterm of the rider exceeds outstanding policy term/ premium payment \nterm under the base policy.\nWhile attaching riders to the base option under the product, it will be \nensured that there is no overlap in benefit offered under different \nriders & base product. In case of an overlap, the rider(s) shall not be \nattached. \nHDFC Life Health \nPlus Rider-Non \nLinked\n101B031V02\nIt is a Non-Linked, Non- \nParticipating/Participating, Pure \nrisk premium, Individual Health \nrider. A lump sum benefit \nequivalent to Rider Sum Assured"
+        ]
+    },
+    "minimum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Minimum annual premium amount  for the policy/product, if applicable",
+        "chunks": null
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Maximum premium amount for the policy/product, if applicable",
+        "chunks": null
+    },
+    "death_benefits": {
+        "value": "Death Benefit is payable as a lump sum if life assured dies during the policy term. It is the highest of: 1) **Basic Sum Assured**; or 2) **10 times the Annualized Premium**; or 3) **105% of Total Premiums Paid**. The **Sum Assured on Death** is guaranteed to become payable on death of the life assured. In this case, on death of the Life Assured during the 7th Policy Year, a lumpsum benefit of \u20b92,00,00,000 is paid out to the nominee.",
+        "page_number": "102",
+        "description": "Details of the death benefits available under the HDFC Life Click 2 Protect Elite Plus policy, including the calculation of the Death Benefit and the Sum Assured on Death.",
+        "chunks": [
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during \nthe policy term. It is the highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year \nchosen by the policyholder, excluding taxes, rider premiums, \nunderwriting extra premiums and loadings for modal premiums, if \nany.\nb) Total Premiums Paid are the total of all the premiums received, \nexcluding any extra premium, any rider premium and taxes. Where \nadditional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid",
+            "for additional options selected.\nc) Sum Assured on Death is the absolute amount of benefit which is \nguaranteed to become payable on death of the life assured in \naccordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health \ncover.\nd) Basic Sum Assured is the amount of sum assured chosen by the \npolicyholder.\nDeath Benefit:\nTotal Premiums Paid: INR 2,58,133 \n0\nOn death of the LIfe Assured \nduring the 7th Policy Year, a \nlumpsum benefit of INR 2,00,00,000\nis paid out to the nominee\n102 3\nPolicy Term \n(30 years)\nAnnualized Premium\nINR 37,794 from\n2nd year onwards\nAnnualized Premium\nof INR 31,369 in First Year \nPolicy Starts",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to \nbecome payable on maturity of the policy, in accordance with the \nterms and conditions of the policy.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will \nbe payable, which will be equal to 100 % of the Total Premiums Paid, if \nReturn of Premium option is selected, Nil otherwise. \nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency \nduring the premium payment term. \n2) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional",
+            "of 1 policy year, from the risk commencement date or revival of the \npolicy and provided the policy is in force , upon receipt of intimation of \ndeath claim (along with the required supporting documents as may \nbe specified from time to time)  an accelerated instant Death Benefit of"
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "1. **Accelerated Instant Death Benefit**: An amount of **INR 5 Lakhs** is payable within **1 working day** from the claim registration date as interim support upon intimation of death claim, provided the policy is in force.  \n2. **Return of Premium Option**: All premiums paid will be returned upon survival till maturity.  \n3. **Premium Break Benefit**: Option to defer premiums by up to **12 months** after completion of **5 policy years**, with a minimum gap of **5 years** between each request.  \n4. In case of death during the premium break period, the eligible claim will be paid after deducting all deferred amounts.",
+        "page_number": "1",
+        "description": "Summary of instant cash benefits or claims available under the HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "of 1 policy year, from the risk commencement date or revival of the \npolicy and provided the policy is in force , upon receipt of intimation of \ndeath claim (along with the required supporting documents as may \nbe specified from time to time)  an accelerated instant Death Benefit of",
+            "Key Features\nProvides financial protection to \nyour family\nGet back all premiums paid with\nSmart Exit Benefit1\nOption to defer premiums by up to\n12 months with Premium Break Benefit 2\nGet back all premiums paid on survival till\nmaturity with Return of Premium 3 option\nAccelerated instant death benefit of\nINR 5 Lakhs with Immediate Payout on\nClaim Intimation 4\n1This option can be exercised in any policy year greater than 25, but not \nduring the last 5 policy years. \n2 Applicable only after completion of 5 policy years for a maximum of 12 consecu-\ntive months at a time with a minimum gap of 5 years between each request,",
+            "INR 5 Lacs will be paid within 1 (one) working day  from the claim \nregistration date as gesture to provide interim support. \nThe remaining sum assured shall be payable post the completion of \nthe claim investigation. \nThe acceleration of immediate claim payout benefit should not be \ninterpreted as acceptance of the claim, the company reserves the \nright to repudiate/reject upon complete evaluation of claim.\nFurther, in case of any discrepancy in the claim investigation resulting \nin the final decision of non-payment of the claim, the Company \nreserves the right to recover the already paid amount.\nIn the event of death of the life insured during the premium break",
+            "this period, the Company shall pay the eligible claim under the policy \nafter deducting all the deferred Amount. \nThis benefit option is available subject to the following conditions: \n1. The policyholder shall be required to submit a written request at \nleast 30 days (15 days in case of monthly premium paying mode and \n30 days in case of other modes) in advance each time, the \npolicyholder intends to opt for the above benefit. If a premium \n(including applicable taxes, cesses and levies, etc. if any) remains"
+        ]
+    },
+    "surrender_benefits": {
+        "value": "1. **Surrender Benefit Calculation**: The surrender benefit is calculated as the **Surrender/Unexpired Risk Premium Value (Surrender Value)**.  \n2. **Guaranteed Surrender Value (GSV)**:  \n   - Acquired immediately upon payment of premium in case of **Single Pay (SP)**.  \n   - Acquired after payment of premiums for at least **2 years** in case of **Limited Pay/Regular Pay**.  \n3. **Special Surrender Value (SSV)**:  \n   - The company may pay a surrender value higher than the GSV in the form of SSV.  \n   - SSV becomes payable after completion of the **first policy year**, provided one full year premium has been received for **Limited/Regular Pay**.  \n4. **Higher Value**: The surrender value will be the higher of **Guaranteed Surrender Value** or **Special Surrender Value**.  \n5. **Policy Cancellation Value**:  \n   - Acquired upon payment of premiums for at least **1 full year** and after completion of the first policy year in case of **Limited Pay**.  \n   - In all other cases, the policy cancellation value is the **Unexpired Risk Premium value**.",
+        "page_number": "1",
+        "description": "Summary of surrender benefits for HDFC Life Click 2 Protect Elite Plus policy, excluding paid-up value and exit options.",
+        "chunks": [
+            "Payable)\n(iii) Surrender benefit shall be calculated as shown below.\nSurrender /Unexpired Risk Premium Value (Surrender Value)\nWhere Return of Premium Option has been selected \n Guaranteed Surrender Value (GSV) gets acquired immediately \nupon payment of premium in case of SP Single Pay and upon \npayment of premiums for at least 2 years in case of Limited \nPay/Regular Pay. \n The Company may pay a surrender value higher than the GSV in the \nform of a Special Surrender Value (SSV).\n SSV shall become payable after completion of first policy year \nprovided one full year premium has been received for \nLimited/Regular Pay.\n Surrender Value will be the higher of Guaranteed Surrender Value",
+            "Smart Exit Benefit:\nbe equal to the yield on 10 Year G-Sec plus 50 basis points.\n Currently, the interest rate used for calculating the expected \npresent value is 7.75% p.a.\n The discount rates shall be reviewed at least once annually and in \ncase of any significant movement in the yields. The revised discount \nrates shall apply to all policies including the policies already sold.\nWhere Return of Premium Option has not been selected\nPolicy cancellation value (i.e. Unexpired Risk Premium value) gets \nacquired upon payment of premiums for at least 1 full year and after \ncompletion of first policy year in case of Limited Pay. In all other",
+            "Key Features\nProvides financial protection to \nyour family\nGet back all premiums paid with\nSmart Exit Benefit1\nOption to defer premiums by up to\n12 months with Premium Break Benefit 2\nGet back all premiums paid on survival till\nmaturity with Return of Premium 3 option\nAccelerated instant death benefit of\nINR 5 Lakhs with Immediate Payout on\nClaim Intimation 4\n1This option can be exercised in any policy year greater than 25, but not \nduring the last 5 policy years. \n2 Applicable only after completion of 5 policy years for a maximum of 12 consecu-\ntive months at a time with a minimum gap of 5 years between each request,",
+            "B)  Exclusions\ni) Suicide : In case of death due to suicide within 12 months from the \nDate of Risk Commencement under the policy or from the date of \nrevival of the policy, as applicable, the nominee or beneficiary of the \npolicyholder shall be entitled to at least 80% of the total premiums \npaid till the date of death or the surrender value available as on the \ndate of death whichever is higher, provided the policy is in force.\nii. Age Admitted : The Company has calculated the Premiums under \nthe Policy on the basis of the age of the Life Assured as declared in \nthe proposal form. In case you have not provided proof of age of the"
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "Surrender Value is the higher of **Guaranteed Surrender Value (GSV)** and **Special Surrender Value (SSV)**. GSV is calculated as **GSV Factor% \u00d7 Total Premiums Paid**. SSV is calculated as the expected present value of paid-up guaranteed future benefits on death, survival/maturity, and accrued/vested benefits, allowing for survival benefits already paid. The discount rate for calculating the expected present value is currently **7.75% p.a.**",
+        "page_number": "Not available",
+        "description": "Details regarding the surrender value/benefit factor for the HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "Payable)\n(iii) Surrender benefit shall be calculated as shown below.\nSurrender /Unexpired Risk Premium Value (Surrender Value)\nWhere Return of Premium Option has been selected \n Guaranteed Surrender Value (GSV) gets acquired immediately \nupon payment of premium in case of SP Single Pay and upon \npayment of premiums for at least 2 years in case of Limited \nPay/Regular Pay. \n The Company may pay a surrender value higher than the GSV in the \nform of a Special Surrender Value (SSV).\n SSV shall become payable after completion of first policy year \nprovided one full year premium has been received for \nLimited/Regular Pay.\n Surrender Value will be the higher of Guaranteed Surrender Value",
+            "(GSV) and Special Surrender Value (SSV), Where,\n GSV = GSV Factor% \u00d7 Total Premiums Paid\n SSV shall be calculated as the expected present value of:\ni) Paid-up guaranteed future benefits on death, survival/maturity and \nii) accrued / vested benefits, duly allowing for survival benefits \nalready paid, if any\nThe discount rate used to calculate the expected present value shall",
+            "Smart Exit Benefit:\nbe equal to the yield on 10 Year G-Sec plus 50 basis points.\n Currently, the interest rate used for calculating the expected \npresent value is 7.75% p.a.\n The discount rates shall be reviewed at least once annually and in \ncase of any significant movement in the yields. The revised discount \nrates shall apply to all policies including the policies already sold.\nWhere Return of Premium Option has not been selected\nPolicy cancellation value (i.e. Unexpired Risk Premium value) gets \nacquired upon payment of premiums for at least 1 full year and after \ncompletion of first policy year in case of Limited Pay. In all other",
+            "cases, the policy lapses on premium discontinuance without any \nvalue.\nPolicy cancellation value (if acquired) shall be payable:\n\u0081 Upon death of the life assured during revival period, or\n\u0081 At the end of the revival period if the policy is not revived \nThe amount payable will be as below:\nPCV Factor \u00d7 Total Premiums Paid\u00d7 Unexpired Policy Term1 \u00f7 Original \nPolicy Term\nWhere, PCV Factor is as follows:\n1 Unexpired Policy Term shall be calculated on the earlier of date of surrender\nand the date till which premiums have been paid."
+        ]
+    },
+    "paid_up_value": {
+        "value": "1. **Paid-Up Value Acquisition**: A policy will acquire a **paid-up value** only if:  \n   - **Return of Premium** is selected with **Limited Pay/Regular Pay**.  \n   - Premiums are paid for at least **1 full year** and after completion of the **first policy year**.  \n\n2. **Lapse Condition**: In all other cases, the policy lapses on premium discontinuance without any **paid-up value**.  \n\n3. **Benefits if Paid-Up Value is Acquired**: If a policy has acquired a **paid-up value** and stops paying premiums:  \n   (i) **Death Benefit** shall be the highest of:  \n   - **Sum Assured on Death** \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable)  \n   - 105% of Total Premiums Paid  \n   (ii) **Maturity Benefit** (where applicable) shall be calculated as:  \n   - **Sum Assured on Maturity** \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable)  \n\n4. **Maturity Benefit**: On survival until maturity, **Sum Assured on Maturity** (if applicable) will be payable, which will be equal to **100% of the Total Premiums Paid**, if **Return of Premium** option is selected, **Nil** otherwise.",
+        "page_number": "1",
+        "description": "Summary of paid-up value and benefits for the HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "Paid-Up\nA policy will acquire a paid-up value only:\n\u0081 Where Return of Premium is selected with Limited Pay/Regular Pay, \nand\n\u0081 When premiums are paid for at least 1 full year and after completion \nof first policy year\n In all other cases, the policy lapses on premium discontinuance \nwithout any paid-up value.\nIf a policy has acquired paid-up value and stops paying premiums:\n(i) Death benefit shall be the highest of:\n\u0081 Sum Assured on Death \u00d7 (Total Premiums Paid \u00f7 Total Premiums \nPayable)\n\u0081 105% of Total Premiums Paid\n(ii) Maturity Benefit (where applicable) shall be calculated as:\n Sum Assured on Maturity \u00d7 (Total Premiums Paid \u00f7 Total Premiums \nPayable)",
+            "benefit.\n3) Renewability Option at Maturity\nAt maturity, the policyholder can choose to extend the term of their \npolicy. The additional premium payable for the extended term will be \nbased on the following:\n\u0081 Attained age at the time of renewability\n\u0081 The chosen increase in policy term\nThe premium rates applicable for renewability shall be guaranteed at \npolicy inception. However, the availability of this option is subject to \nBAUP. This option will be available only where:\n\u0081 Premium payment term is Regular Pay\n\u0081 ROP Option is not selected\n4) Immediate Payout on Claim Intimation\nIn case of death of the life assured, post completion of waiting period",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to \nbecome payable on maturity of the policy, in accordance with the \nterms and conditions of the policy.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will \nbe payable, which will be equal to 100 % of the Total Premiums Paid, if \nReturn of Premium option is selected, Nil otherwise. \nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency \nduring the premium payment term. \n2) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional",
+            "premium over and above that payable for the base plan and he/she \nwill receive a return of 100% of the Total Premiums paid as lump sum, \nupon survival till maturity. \nThis additional option can be chosen only at policy inception and will \nbe available only where:\n\u0081 Policy term is between 10 and 40 years for Regular Pay and 5 Pay. \n\u0081 Policy term is between 15 and 40 years for 10 Pay.\n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \n\u2013 15 years.\nTo avail this option, additional premium shall be payable. Once \nchosen, the policyholder doesn\u2019t have the option to opt out of this \nbenefit.\n3) Renewability Option at Maturity"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "The **paid-up sum assured on death** available for this policy, if the policy has acquired paid-up value and stops paying premiums, shall be the highest of: 1) **Sum Assured on Death** \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable); 2) 105% of **Total Premiums Paid**.",
+        "page_number": "102",
+        "description": "Details regarding the paid-up sum assured on death for the policy.",
+        "chunks": [
+            "for additional options selected.\nc) Sum Assured on Death is the absolute amount of benefit which is \nguaranteed to become payable on death of the life assured in \naccordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health \ncover.\nd) Basic Sum Assured is the amount of sum assured chosen by the \npolicyholder.\nDeath Benefit:\nTotal Premiums Paid: INR 2,58,133 \n0\nOn death of the LIfe Assured \nduring the 7th Policy Year, a \nlumpsum benefit of INR 2,00,00,000\nis paid out to the nominee\n102 3\nPolicy Term \n(30 years)\nAnnualized Premium\nINR 37,794 from\n2nd year onwards\nAnnualized Premium\nof INR 31,369 in First Year \nPolicy Starts",
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during \nthe policy term. It is the highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year \nchosen by the policyholder, excluding taxes, rider premiums, \nunderwriting extra premiums and loadings for modal premiums, if \nany.\nb) Total Premiums Paid are the total of all the premiums received, \nexcluding any extra premium, any rider premium and taxes. Where \nadditional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid",
+            "Paid-Up\nA policy will acquire a paid-up value only:\n\u0081 Where Return of Premium is selected with Limited Pay/Regular Pay, \nand\n\u0081 When premiums are paid for at least 1 full year and after completion \nof first policy year\n In all other cases, the policy lapses on premium discontinuance \nwithout any paid-up value.\nIf a policy has acquired paid-up value and stops paying premiums:\n(i) Death benefit shall be the highest of:\n\u0081 Sum Assured on Death \u00d7 (Total Premiums Paid \u00f7 Total Premiums \nPayable)\n\u0081 105% of Total Premiums Paid\n(ii) Maturity Benefit (where applicable) shall be calculated as:\n Sum Assured on Maturity \u00d7 (Total Premiums Paid \u00f7 Total Premiums \nPayable)",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to \nbecome payable on maturity of the policy, in accordance with the \nterms and conditions of the policy.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will \nbe payable, which will be equal to 100 % of the Total Premiums Paid, if \nReturn of Premium option is selected, Nil otherwise. \nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency \nduring the premium payment term. \n2) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional"
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Smart Exit Benefit**: The policyholder can receive a Smart Exit Benefit equal to the **Total Premiums Paid** under the policy. This option can be exercised in any policy year greater than 25, but not during the last 5 policy years, and the policy must be in-force at the time of exercising this option. No additional premium is payable to avail this option. This option is not available if the **Return of Premium** option has been selected.\n\n2. **Return of Premium Option**: If selected, this option allows the policyholder to get back all premiums paid on survival till maturity. However, this option cannot be combined with the Smart Exit Benefit.\n\n3. **Premium Break Benefit**: The policyholder has the option to defer premiums by up to **12 months** after completion of **5 policy years** for a maximum of 12 consecutive months at a time, with a minimum gap of 5 years between each request.\n\n4. **Renewability Option at Maturity**: At maturity, the policyholder can choose to extend the term of their policy. The additional premium payable for the extended term will be based on the attained age at the time of renewability and the chosen increase in policy term. This option is available only if the **Premium Payment Term** is **Regular Pay** and the **Return of Premium** option is not selected.\n\n5. **Immediate Payout on Claim Intimation**: In case of the death of the life assured, post completion of the waiting period, an accelerated instant death benefit of \u20b95 Lakhs is provided with immediate payout on claim intimation.",
+        "page_number": "1",
+        "description": "Summary of exit values/options/benefits available for the HDFC Life Click 2 Protect Elite Plus policy, excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "Key Features\nProvides financial protection to \nyour family\nGet back all premiums paid with\nSmart Exit Benefit1\nOption to defer premiums by up to\n12 months with Premium Break Benefit 2\nGet back all premiums paid on survival till\nmaturity with Return of Premium 3 option\nAccelerated instant death benefit of\nINR 5 Lakhs with Immediate Payout on\nClaim Intimation 4\n1This option can be exercised in any policy year greater than 25, but not \nduring the last 5 policy years. \n2 Applicable only after completion of 5 policy years for a maximum of 12 consecu-\ntive months at a time with a minimum gap of 5 years between each request,",
+            "Policy Year PCV Factor\nDuring PPT or if all due premiums have not been paid 30%\nPost PPT if all due premiums have been paid 50%\nThe policyholder has an option to receive Smart Exit Benefit, equal to \nTotal Premiums Paid under the policy. No additional premium is \npayable to avail this option.\nThis option can be exercised by cancelling the policy subject to the \nfollowing conditions:\nThis option can be exercised in any policy year greater than 25, \nbut not during the last 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nThis option shall not be available where:\n\u0081 Return of Premium option has been selected\nSmart Exit Benefit:",
+            "Smart Exit Benefit:\nbe equal to the yield on 10 Year G-Sec plus 50 basis points.\n Currently, the interest rate used for calculating the expected \npresent value is 7.75% p.a.\n The discount rates shall be reviewed at least once annually and in \ncase of any significant movement in the yields. The revised discount \nrates shall apply to all policies including the policies already sold.\nWhere Return of Premium Option has not been selected\nPolicy cancellation value (i.e. Unexpired Risk Premium value) gets \nacquired upon payment of premiums for at least 1 full year and after \ncompletion of first policy year in case of Limited Pay. In all other",
+            "benefit.\n3) Renewability Option at Maturity\nAt maturity, the policyholder can choose to extend the term of their \npolicy. The additional premium payable for the extended term will be \nbased on the following:\n\u0081 Attained age at the time of renewability\n\u0081 The chosen increase in policy term\nThe premium rates applicable for renewability shall be guaranteed at \npolicy inception. However, the availability of this option is subject to \nBAUP. This option will be available only where:\n\u0081 Premium payment term is Regular Pay\n\u0081 ROP Option is not selected\n4) Immediate Payout on Claim Intimation\nIn case of death of the life assured, post completion of waiting period"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_online": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_existing_customers": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_salaried": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_high_sum": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Discounts available for high sum assured in the policy",
+        "chunks": [
+            "for additional options selected.\nc) Sum Assured on Death is the absolute amount of benefit which is \nguaranteed to become payable on death of the life assured in \naccordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health \ncover.\nd) Basic Sum Assured is the amount of sum assured chosen by the \npolicyholder.\nDeath Benefit:\nTotal Premiums Paid: INR 2,58,133 \n0\nOn death of the LIfe Assured \nduring the 7th Policy Year, a \nlumpsum benefit of INR 2,00,00,000\nis paid out to the nominee\n102 3\nPolicy Term \n(30 years)\nAnnualized Premium\nINR 37,794 from\n2nd year onwards\nAnnualized Premium\nof INR 31,369 in First Year \nPolicy Starts",
+            "Smart Exit Benefit:\nbe equal to the yield on 10 Year G-Sec plus 50 basis points.\n Currently, the interest rate used for calculating the expected \npresent value is 7.75% p.a.\n The discount rates shall be reviewed at least once annually and in \ncase of any significant movement in the yields. The revised discount \nrates shall apply to all policies including the policies already sold.\nWhere Return of Premium Option has not been selected\nPolicy cancellation value (i.e. Unexpired Risk Premium value) gets \nacquired upon payment of premiums for at least 1 full year and after \ncompletion of first policy year in case of Limited Pay. In all other",
+            "37,794 from second year onwards annually (excluding taxes).Mr. \nBansal passes away in the 7th policy year. His nominee will receive a \nlump sum benefit of INR 2,00,00,000.\nAll ages are expressed as on last birthday. For all ages, risk commences \nfrom the date of inception of the contract.\nMinimum/Maximum premium will be consistent with \nMinimum/Maximum Sum Assured. For non-annual modes, premiums \npaid are calculated as: annual premium multiplied by a conversion \nfactor as given below: \nThe product can also be purchased online via company website.\nEligibility:\nMin. Age at Entry 18 years\nMax. Age at Entry 45 years\nMin. Age at Maturity 28 years\nMax. Age at Maturity 85 years",
+            "B)  Exclusions\ni) Suicide : In case of death due to suicide within 12 months from the \nDate of Risk Commencement under the policy or from the date of \nrevival of the policy, as applicable, the nominee or beneficiary of the \npolicyholder shall be entitled to at least 80% of the total premiums \npaid till the date of death or the surrender value available as on the \ndate of death whichever is higher, provided the policy is in force.\nii. Age Admitted : The Company has calculated the Premiums under \nthe Policy on the basis of the age of the Life Assured as declared in \nthe proposal form. In case you have not provided proof of age of the"
+        ]
+    },
+    "rider_benefits": {
+        "value": "1. **HDFC Life Income Benefit on Accidental Disability Rider**: This rider provides a benefit equal to **1% of Rider Sum Assured per month** for the next **10 years** in the event of an **Accidental Total Permanent Disability**. There is **no maturity benefit** available under this rider.\n\n2. **HDFC Life Protect Plus Rider**: This rider offers a benefit as a proportion of the **Rider Sum Assured** in case of **accidental death** or **partial/total disability**. It is categorized as a **Non-Linked, Non-Participating/Participating, Pure risk premium, Individual Life/Health rider**.\n\n3. **HDFC Life Health Plus Rider**: This rider provides a **lump sum benefit** equivalent to the **Rider Sum Assured** if the **Life Assured** is diagnosed with any of the covered disabilities or any of the **covered 60 Critical Illnesses**. It is also a **Non-Linked, Non-Participating/Participating, Pure risk premium, Individual Health rider**.",
+        "page_number": "null",
+        "description": "Summary of rider benefits under HDFC Life Click 2 Protect Elite Plus policy.",
+        "chunks": [
+            "Rider UIN Scope of Benefits**\nHDFC Life Income \nBenefit on \nAccidental Disability\nRider-Non Linked\nHDFC Life Protect \nPlus Rider-Non \nLinked\n101B041V01\n101B040V01\nIt is a Non-Linked, \nNon-Participating/Participating, \nPure risk premium, Individual Life \nrider. A benefit equal to 1% of Rider \nSum Assured per month for the \nnext 10 years, in case of an \nAccidental Total Permanent \nDisability. There is no maturity \nbenefit available under this rider.\nIt is a Non-Linked, Non- \nParticipating/Participating, Pure risk \npremium, Individual Life/Health \nrider. A benefit as a proportion of \nthe Rider Sum Assured shall be \npayable in case on accidental \ndeath or partial/total disability due",
+            "Non-Linked, Participating, Individual, Pure Risk Premium, Life / Health rider\nThis Product brochure is indicative of the terms, warranties, conditions and \nexclusions contained in the insurance policy. Please know the associated risk \nand applicable charges from your insurance agent or the intermediary or \npolicy document of the insurer.  ARN: ED/02/25/21468.",
+            "The rider PT and PPT shall be consistent with the base policy\u2019s PT and \nPPT. Riders will not be offered if the policy term/premium payment \nterm of the rider exceeds outstanding policy term/ premium payment \nterm under the base policy.\nWhile attaching riders to the base option under the product, it will be \nensured that there is no overlap in benefit offered under different \nriders & base product. In case of an overlap, the rider(s) shall not be \nattached. \nHDFC Life Health \nPlus Rider-Non \nLinked\n101B031V02\nIt is a Non-Linked, Non- \nParticipating/Participating, Pure \nrisk premium, Individual Health \nrider. A lump sum benefit \nequivalent to Rider Sum Assured",
+            "Life Assured being either being \ndiagnosed with any of the covered \ndisability or any of the covered 60 \nCritical Illness\n**For all details on Riders, kindly refer to the Rider Brochures available on \nour website."
+        ]
+    }
+}

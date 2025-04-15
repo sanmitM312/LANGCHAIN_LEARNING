@@ -1,0 +1,271 @@
+{
+    "company_name": {
+        "value": "HDFC Life Insurance Company Limited",
+        "page_number": "1",
+        "description": null,
+        "chunks": []
+    },
+    "product_name": {
+        "value": "HDFC Life Click 2 Protect Elite",
+        "page_number": "1",
+        "description": null,
+        "chunks": []
+    },
+    "product_uin": {
+        "value": "101N176V02",
+        "page_number": "1",
+        "description": null,
+        "chunks": []
+    },
+    "product_type": {
+        "value": "Non-Linked, Non-Participating, Individual, Pure Risk Premium Life Insurance Plan",
+        "page_number": "1",
+        "description": null,
+        "chunks": []
+    },
+    "distribution_channel": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "plan_description": {
+        "value": "Secure your family with a plan designed to protect your way of life. It provides financial protection to your family and offers a Smart Exit Benefit where you can get back all premiums paid.",
+        "page_number": "1",
+        "description": null,
+        "chunks": []
+    },
+    "plan_options": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "terminal_illness_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "other_benefits": {
+        "value": "1. **Option to alter premium frequency**: The policyholder can change the premium payment frequency during the premium payment term.",
+        "page_number": null,
+        "description": "Additional/optional/other benefits included in the policy",
+        "chunks": [
+            "is made in favour of spouse or children or spouse and children whether or not on \nC)  Tax Benefits\nTax benefits under this plan may be available. Premiums paid by an individual or HUF \nunder this plan and the benefits received from this policy may be eligible for tax benefits \nas per the applicable sections of the Income Tax Act, 1961, as amended from time to time. \nYou are requested to consult your tax advisor for advice on Tax Benefits.\nD)  Cancellation in the Free-Look period: \nIn case the policyholder is not agreeable to any policy terms and conditions under this",
+            "c) Basic Sum Assured is an absolute amount of benefit which is guaranteed to be payable \non death chosen by the Policyholder at inception of the Policy. This cover may be \nreduced subsequently as per terms and conditions of the Policy.\nMaturity Benefit:\nNo benefit is payable on survival till end of policy term..\nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium \npayment term. \nNon Payment of Premiums"
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Death Benefit** is payable as a lump sum if the life assured dies during the policy term.\n2. The **Death Benefit** is the highest of the following:\n   - **Basic Sum Assured**\n   - **10 times the Annualized Premium**\n   - **105% of Total Premiums Paid**",
+        "page_number": null,
+        "description": "Death benefit payout/payment options",
+        "chunks": [
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is \nthe highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year, excluding taxes, rider \npremiums, underwriting extra premiums and loadings for modal premiums, if any.\nb) Total Premiums Paid are the total of all the premiums paid under the base product, \nexcluding any extra premium and taxes, if collected explicitly.",
+            "c) Basic Sum Assured is an absolute amount of benefit which is guaranteed to be payable \non death chosen by the Policyholder at inception of the Policy. This cover may be \nreduced subsequently as per terms and conditions of the Policy.\nMaturity Benefit:\nNo benefit is payable on survival till end of policy term..\nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium \npayment term. \nNon Payment of Premiums"
+        ]
+    },
+    "premium_payment_option": {
+        "value": "Limited Pay: 10-Pay and 15-Pay only",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "max_age_at_entry": {
+        "value": "45 years",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "max_age_at_maturity": {
+        "value": "75 years",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "minimum_sum_assured": {
+        "value": "INR 2,00,00,000",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "maximum_sum_assured": {
+        "value": "No maximum limit, subject to Board Approved Underwriting Policy (BAUP)",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "minimum_policy_term": {
+        "value": "15 years for 10-Pay, 20 years for 15-Pay",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "maximum_policy_term": {
+        "value": "40 years, subject to Maturity Age",
+        "page_number": "2",
+        "description": null,
+        "chunks": []
+    },
+    "premium_paying_term": {
+        "value": "The rider PT and PPT shall be consistent with the base policy\u2019s PT and PPT. Riders will not be offered if the policy term/premium payment term of the rider exceeds outstanding policy term/premium payment term under the base policy.",
+        "page_number": null,
+        "description": "Premium payment terms (PPT) available for the policy",
+        "chunks": [
+            "The rider PT and PPT shall be consistent with the base policy\u2019s PT and PPT. Riders will not be \noffered if the policy term/premium payment term of the rider exceeds outstanding policy \nterm/ premium payment term under the base policy.\nWhile attaching riders to the base option under the product, it will be ensured that there is \nno overlap in benefit offered under different riders & base product. In case of an overlap, the \nrider(s) shall not be attached. \nTerms and Conditions\nWe recommend that you read and understand this product brochure & customized",
+            "your protection:\nPolicy Year                                                                                           PCV Factor\nDuring PPT or if all due premiums have not been paid                                                 30%\nPost PPT if all due premiums have been paid                                                              50%\nSmart Exit Benefit:\nRider UIN Scope of Benefits**\nHDFC Life Income Benefit \non Accidental Disability \nRider-Non Linked\nHDFC Life Critical Illness \nPlus Rider \nHDFC Life Protect Plus \nRider-Non Linked\nHDFC Life Health Plus \nRider-Non Linked\n101B041V01",
+            "policy term of 30 years, 10-Pay, and avails a level cover of INR 2,00,00,000 by paying a \npremium of INR 37,614 annually (excluding taxes).Mr. Bansal passes away in the 7th policy \nyear. His nominee will receive a lump sum benefit of INR 2,00,00,000.\nAll ages are expressed as on last birthday. For all ages, risk commences from the date of \ninception of the contract.\nMinimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured. For \nnon-annual modes, premiums paid are calculated as: annual premium multiplied by a \nconversion factor as given below:",
+            "payment term. \nNon Payment of Premiums\nGrace Period is the time provided after the premium due date during which the policy is \nconsidered to be in-force with the risk cover. This plan has a grace period of 30 days for \nyearly, half yearly and quarterly frequencies from the premium due date. The grace \nperiod for monthly frequency is 15 days from the premium due date.\nShould a valid claim arise under the policy during the grace period, but before the \npayment of due premium, we shall still honor the claim. In such cases, the due and unpaid"
+        ]
+    },
+    "minimum_premium": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "death_benefits": {
+        "value": "1. **Death Benefit**: Payable as a lump sum if the life assured dies during the policy term.\n2. **Highest of the following**:\n   - **Basic Sum Assured**: An absolute amount of benefit guaranteed to be payable on death, chosen by the policyholder at inception. This cover may be reduced subsequently as per terms and conditions of the policy.\n   - **10 times the Annualized Premium**: Where the annualized premium is the premium amount payable in a year, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums, if any.\n   - **105% of Total Premiums Paid**: Total of all the premiums paid under the base product, excluding any extra premium and taxes, if collected explicitly.",
+        "page_number": "Not available",
+        "description": "Death benefits available for the policy",
+        "chunks": [
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is \nthe highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year, excluding taxes, rider \npremiums, underwriting extra premiums and loadings for modal premiums, if any.\nb) Total Premiums Paid are the total of all the premiums paid under the base product, \nexcluding any extra premium and taxes, if collected explicitly.",
+            "c) Basic Sum Assured is an absolute amount of benefit which is guaranteed to be payable \non death chosen by the Policyholder at inception of the Policy. This cover may be \nreduced subsequently as per terms and conditions of the Policy.\nMaturity Benefit:\nNo benefit is payable on survival till end of policy term..\nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium \npayment term. \nNon Payment of Premiums",
+            "company.\nB)  Exclusions\ni) Suicide In case of death due to suicide within 12 months from the Date of Risk \nCommencement under the policy or from the date of revival of the policy, as applicable, \nthe nominee or beneficiary of the policyholder shall be entitled to at least 80% of the total \npremiums paid till the date of death or the surrender value available as on the date of \ndeath whichever is higher, provided the policy is in force.\nii. Age Admitted\nThe Company has calculated the Premiums under the Policy on the basis of the age of",
+            "F)  Policy Loan:\nNo Policy Loans are available under this product.\nG) Nomination as per Section 39 of the Insurance Act 1938 as amended from time to      \n      time:\n(1)  The policyholder of a life insurance on his own life may nominate a person or \npersons to whom money secured by the policy shall be paid in the event of his \ndeath. \n(2) Where the nominee is a minor, the policyholder may appoint any person to receive \nthe money secured by the policy in the event of policyholder\u2019s death during the \nminority of the nominee. The manner of appointment to be laid down by the insurer."
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "surrender_benefits": {
+        "value": "1. **Unexpired Risk Premium Value (Surrender Value)**: Acquired immediately upon payment of premiums for at least 1 full year after the completion of the first policy year. In all other cases, the policy lapses on premium discontinuance without any value.\n2. **Policy Cancellation Value (if acquired)**: Payable upon surrendering the policy, calculated as:\n   - **PCV Factor \u00d7 Total Premiums Paid \u00d7 Unexpired Policy Term \u00f7 Original Policy Term**\n   - **PCV Factor** is a specific factor used in the calculation.\n3. **Death Benefit**: In case of death during the revival period or at the end of the revival period if the policy is not revived, the amount payable is calculated using the formula above.\n4. **Suicide Exclusion**: In case of death due to suicide within 12 months, the nominee is entitled to at least 80% of the total premiums paid or the surrender value available, whichever is higher, provided the policy is in force.",
+        "page_number": "Not available",
+        "description": "Surrender benefits for the policy excluding paid-up value and exit options.",
+        "chunks": [
+            "premium for the policy year will be deducted from any benefit payable.\nPaid-Up\nIf You discontinue paying premiums, Your Policy lapses without any paid-up value.\nUnexpired Risk Premium Value (Surrender Value)\nUnexpired Risk Premium Value (Policy cancellation value i.e. Surrender Value) gets \nacquired immediately upon payment of premiums for at least 1 full year after completion \nof first policy year. In all other cases, the policy lapses on premium discontinuance without \nany value.\nPolicy cancellation value (if acquired) shall be payable:",
+            "The policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid \nunder the policy. No additional premium is payable to avail this option.\nThis option can be exercised by cancelling the policy subject to the following conditions:\nThis option can be exercised in any policy year greater than 30, but not during the \nlast 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nRevival\nYou can revive your lapsed policy within the revival period (specified below) subject to",
+            "company.\nB)  Exclusions\ni) Suicide In case of death due to suicide within 12 months from the Date of Risk \nCommencement under the policy or from the date of revival of the policy, as applicable, \nthe nominee or beneficiary of the policyholder shall be entitled to at least 80% of the total \npremiums paid till the date of death or the surrender value available as on the date of \ndeath whichever is higher, provided the policy is in force.\nii. Age Admitted\nThe Company has calculated the Premiums under the Policy on the basis of the age of",
+            "During the policy term, if the policyholder chooses to surrender the policy, or\n     Upon death of the life assured during revival period, or\n     At the end of the revival period if the policy is not revived \nThe amount payable will be as below:\nPCV Factor \u00d7 Total Premiums Paid\u00d7 Unexpired Policy Term\n1 \u00f7 original Policy Term\nWhere, PCV Factor is as follows:\nDeath Benefit:\n1 Unexpired Policy Term shall be calculated on the earlier of date of surrender and the date till which premiums have been paid."
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "**Surrender Value/Benefit Factor**: The surrender value is calculated using the formula: **PCV Factor \u00d7 Total Premiums Paid \u00d7 Unexpired Policy Term \u00f7 Original Policy Term**. The **PCV Factor** is not explicitly provided in the text. The **Unexpired Risk Premium Value** (Surrender Value) is acquired immediately upon payment of premiums for at least 1 full year after the completion of the first policy year. In all other cases, the policy lapses on premium discontinuance without any value.",
+        "page_number": null,
+        "description": "Surrender value/benefit factor for the policy",
+        "chunks": [
+            "During the policy term, if the policyholder chooses to surrender the policy, or\n     Upon death of the life assured during revival period, or\n     At the end of the revival period if the policy is not revived \nThe amount payable will be as below:\nPCV Factor \u00d7 Total Premiums Paid\u00d7 Unexpired Policy Term\n1 \u00f7 original Policy Term\nWhere, PCV Factor is as follows:\nDeath Benefit:\n1 Unexpired Policy Term shall be calculated on the earlier of date of surrender and the date till which premiums have been paid.",
+            "premium for the policy year will be deducted from any benefit payable.\nPaid-Up\nIf You discontinue paying premiums, Your Policy lapses without any paid-up value.\nUnexpired Risk Premium Value (Surrender Value)\nUnexpired Risk Premium Value (Policy cancellation value i.e. Surrender Value) gets \nacquired immediately upon payment of premiums for at least 1 full year after completion \nof first policy year. In all other cases, the policy lapses on premium discontinuance without \nany value.\nPolicy cancellation value (if acquired) shall be payable:",
+            "case is subject to Board Approved Underwriting Policy (BAUP).\nMax. Basic Sum Assured\nTotal Premiums Paid: INR 2,63,298 \n0\nOn death of the LIfe Assured during the 7th Policy\nYear, a lumpsum benefit of INR 2,00,00,000 is paid\nout to the nominee\n12 3\nPolicy Term (30 years)Annualized Premium\nINR 37,614\nPolicy Starts\n4567\nPolicy Terminates\nFrequency\nHalf-yearly\nQuarterly\nMonthly\nConversion Factor\n0.5100\n0.2600\n0.0875",
+            "company.\nB)  Exclusions\ni) Suicide In case of death due to suicide within 12 months from the Date of Risk \nCommencement under the policy or from the date of revival of the policy, as applicable, \nthe nominee or beneficiary of the policyholder shall be entitled to at least 80% of the total \npremiums paid till the date of death or the surrender value available as on the date of \ndeath whichever is higher, provided the policy is in force.\nii. Age Admitted\nThe Company has calculated the Premiums under the Policy on the basis of the age of"
+        ]
+    },
+    "paid_up_value": {
+        "value": "**Paid-Up Value/Benefit**: If you discontinue paying premiums, your policy lapses without any paid-up value.",
+        "page_number": null,
+        "description": "Paid-up value/benefit available for the policy",
+        "chunks": [
+            "premium for the policy year will be deducted from any benefit payable.\nPaid-Up\nIf You discontinue paying premiums, Your Policy lapses without any paid-up value.\nUnexpired Risk Premium Value (Surrender Value)\nUnexpired Risk Premium Value (Policy cancellation value i.e. Surrender Value) gets \nacquired immediately upon payment of premiums for at least 1 full year after completion \nof first policy year. In all other cases, the policy lapses on premium discontinuance without \nany value.\nPolicy cancellation value (if acquired) shall be payable:",
+            "policy term of 30 years, 10-Pay, and avails a level cover of INR 2,00,00,000 by paying a \npremium of INR 37,614 annually (excluding taxes).Mr. Bansal passes away in the 7th policy \nyear. His nominee will receive a lump sum benefit of INR 2,00,00,000.\nAll ages are expressed as on last birthday. For all ages, risk commences from the date of \ninception of the contract.\nMinimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured. For \nnon-annual modes, premiums paid are calculated as: annual premium multiplied by a \nconversion factor as given below:",
+            "The policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid \nunder the policy. No additional premium is payable to avail this option.\nThis option can be exercised by cancelling the policy subject to the following conditions:\nThis option can be exercised in any policy year greater than 30, but not during the \nlast 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nRevival\nYou can revive your lapsed policy within the revival period (specified below) subject to",
+            "case is subject to Board Approved Underwriting Policy (BAUP).\nMax. Basic Sum Assured\nTotal Premiums Paid: INR 2,63,298 \n0\nOn death of the LIfe Assured during the 7th Policy\nYear, a lumpsum benefit of INR 2,00,00,000 is paid\nout to the nominee\n12 3\nPolicy Term (30 years)Annualized Premium\nINR 37,614\nPolicy Starts\n4567\nPolicy Terminates\nFrequency\nHalf-yearly\nQuarterly\nMonthly\nConversion Factor\n0.5100\n0.2600\n0.0875"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Paid-up sum assured on death for the policy",
+        "chunks": [
+            "\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is \nthe highest of:\n      Basic Sum Assured; or\n      10 times the Annualized Premium; or\n      105% of Total Premiums Paid\nWhere, \na) Annualized Premium is the premium amount payable in a year, excluding taxes, rider \npremiums, underwriting extra premiums and loadings for modal premiums, if any.\nb) Total Premiums Paid are the total of all the premiums paid under the base product, \nexcluding any extra premium and taxes, if collected explicitly.",
+            "c) Basic Sum Assured is an absolute amount of benefit which is guaranteed to be payable \non death chosen by the Policyholder at inception of the Policy. This cover may be \nreduced subsequently as per terms and conditions of the Policy.\nMaturity Benefit:\nNo benefit is payable on survival till end of policy term..\nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium \npayment term. \nNon Payment of Premiums",
+            "case is subject to Board Approved Underwriting Policy (BAUP).\nMax. Basic Sum Assured\nTotal Premiums Paid: INR 2,63,298 \n0\nOn death of the LIfe Assured during the 7th Policy\nYear, a lumpsum benefit of INR 2,00,00,000 is paid\nout to the nominee\n12 3\nPolicy Term (30 years)Annualized Premium\nINR 37,614\nPolicy Starts\n4567\nPolicy Terminates\nFrequency\nHalf-yearly\nQuarterly\nMonthly\nConversion Factor\n0.5100\n0.2600\n0.0875",
+            "policy term of 30 years, 10-Pay, and avails a level cover of INR 2,00,00,000 by paying a \npremium of INR 37,614 annually (excluding taxes).Mr. Bansal passes away in the 7th policy \nyear. His nominee will receive a lump sum benefit of INR 2,00,00,000.\nAll ages are expressed as on last birthday. For all ages, risk commences from the date of \ninception of the contract.\nMinimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured. For \nnon-annual modes, premiums paid are calculated as: annual premium multiplied by a \nconversion factor as given below:"
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Smart Exit Benefit**: The policyholder has the option to receive a Smart Exit Benefit, which is equal to the total premiums paid under the policy. This option can be exercised by canceling the policy, subject to the following conditions:\n   - The option can be exercised in any policy year greater than 30, but not during the last 5 policy years.\n   - The policy must be in-force at the time of exercising this option.\n2. **Revival**: The policy can be revived if it has lapsed, within the specified revival period, subject to certain conditions.",
+        "page_number": "Not available",
+        "description": "Exit values/options/benefits available for the policy excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "The policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid \nunder the policy. No additional premium is payable to avail this option.\nThis option can be exercised by cancelling the policy subject to the following conditions:\nThis option can be exercised in any policy year greater than 30, but not during the \nlast 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nRevival\nYou can revive your lapsed policy within the revival period (specified below) subject to",
+            "Key Features\n* This option can be exercised in any policy year greater than 30, but not during the last 5 policy years\nProvides financial \nprotection to \nyour family\nGet back all\npremiums paid with\nSmart Exit Benefit*\nClick 2 Protect Elite\nA Non-Linked, Non-Participating, Individual, Pure Risk Premium Life Insurance Plan\nNEW\nSecure your family with a plan \ndesigned to protect your way of life!",
+            "premium for the policy year will be deducted from any benefit payable.\nPaid-Up\nIf You discontinue paying premiums, Your Policy lapses without any paid-up value.\nUnexpired Risk Premium Value (Surrender Value)\nUnexpired Risk Premium Value (Policy cancellation value i.e. Surrender Value) gets \nacquired immediately upon payment of premiums for at least 1 full year after completion \nof first policy year. In all other cases, the policy lapses on premium discontinuance without \nany value.\nPolicy cancellation value (if acquired) shall be payable:",
+            "your protection:\nPolicy Year                                                                                           PCV Factor\nDuring PPT or if all due premiums have not been paid                                                 30%\nPost PPT if all due premiums have been paid                                                              50%\nSmart Exit Benefit:\nRider UIN Scope of Benefits**\nHDFC Life Income Benefit \non Accidental Disability \nRider-Non Linked\nHDFC Life Critical Illness \nPlus Rider \nHDFC Life Protect Plus \nRider-Non Linked\nHDFC Life Health Plus \nRider-Non Linked\n101B041V01"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "1. **Smart Exit Benefit**: The policyholder has the option to receive a Smart Exit Benefit, which is equal to the Total Premiums Paid under the policy.\n2. **No Additional Premium**: No additional premium is required to avail this option.\n3. **Exercising the Option**: This option can be exercised by cancelling the policy.\n4. **Conditions for Exercising**:\n   - The option can be exercised in any policy year greater than 30.\n   - It cannot be exercised during the last 5 policy years.\n   - The policy must be in-force at the time of exercising this option.",
+        "page_number": "Not available",
+        "description": "Terms and conditions for Smart Exit Benefit",
+        "chunks": [
+            "The policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid \nunder the policy. No additional premium is payable to avail this option.\nThis option can be exercised by cancelling the policy subject to the following conditions:\nThis option can be exercised in any policy year greater than 30, but not during the \nlast 5 policy years, and\nThe policy has to be in-force at the time of exercising this option.\nRevival\nYou can revive your lapsed policy within the revival period (specified below) subject to"
+        ]
+    },
+    "discount_online": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_existing_customers": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_salaried": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_high_sum": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Discounts available for high sum assured in the policy",
+        "chunks": [
+            "c) Basic Sum Assured is an absolute amount of benefit which is guaranteed to be payable \non death chosen by the Policyholder at inception of the Policy. This cover may be \nreduced subsequently as per terms and conditions of the Policy.\nMaturity Benefit:\nNo benefit is payable on survival till end of policy term..\nAdditional benefits available under the Product: \n1) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium \npayment term. \nNon Payment of Premiums",
+            "company.\nB)  Exclusions\ni) Suicide In case of death due to suicide within 12 months from the Date of Risk \nCommencement under the policy or from the date of revival of the policy, as applicable, \nthe nominee or beneficiary of the policyholder shall be entitled to at least 80% of the total \npremiums paid till the date of death or the surrender value available as on the date of \ndeath whichever is higher, provided the policy is in force.\nii. Age Admitted\nThe Company has calculated the Premiums under the Policy on the basis of the age of",
+            "conversion factor as given below:\nThe product can also be purchased online via company website.\nEligibility:\nMin. Age at Entry      18 years\nMax. Age at Entry      45 years\nMin. Age at Maturity      33 years\nMax. Age at Maturity      75 years\nMin. Policy Term      For 10-Pay: 15 Years / For 15-Pay: 20 Years\nMax. Policy Term      40 years, subject to Maturity Age\nPremium Payment Term   Limited Pay: 10-Pay and 15-Pay only\nMin. Basic Sum Assured      INR  2,00,00,000\n        There is no maximum limit. However, the acceptance of any",
+            "policy term of 30 years, 10-Pay, and avails a level cover of INR 2,00,00,000 by paying a \npremium of INR 37,614 annually (excluding taxes).Mr. Bansal passes away in the 7th policy \nyear. His nominee will receive a lump sum benefit of INR 2,00,00,000.\nAll ages are expressed as on last birthday. For all ages, risk commences from the date of \ninception of the contract.\nMinimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured. For \nnon-annual modes, premiums paid are calculated as: annual premium multiplied by a \nconversion factor as given below:"
+        ]
+    },
+    "rider_benefits": {
+        "value": "1. **HDFC Life Income Benefit on Accidental Disability Rider-Non Linked**: Provides a benefit equal to 1% of the Rider Sum Assured per month for the next 10 years in case of Accidental Total Permanent Disability. No maturity benefit is available under this rider.\n\n2. **HDFC Life Critical Illness Plus Rider**: Offers a lump sum benefit equal to the Rider Sum Assured upon diagnosis of any of the 19 Critical Illnesses, provided the insured survives for a specified period. No maturity benefit is available under this rider.\n\n3. **HDFC Life Protect Plus Rider-Non Linked**: Pays a sum benefit equivalent to the Rider Sum Assured on diagnosis of any of the covered 60 Critical Illnesses or a proportionate benefit of the Rider Sum Assured on diagnosis of Early Stage Cancer / Major Cancer, depending on the plan option chosen. No maturity benefit is payable under this rider.\n\n4. **HDFC Life Health Plus Rider-Non Linked**: Not available.",
+        "page_number": "Not available",
+        "description": "Different benefits available to riders under the policy",
+        "chunks": [
+            "sum benefit equivalent to Rider Sum Assured shall \nbe payable on diagnosis of any of the covered 60 \nCritical Illnesses or benefit as a proportionate of \nthe Rider Sum Assured shall be payable on \ndiagnosis of Early Stage Cancer / Major Cancer \ndepending on the plan option chosen. No maturity \nbenefit is payable under this rider.\n**For all details on Riders, kindly refer to the Rider Brochures available on our website.",
+            "Rider-Non Linked\n101B041V01\n101B014V02\n101B040V01\n101B031V02\nIt is a Non-Linked, Non-Participating/Participating, \nPure risk premium, Individual Life rider. A benefit \nequal to 1% of Rider Sum Assured per month for \nthe next 10 years, in case of an Accidental Total \nPermanent Disability. There is no maturity benefit \navailable under this rider.\nIt is a Non-Linked, Non-Participating, Health Rider A \nlump sum benefit equal to the Rider Sum Assured \nshall be payable in case you are diagnosed with \nany of the 19 Critical Illnesses and survive for a",
+            "your protection:\nPolicy Year                                                                                           PCV Factor\nDuring PPT or if all due premiums have not been paid                                                 30%\nPost PPT if all due premiums have been paid                                                              50%\nSmart Exit Benefit:\nRider UIN Scope of Benefits**\nHDFC Life Income Benefit \non Accidental Disability \nRider-Non Linked\nHDFC Life Critical Illness \nPlus Rider \nHDFC Life Protect Plus \nRider-Non Linked\nHDFC Life Health Plus \nRider-Non Linked\n101B041V01",
+            "The rider PT and PPT shall be consistent with the base policy\u2019s PT and PPT. Riders will not be \noffered if the policy term/premium payment term of the rider exceeds outstanding policy \nterm/ premium payment term under the base policy.\nWhile attaching riders to the base option under the product, it will be ensured that there is \nno overlap in benefit offered under different riders & base product. In case of an overlap, the \nrider(s) shall not be attached. \nTerms and Conditions\nWe recommend that you read and understand this product brochure & customized"
+        ]
+    }
+}

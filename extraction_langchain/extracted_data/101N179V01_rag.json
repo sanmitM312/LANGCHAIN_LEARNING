@@ -1,0 +1,279 @@
+{
+    "company_name": {
+        "value": "HDFC Life Insurance Company Limited",
+        "page_number": "1",
+        "description": "Name of the insurance company",
+        "chunks": null
+    },
+    "product_name": {
+        "value": "HDFC Life Click 2 Protect Ultimate",
+        "page_number": "1",
+        "description": "Name of the insurance product/policy",
+        "chunks": null
+    },
+    "product_uin": {
+        "value": "101N179V01",
+        "page_number": "13",
+        "description": "Unique Identification Number of the product",
+        "chunks": null
+    },
+    "product_type": {
+        "value": "Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings Life Insurance Plan",
+        "page_number": "1",
+        "description": "Type of the insurance product (e.g., Term, ULIP, Endowment)",
+        "chunks": null
+    },
+    "distribution_channel": {
+        "value": "Online and Offline",
+        "page_number": "1",
+        "description": "Distribution channel for the product (e.g., Online, Offline, Online and Offline, Agent)",
+        "chunks": null
+    },
+    "plan_description": {
+        "value": "1. **Eligibility**: \n   - **Min. Age at Entry**: 18 years \n   - **Max. Age at Entry**: 50 years \n   - **Min. Age at Maturity**: 18 years \n   - **Max. Age at Maturity**: 85 years \n   - **Min. Policy Term**: \n     - Single Pay: 1 month \n     - Regular Pay: 2 years \n     - Limited Pay: 3 years \n   - **Max. Policy Term**: 40 years \n   - **Min. Basic Sum Assured**: \u20b91,00,00,000 \n   - **Max. Basic Sum Assured**: \u20b93,00,00,000 \n   - **Premium Payment Term**: Single Pay, Regular Pay, Limited Pay \n   - **Premium Payment Frequency**: Monthly, Half-yearly, Quarterly, Annually \n   - All ages are expressed as on last birthday. Risk commences from the date of inception of the contract. Minimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured.\n\n2. **Tax Benefits**: \n   - Tax benefits under this plan may be available. Premiums paid by an individual or HUF under this plan and the benefits received from this policy may be eligible for tax benefits as per the applicable sections of the Income Tax Act, 1961, as amended from time to time. It is advised to consult a tax advisor for advice on Tax Benefits.\n\n3. **Cancellation in the Free-Look Period**: \n   - If the policyholder disagrees with any policy terms and conditions, they have the option to return the policy within 30 days from the date of receipt, stating the reasons for cancellation.",
+        "page_number": "null",
+        "description": "Key features of the HDFC Life Click 2 Protect Ultimate insurance policy with brief descriptions.",
+        "chunks": [
+            "Key Features\nEligibility\n Min. Age at Entry 18 years\n Max. Age at Entry 50 years\n Min. Age at Maturity 18 years\n Max. Age at Maturity 85 years\n Min. Policy Term Single Pay: 1 month\n  Regular Pay: 2 years\n  Limited Pay: 3 years\n Max. Policy Term 40\n Min. Basic Sum Assured INR  1,00,00,000\n Max. Basic Sum Assured INR  3,00,00,000\n Premium Payment Term Single Pay, Regular Pay, Limited Pay\nPremium Payment frequency Monthly, Half-yearly, \n  Quarterly, Annually\nAll ages are expressed as on last birthday. For all ages, risk commences from the date of \ninception of the contract.\nMinimum/Maximum premium will be consistent with Minimum/Maximum Sum Assured.",
+            "D) Tax Benefits\nTax benefits under this plan may be available. Premiums paid by an individual or HUF under this plan \nand the benefits received from this policy may be eligible for tax benefits as per the applicable \nsections of the Income Tax Act, 1961, as amended from time to time. \nYou are requested to consult your tax advisor for advice on Tax Benefits.\nE) Cancellation in the Free-Look period: \nIn case as the policyholder you disagree to any policy terms and conditions under this product, you \nhave the option of returning the policy to us stating the reasons thereof, within 30 days from the"
+        ]
+    },
+    "plan_options": {
+        "value": "1. **Cancellation in the Free-Look Period**: The policyholder can return the policy within 30 days if they disagree with any terms and conditions, stating the reasons for cancellation. The refund will be equal to the discounted value of all future installments due, calculated at the interest rate applicable on the date of termination. No additional premium is required for this option.\n\n2. **Option to Alter Premium Frequency**: The policyholder has the flexibility to change the frequency of premium payments during the premium payment term.\n\n3. **Option to Change Premium Payment Term from Regular Pay to Limited Pay**: This option allows the policyholder to convert outstanding regular premiums into a limited premium payment period available under the product.",
+        "page_number": "D",
+        "description": "Plan options available under HDFC Life Click 2 Protect Ultimate policy",
+        "chunks": [
+            "D) Tax Benefits\nTax benefits under this plan may be available. Premiums paid by an individual or HUF under this plan \nand the benefits received from this policy may be eligible for tax benefits as per the applicable \nsections of the Income Tax Act, 1961, as amended from time to time. \nYou are requested to consult your tax advisor for advice on Tax Benefits.\nE) Cancellation in the Free-Look period: \nIn case as the policyholder you disagree to any policy terms and conditions under this product, you \nhave the option of returning the policy to us stating the reasons thereof, within 30 days from the",
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product."
+        ]
+    },
+    "terminal_illness_benefits": {
+        "value": "1. **Terminal Illness Benefit**: The **Sum Assured on Death**, up to a maximum of \u20b92 Cr., will be accelerated in case of diagnosis of terminal illness during the policy term.\n2. **Waiting Period**: There is a **waiting period of 6 months** from the Policy Risk Commencement Date for the Terminal Illness Benefit. If terminal illness is diagnosed during this period, **no benefit shall be payable**.\n3. **Eligibility**: The Terminal Illness Benefit is **not applicable** to a life assured who is above **80 years of age**.\n4. **Claim Conditions**: Upon payment of the Terminal Illness benefit:\n   a) If the **Death Benefit** at the time of claim is **equal** to the Terminal Illness benefit, the policy will **terminate**.\n   b) If the **Death Benefit** at the time of claim is **greater** than the Terminal Illness benefit, the policy will continue for the balance death benefit.\n5. **Diagnosis Requirement**: A life assured shall be regarded as terminally ill only if diagnosed by **two independent medical practitioners** specializing in treatment of such illness, and it is highly likely to lead to death within **6 months**.",
+        "page_number": "null",
+        "description": "Summary of Terminal Illness benefits under HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "b) If Death Benefit at the time of claim is greater than Terminal Illness benefit, the policy will continue \nfor the balance death benefit. \nPlease note that acceleration of death benefit is not an additional benefit; it only facilitates an earlier \npayment of death benefit on prior diagnosis of terminal illness.\nA life assured shall be regarded as terminally ill only if that life assured is diagnosed as suffering from \na condition which, in the opinion of two independent medical practitioners\u2019 specializing in treatment \nof such illness, is highly likely to lead to death within 6 months. The insured must not be receiving any",
+            "c. Non-disclosure of Cancer\nd. Non-disclosure of auto-immune diseases\nAuto-immune diseases are defined as a group of disorders characterised by an abnormal immune \nresponse where the immune system, which normally protects the body from harmful substances \nsuch as bacteria and viruses, mistakenly attacks its cells and tissues. This results in inflammation \nand damage to various organs and systems in the body\nC) Waiting Period\nThere is a waiting period of 6 months from the Policy Risk Commencement Date for Terminal Illness \nBenefit. In case terminal illness is diagnosed during this period, no benefit shall be payable.\nD) Tax Benefits",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to become payable on maturity of \nthe policy, in accordance with the terms and conditions of the policy.\nTerminal Illness Benefit:\nSum Assured on Death, up to a maximum of Rs. 2 Cr. will be accelerated in case of diagnosis of \nterminal illness during the policy term as mentioned below. The Terminal Illness Benefit is subject to \nWaiting Period condition mentioned in Terms and conditions and is not applicable to a life assured \nwho is above 80 years of age. \nUpon payment of Terminal Illness benefit:\na) If Death Benefit at the time of claim is equal to Terminal Illness benefit, the policy will terminate. Or,"
+        ]
+    },
+    "other_benefits": {
+        "value": "1) **Return of Premium (ROP) Option**: If this option is chosen, the policyholder will have to pay an additional premium over and above that payable for the base plan and will receive a return of 100% of the Total Premiums paid as a lump sum upon survival till maturity. This option can only be chosen at policy inception and is available under specific policy terms. Once chosen, the policyholder cannot opt out of this benefit.\n\n2) **Death Benefit as Instalment Option**: This option allows the policyholder to receive the death benefit in instalments, although specific details regarding the instalment structure are not provided in the excerpt.\n\n3) **Option to Alter Premium Frequency**: The policyholder has the option to alter the premium frequency during the premium payment term.\n\n4) **Option to Change Premium Payment Term**: The policyholder can convert the outstanding regular premiums into any limited premiums period available under the product.",
+        "page_number": "1",
+        "description": "Summary of additional benefits available under the HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product.",
+            "be diagnosed and confirmed by medical practitioners registered with the Indian Medical \nAssociation and approved by the Company. The Company reserves the right for independent \nassessment.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will be payable, which will be \nequal to 100 % of the Total Premiums Paid, if Return of Premium option is selected, Nil otherwise.\nAdditional benefits available under the Product:\n1) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional premium over and above that \npayable for the base plan and he/she will receive a return of 100% of the Total Premiums paid as",
+            "lump sum, upon survival till maturity. \nThis additional option can be chosen only at policy inception and will be available only where:\n\u0081 All policy terms between 10 and 40 years for Single, Regular and 5 Pay. \n\u0081 All policy terms between 15 and 40 years for 6, 7, 8, 10 and 12 Pay. \n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \u2013 15 years.\n\u0081 Policy Term is between 25 and 40 years for Premium Paying Term \u2013 20 years.\n\u0081 Policy Term is between 30 and 40 years for Premium Paying Term \u2013 25 years.\nTo avail this option, additional premium shall be payable. Once chosen, the policyholder doesn\u2019t \nhave the option to opt out of this benefit.\n2) Death benefit as Instalment Option"
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Death Benefit Payout Options**:\n   - **Lump Sum Payment**: The death benefit is payable as a lump sum if the life assured dies during the policy term. It is the higher of:\n     - **Sum Assured on Death**\n     - **105% of Total Premiums Paid**\n\n2. **Sum Assured on Death Details**:\n   - For **Single Pay (SP)**:\n     - Highest of:\n       - **125% of Single Premium**\n       - **Sum Assured on Maturity**\n       - **Basic Sum Assured**\n   - For **Other than Single Pay (Limited Pay and Regular Pay)**:\n     - Highest of:\n       - **10 times of the Annualized Premium**\n       - **Sum Assured on Maturity**\n       - **Basic Sum Assured**\n\n3. **Death Benefit as Instalment Option**:\n   - The nominee can receive full or part of the death benefit in instalments.\n   - **Conditions for Choosing this Option**:\n     - Can be chosen by the policyholder at policy inception or by the nominee at the time of claim.\n     - Can be opted for full or part of death claim proceeds.\n     - Instalments can be taken over a chosen period of **5 to 15 years**.\n     - Instalments are paid in advance based on the frequency chosen (yearly, half-yearly, quarterly, or monthly).",
+        "page_number": "null",
+        "description": "Summary of death benefit payout/payment options for HDFC Life Click 2 Protect Ultimate.",
+        "chunks": [
+            "2) Death benefit as Instalment Option\nIf this option is selected, the nominee will receive full or part of the death benefit in instalments.\nThe conditions for choosing this option:\n\u0081 This option can be chosen by the policyholder at policy inception or by the nominee at the time \nof claim.\n\u0081 This option can be opted for full or part of death claim proceeds payable under the policy.\n\u0081 The instalment can be taken over a chosen period of 5 to 15 years \nThe instalment shall be paid in advance based on the frequency chosen by the nominee or the \npolicyholder, which can be either yearly, half-yearly, quarterly or monthly. The instalment amount",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is the higher of:\n\u0081 Sum Assured on Death \n\u0081 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\u0081 125% of Single Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nSum Assured on Death for Other than Single Pay (Limited Pay and Regular Pay) is the highest of:\n\u0081 10 times of the Annualized Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nWhere, \na) Annualized Premium is the premium amount payable in a year chosen by the policyholder, \nexcluding taxes, rider premiums, underwriting extra premiums and loadings for modal premiums, \nif any.",
+            "lump sum, upon survival till maturity. \nThis additional option can be chosen only at policy inception and will be available only where:\n\u0081 All policy terms between 10 and 40 years for Single, Regular and 5 Pay. \n\u0081 All policy terms between 15 and 40 years for 6, 7, 8, 10 and 12 Pay. \n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \u2013 15 years.\n\u0081 Policy Term is between 25 and 40 years for Premium Paying Term \u2013 20 years.\n\u0081 Policy Term is between 30 and 40 years for Premium Paying Term \u2013 25 years.\nTo avail this option, additional premium shall be payable. Once chosen, the policyholder doesn\u2019t \nhave the option to opt out of this benefit.\n2) Death benefit as Instalment Option"
+        ]
+    },
+    "premium_payment_option": {
+        "value": "Single Pay, Regular Pay, Limited Pay",
+        "page_number": "6",
+        "description": "Different premium payment options available (e.g., Single, Regular, Limited)",
+        "chunks": null
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "6",
+        "description": "Minimum age required to purchase the policy/product (in years)",
+        "chunks": null
+    },
+    "max_age_at_entry": {
+        "value": "50 years",
+        "page_number": "6",
+        "description": "Maximum age allowed for policy/product entry (in years)",
+        "chunks": null
+    },
+    "max_age_at_maturity": {
+        "value": "85 years",
+        "page_number": "6",
+        "description": "Maximum age allowed at policy/product maturity (in years)",
+        "chunks": null
+    },
+    "minimum_sum_assured": {
+        "value": "\u20b91,00,00,000",
+        "page_number": "6",
+        "description": "Min. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "maximum_sum_assured": {
+        "value": "\u20b93,00,00,000",
+        "page_number": "6",
+        "description": "Max. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "minimum_policy_term": {
+        "value": "1 month for Single Pay, 2 years for Regular Pay, 3 years for Limited Pay",
+        "page_number": "6",
+        "description": "Minimum policy/product term(in years)",
+        "chunks": null
+    },
+    "maximum_policy_term": {
+        "value": "40 years",
+        "page_number": "6",
+        "description": "Maximum policy/product term (in years)",
+        "chunks": null
+    },
+    "premium_paying_term": {
+        "value": "1. **Premium Payment Terms (PPT)** available for this policy include:  \n   - **Regular Pay**  \n   - **Limited Pay**  \n   - **5 Pay**  \n   - **6 Pay**  \n   - **7 Pay**  \n   - **8 Pay**  \n   - **10 Pay**  \n   - **12 Pay**  \n   - **15 Pay**  \n   - **20 Pay**  \n   - **25 Pay**  \n   - **30 Pay**  \n   - **40 Pay**  \n\n2. The policyholder can **convert** from **Regular Pay** to **Limited Pay** during the premium payment term.  \n\n3. The **policy terms** available are between **10 and 40 years** for Single, Regular, and 5 Pay, and between **15 and 40 years** for 6, 7, 8, 10, and 12 Pay.  \n\n4. Specific **policy terms** for **Premium Paying Terms** include:  \n   - **20 to 40 years** for **Premium Paying Term \u2013 15 years**  \n   - **25 to 40 years** for **Premium Paying Term \u2013 20 years**  \n   - **30 to 40 years** for **Premium Paying Term \u2013 25 years**  \n\n5. Additional premium is required to avail the option to change the premium payment term from Regular Pay to Limited Pay.  \n\n6. Once the option is chosen, the policyholder cannot opt out of this benefit.",
+        "page_number": "1",
+        "description": "Summary of premium payment terms available for HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "Policy Year PCV Factor\n During PPT or if all due premiums have not been paid 30%\n Post PPT if all due premiums have been paid 50%\n1 If the policyholder has exercised the option to change premium payment term, Total Premiums \nPaid will include premiums paid only from the date of converting to Limited Pay and Original Policy \nTerm will be the outstanding policy term on the date of converting to Limited Pay. \n2 Unexpired Policy Term  shall be calculated on the earlier of date of surrender and the date till \nwhich premiums have been paid.\nSmart Exit Benefit:\nThe policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid** under",
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product.",
+            "lump sum, upon survival till maturity. \nThis additional option can be chosen only at policy inception and will be available only where:\n\u0081 All policy terms between 10 and 40 years for Single, Regular and 5 Pay. \n\u0081 All policy terms between 15 and 40 years for 6, 7, 8, 10 and 12 Pay. \n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \u2013 15 years.\n\u0081 Policy Term is between 25 and 40 years for Premium Paying Term \u2013 20 years.\n\u0081 Policy Term is between 30 and 40 years for Premium Paying Term \u2013 25 years.\nTo avail this option, additional premium shall be payable. Once chosen, the policyholder doesn\u2019t \nhave the option to opt out of this benefit.\n2) Death benefit as Instalment Option"
+        ]
+    },
+    "minimum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Minimum annual premium amount  for the policy/product, if applicable",
+        "chunks": null
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Maximum premium amount for the policy/product, if applicable",
+        "chunks": null
+    },
+    "death_benefits": {
+        "value": "1. **Death Benefit** is payable as a lump sum if the life assured dies during the policy term. It is the higher of:  \n   - **Sum Assured on Death**  \n   - **105% of Total Premiums Paid**  \n\n2. **Sum Assured on Death** for **Single Pay (SP)** is the highest of:  \n   - **125% of Single Premium**  \n   - **Sum Assured on Maturity**  \n   - **Basic Sum Assured**  \n\n3. **Sum Assured on Death** for **Other than Single Pay (Limited Pay and Regular Pay)** is the highest of:  \n   - **10 times of the Annualized Premium**  \n   - **Sum Assured on Maturity**  \n   - **Basic Sum Assured**  \n\n4. **Annualized Premium** is the premium amount payable in a year chosen by the policyholder, excluding taxes, rider premiums, underwriting extra premiums, and loadings for modal premiums, if any.  \n\n5. **Sum Assured on Maturity** is the amount which is guaranteed to become payable on maturity of the policy, in accordance with the terms and conditions of the policy.",
+        "page_number": "1",
+        "description": "Summary of death benefits available under the HDFC Life Click 2 Protect Ultimate policy, including details on Sum Assured on Death.",
+        "chunks": [
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is the higher of:\n\u0081 Sum Assured on Death \n\u0081 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\u0081 125% of Single Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nSum Assured on Death for Other than Single Pay (Limited Pay and Regular Pay) is the highest of:\n\u0081 10 times of the Annualized Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nWhere, \na) Annualized Premium is the premium amount payable in a year chosen by the policyholder, \nexcluding taxes, rider premiums, underwriting extra premiums and loadings for modal premiums, \nif any.",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to become payable on maturity of \nthe policy, in accordance with the terms and conditions of the policy.\nTerminal Illness Benefit:\nSum Assured on Death, up to a maximum of Rs. 2 Cr. will be accelerated in case of diagnosis of \nterminal illness during the policy term as mentioned below. The Terminal Illness Benefit is subject to \nWaiting Period condition mentioned in Terms and conditions and is not applicable to a life assured \nwho is above 80 years of age. \nUpon payment of Terminal Illness benefit:\na) If Death Benefit at the time of claim is equal to Terminal Illness benefit, the policy will terminate. Or,",
+            "if any.\nb) Total Premiums Paid are the total of all the premiums received, excluding any extra premium, any \nrider premium and taxes. Where additional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid for additional options \nselected.\nc) Sum Assured on Death is the absolute amount of benefit which is guaranteed to become payable \non death of the life assured in accordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health cover.\nd) Basic Sum Assured is the amount of sum assured chosen by the policyholder."
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "1. **Life Cover**: The policy provides a death benefit to the beneficiaries if the policyholder passes away, provided the policy is in force and all premiums are paid.  \n2. **Terminal Illness Benefit**: This benefit is available if the policyholder is diagnosed with a terminal illness, with a waiting period of 6 months from the Policy Risk Commencement Date.  \n3. **Return of Premium Option**: This option allows for the return of premiums paid upon the policyholder's death, available upon payment of additional premium(s).",
+        "page_number": "1",
+        "description": "Summary of instant cash benefits or claims available under the HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "A Non-Linked, Non-Participating, Individual, Pure Risk Premium/\nSavings Life Insurance Plan\nNEW\nClick 2 Protect Ultimate\nYour promise to care,\nour assurance1 to protect.\nKey Benefits\nLife Cover\nwith Terminal\nIllness Benefit2\nHassle-Free\nClaim Procedure\nReturn of\nPremium3 Option\n1The policy must be in force on the date of death, with all premiums fully paid, except for the exclusion clauses\n  mentioned in Part F of the policy document. \n2 Terminal Illness Bene\ufb01t has a 6 month waiting period from the Policy Risk Commencement Date.\n3Available upon payment of additional premium(s).\n100%\nCLAIM\nASSURANCE1"
+        ]
+    },
+    "surrender_benefits": {
+        "value": "1. **Surrender Value**: The policy provides a **Surrender Value** which will be the higher of **Guaranteed Surrender Value (GSV)** and **Special Surrender Value (SSV)**.  \n2. **Guaranteed Surrender Value (GSV)**: Calculated as **GSV Factor% \u00d7 Total Premiums Paid**.  \n3. **Special Surrender Value (SSV)**: Becomes payable after the completion of the first policy year, provided one full year premium has been received for Limited/Regular Pay, or immediately upon receipt of single premium for Single Pay. SSV is calculated as the expected present value of:  \n   i) Paid-up guaranteed future benefits on death, survival/maturity  \n   ii) Accrued/vested benefits, allowing for any survival benefits already paid.  \n4. **Policy Year PCV Factor**:  \n   - During Premium Payment Term (PPT) or if all due premiums have not been paid: 30%  \n   - Post PPT if all due premiums have been paid: 50%  \n5. **Total Premiums Paid**: If the policyholder has changed the premium payment term, it will include premiums paid only from the date of conversion to Limited Pay.  \n6. **Unexpired Policy Term**: Calculated on the earlier of the date of surrender and the date till which premiums have been paid.",
+        "page_number": "null",
+        "description": "Summary of surrender benefits for HDFC Life Click 2 Protect Ultimate policy excluding paid-up value and exit options.",
+        "chunks": [
+            "Pay. \nThe Company may pay a surrender value higher than the GSV in the form of a Special Surrender \nValue (SSV).\nSSV shall become payable after completion of first policy year provided one full year premium \nhas been received for Limited/Regular Pay and immediately on the receipt of single premium for \nSingle Pay\nSurrender Value will be the higher of Guaranteed Surrender Value (GSV) and Special Surrender \nValue (SSV), Where,\nGSV = GSV Factor% \u00d7 Total Premiums Paid\nSSV shall be calculated as the expected present value of:\ni) Paid-up guaranteed future benefits on death, survival/maturity and \nii) accrued / vested benefits, duly allowing for survival benefits already paid, if any",
+            "Policy Year PCV Factor\n During PPT or if all due premiums have not been paid 30%\n Post PPT if all due premiums have been paid 50%\n1 If the policyholder has exercised the option to change premium payment term, Total Premiums \nPaid will include premiums paid only from the date of converting to Limited Pay and Original Policy \nTerm will be the outstanding policy term on the date of converting to Limited Pay. \n2 Unexpired Policy Term  shall be calculated on the earlier of date of surrender and the date till \nwhich premiums have been paid.\nSmart Exit Benefit:\nThe policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid** under",
+            "the policy. No additional premium is payable to avail this option.\nThis option can be exercised by cancelling the policy subject to the following conditions:\n\u0081 This option can be exercised in any policy year greater than 25, but not during the last 5 policy \nyears.\n\u0081 The policy has to be in-force at the time of exercising this option.\n\u0081 This option shall not be available where:\n\u0081 Return of Premium option has been selected\n** If the policyholder has exercised the option to change premium payment term, Total Premiums \nPaid will include premiums paid only from the date of converting to Limited Pay.\nRevival"
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "Surrender Value will be the higher of **Guaranteed Surrender Value (GSV)** and **Special Surrender Value (SSV)**. GSV is calculated as **GSV Factor% \u00d7 Total Premiums Paid**. SSV is the expected present value of paid-up guaranteed future benefits on death, survival/maturity, and accrued/vested benefits, allowing for any survival benefits already paid.",
+        "page_number": "5",
+        "description": "Surrender value/benefit factor for the policy",
+        "chunks": [
+            "\u0081 105% of Total Premiums Paid\n(ii) Maturity Benefit (where applicable) shall be calculated as:\nSum Assured on Maturity \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable)\n(iii) Surrender benefit shall be calculated as shown below.\nSurrender / Unexpired Risk Premium Value\nWhere Return of Premium Option has been selected \nGuaranteed Surrender Value (GSV) gets acquired immediately upon payment of premium in case \nof SP Single Pay and upon payment of premiums for at least 2 years in case of Limited Pay/Regular \nHDFC Life Click 2 Protect Ultimate5",
+            "Pay. \nThe Company may pay a surrender value higher than the GSV in the form of a Special Surrender \nValue (SSV).\nSSV shall become payable after completion of first policy year provided one full year premium \nhas been received for Limited/Regular Pay and immediately on the receipt of single premium for \nSingle Pay\nSurrender Value will be the higher of Guaranteed Surrender Value (GSV) and Special Surrender \nValue (SSV), Where,\nGSV = GSV Factor% \u00d7 Total Premiums Paid\nSSV shall be calculated as the expected present value of:\ni) Paid-up guaranteed future benefits on death, survival/maturity and \nii) accrued / vested benefits, duly allowing for survival benefits already paid, if any"
+        ]
+    },
+    "paid_up_value": {
+        "value": "The **paid-up value** for the policy is available only under specific conditions: 1. The **Return of Premium** option must be selected with either **Limited Pay** or **Regular Pay**. 2. Premiums must be paid for at least **1 full year** and after the completion of the **first policy year**. If these conditions are met and the policy stops paying premiums, the **death benefit** will be the highest of: - **Sum Assured on Death** \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable) - 105% of Total Premiums Paid. If the policy does not acquire a paid-up value, it will lapse on premium discontinuance without any paid-up value.",
+        "page_number": "Not available",
+        "description": "Details regarding the paid-up value and conditions for acquiring it under the HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "premium, we shall still honor the claim. In such cases, the due and unpaid premium for the policy \nyear will be deducted from any benefit payable. \nPaid-Up\nA policy will acquire a paid-up value only:\n\u0081 Where Return of Premium is selected with Limited Pay/Regular Pay, and\n\u0081 When premiums are paid for at least 1 full year and after completion of first policy year\nIn all other cases, the policy lapses on premium discontinuance without any paid-up value.\nIf a policy has acquired paid-up value and stops paying premiums:\n(i) Death benefit shall be the highest of:\n\u0081 Sum Assured on Death \u00d7 (Total Premiums Paid \u00f7 Total Premiums Payable)\n\u0081 105% of Total Premiums Paid",
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product.",
+            "be diagnosed and confirmed by medical practitioners registered with the Indian Medical \nAssociation and approved by the Company. The Company reserves the right for independent \nassessment.\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity (if applicable) will be payable, which will be \nequal to 100 % of the Total Premiums Paid, if Return of Premium option is selected, Nil otherwise.\nAdditional benefits available under the Product:\n1) Return of Premium (ROP) Option\nIf this option is chosen, policyholder will have to pay an additional premium over and above that \npayable for the base plan and he/she will receive a return of 100% of the Total Premiums paid as"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Paid-up sum assured on death for the policy is not specified in the provided documents.",
+        "chunks": [
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum if life assured dies during the policy term. It is the higher of:\n\u0081 Sum Assured on Death \n\u0081 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\u0081 125% of Single Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nSum Assured on Death for Other than Single Pay (Limited Pay and Regular Pay) is the highest of:\n\u0081 10 times of the Annualized Premium\n\u0081 Sum Assured on Maturity\n\u0081 Basic Sum Assured\nWhere, \na) Annualized Premium is the premium amount payable in a year chosen by the policyholder, \nexcluding taxes, rider premiums, underwriting extra premiums and loadings for modal premiums, \nif any.",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to become payable on maturity of \nthe policy, in accordance with the terms and conditions of the policy.\nTerminal Illness Benefit:\nSum Assured on Death, up to a maximum of Rs. 2 Cr. will be accelerated in case of diagnosis of \nterminal illness during the policy term as mentioned below. The Terminal Illness Benefit is subject to \nWaiting Period condition mentioned in Terms and conditions and is not applicable to a life assured \nwho is above 80 years of age. \nUpon payment of Terminal Illness benefit:\na) If Death Benefit at the time of claim is equal to Terminal Illness benefit, the policy will terminate. Or,",
+            "if any.\nb) Total Premiums Paid are the total of all the premiums received, excluding any extra premium, any \nrider premium and taxes. Where additional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid for additional options \nselected.\nc) Sum Assured on Death is the absolute amount of benefit which is guaranteed to become payable \non death of the life assured in accordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health cover.\nd) Basic Sum Assured is the amount of sum assured chosen by the policyholder."
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Smart Exit Benefit**: The policyholder has the option to receive a Smart Exit Benefit, which is equal to the Total Premiums Paid or the discounted value of all future instalments due. The interest rate for the discounted value is applicable on the date of termination. No additional premium is payable for this option.\n\n2. **Option to Alter Premium Frequency**: The policyholder can alter the premium frequency during the premium payment term.\n\n3. **Option to Change Premium Payment Term**: The policyholder can convert the outstanding regular premiums into any limited premiums period available under the product.",
+        "page_number": "1",
+        "description": "Exit values/options/benefits available for the policy excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "Policy Year PCV Factor\n During PPT or if all due premiums have not been paid 30%\n Post PPT if all due premiums have been paid 50%\n1 If the policyholder has exercised the option to change premium payment term, Total Premiums \nPaid will include premiums paid only from the date of converting to Limited Pay and Original Policy \nTerm will be the outstanding policy term on the date of converting to Limited Pay. \n2 Unexpired Policy Term  shall be calculated on the earlier of date of surrender and the date till \nwhich premiums have been paid.\nSmart Exit Benefit:\nThe policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid** under",
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product.",
+            "Pay. \nThe Company may pay a surrender value higher than the GSV in the form of a Special Surrender \nValue (SSV).\nSSV shall become payable after completion of first policy year provided one full year premium \nhas been received for Limited/Regular Pay and immediately on the receipt of single premium for \nSingle Pay\nSurrender Value will be the higher of Guaranteed Surrender Value (GSV) and Special Surrender \nValue (SSV), Where,\nGSV = GSV Factor% \u00d7 Total Premiums Paid\nSSV shall be calculated as the expected present value of:\ni) Paid-up guaranteed future benefits on death, survival/maturity and \nii) accrued / vested benefits, duly allowing for survival benefits already paid, if any"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "1. **Smart Exit Benefit**: The policyholder has the option to receive a Smart Exit Benefit, which is equal to the **Total Premiums Paid**.  \n2. **Conditions for Availing Smart Exit Benefit**:  \n   - The Smart Exit Benefit can be exercised at any time during the policy term.  \n   - The benefit is contingent upon the policyholder having paid the premiums as per the policy terms.  \n3. **Death Benefit as Instalment Option**:  \n   - During the **Premium Payment Term (PPT)** or if all due premiums have not been paid, the death benefit is calculated at **30%** of the **Present Cash Value (PCV)** factor.  \n   - Post PPT, if all due premiums have been paid, the death benefit is calculated at **50%** of the PCV factor.  \n4. **Option to Change Premium Payment Term**:  \n   - The policyholder can convert the outstanding regular premiums into any limited premiums period available under the product.  \n   - This option can only be chosen at policy inception and is subject to additional premium payment.  \n   - Once chosen, the policyholder cannot opt out of this benefit.  \n5. **Conditions for Changing Premium Payment Term**:  \n   - The policyholder must adhere to the specified policy terms based on the premium payment options available (e.g., Single, Regular, 5 Pay, etc.).  \n   - The policy terms must fall within the specified ranges for the conversion to be valid (e.g., 10 to 40 years for Single, Regular, and 5 Pay).  \n6. **Unexpired Policy Term**:  \n   - This shall be calculated on the earlier of the date of surrender and the date till which premiums have been paid.  \n7. **Total Premiums Paid**:  \n   - If the policyholder has exercised the option to change the premium payment term, the Total Premiums Paid will include premiums paid only from the date of converting to Limited Pay.  \n   - The Original Policy Term will be the outstanding policy term on the date of converting to Limited Pay.",
+        "page_number": "null",
+        "description": "Summary of exit value/options/benefits terms/conditions for the HDFC Life Click 2 Protect Ultimate policy.",
+        "chunks": [
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product.",
+            "lump sum, upon survival till maturity. \nThis additional option can be chosen only at policy inception and will be available only where:\n\u0081 All policy terms between 10 and 40 years for Single, Regular and 5 Pay. \n\u0081 All policy terms between 15 and 40 years for 6, 7, 8, 10 and 12 Pay. \n\u0081 Policy Term is between 20 and 40 years for Premium Paying Term \u2013 15 years.\n\u0081 Policy Term is between 25 and 40 years for Premium Paying Term \u2013 20 years.\n\u0081 Policy Term is between 30 and 40 years for Premium Paying Term \u2013 25 years.\nTo avail this option, additional premium shall be payable. Once chosen, the policyholder doesn\u2019t \nhave the option to opt out of this benefit.\n2) Death benefit as Instalment Option",
+            "Policy Year PCV Factor\n During PPT or if all due premiums have not been paid 30%\n Post PPT if all due premiums have been paid 50%\n1 If the policyholder has exercised the option to change premium payment term, Total Premiums \nPaid will include premiums paid only from the date of converting to Limited Pay and Original Policy \nTerm will be the outstanding policy term on the date of converting to Limited Pay. \n2 Unexpired Policy Term  shall be calculated on the earlier of date of surrender and the date till \nwhich premiums have been paid.\nSmart Exit Benefit:\nThe policyholder has an option to receive Smart Exit Benefit, equal to Total Premiums Paid** under"
+        ]
+    },
+    "discount_online": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Discounts available in the policy for online channel excluding salaried or existing customers",
+        "chunks": [
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product."
+        ]
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_existing_customers": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_salaried": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Information regarding discounts for salaried customers is not provided in the document excerpts.",
+        "chunks": [
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product."
+        ]
+    },
+    "discount_high_sum": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Discounts for high sum assured in the HDFC Life Click 2 Protect Ultimate policy",
+        "chunks": [
+            "if any.\nb) Total Premiums Paid are the total of all the premiums received, excluding any extra premium, any \nrider premium and taxes. Where additional options have been selected, Total Premiums Paid \nincludes premium paid for base option as well as the premium paid for additional options \nselected.\nc) Sum Assured on Death is the absolute amount of benefit which is guaranteed to become payable \non death of the life assured in accordance with the terms and conditions of the policy or an \nabsolute amount of benefit which is available to meet the health cover.\nd) Basic Sum Assured is the amount of sum assured chosen by the policyholder.",
+            "e) Sum Assured on Maturity is the amount which is guaranteed to become payable on maturity of \nthe policy, in accordance with the terms and conditions of the policy.\nTerminal Illness Benefit:\nSum Assured on Death, up to a maximum of Rs. 2 Cr. will be accelerated in case of diagnosis of \nterminal illness during the policy term as mentioned below. The Terminal Illness Benefit is subject to \nWaiting Period condition mentioned in Terms and conditions and is not applicable to a life assured \nwho is above 80 years of age. \nUpon payment of Terminal Illness benefit:\na) If Death Benefit at the time of claim is equal to Terminal Illness benefit, the policy will terminate. Or,",
+            "equal to the discounted value of all the future instalments due. The interest rate used to calculate \nthe discounted value will be that as applicable on date of termination, using the above mentioned \nformula. \nNo additional premium is payable for this option.\n3) Option to alter premium frequency\nThe policyholder has the option to alter the premium frequency during the premium payment \nterm. \n4) Option to change Premium Payment Term from Regular Pay to Limited Pay\nUnder this option, the policyholder can choose to convert the outstanding regular premiums into \nany limited premiums period available under the product."
+        ]
+    },
+    "rider_benefits": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Information regarding rider benefits under the HDFC Life Click 2 Protect Ultimate policy is not provided in the available documents.",
+        "chunks": [
+            "D) Tax Benefits\nTax benefits under this plan may be available. Premiums paid by an individual or HUF under this plan \nand the benefits received from this policy may be eligible for tax benefits as per the applicable \nsections of the Income Tax Act, 1961, as amended from time to time. \nYou are requested to consult your tax advisor for advice on Tax Benefits.\nE) Cancellation in the Free-Look period: \nIn case as the policyholder you disagree to any policy terms and conditions under this product, you \nhave the option of returning the policy to us stating the reasons thereof, within 30 days from the"
+        ]
+    }
+}

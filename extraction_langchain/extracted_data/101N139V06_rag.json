@@ -1,0 +1,286 @@
+{
+    "company_name": {
+        "value": "HDFC Life Insurance Company Limited",
+        "page_number": "32",
+        "description": "Name of the insurance company",
+        "chunks": null
+    },
+    "product_name": {
+        "value": "HDFC Life Click 2 Protect Life",
+        "page_number": "32",
+        "description": "Name of the insurance product/policy",
+        "chunks": null
+    },
+    "product_uin": {
+        "value": "101N139V06",
+        "page_number": "32",
+        "description": "Unique Identification Number of the product",
+        "chunks": null
+    },
+    "product_type": {
+        "value": "Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings Life Insurance Plan",
+        "page_number": "32",
+        "description": "Type of the insurance product (e.g., Term, ULIP, Endowment)",
+        "chunks": null
+    },
+    "distribution_channel": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "plan_description": {
+        "value": "A Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings Life Insurance Plan that covers COVID-19 claims, offers life cover, critical illness cover, income payouts from age 60, and options to adjust premium payment terms.",
+        "page_number": "1",
+        "description": "Key features of the insurance product",
+        "chunks": null
+    },
+    "plan_options": {
+        "value": "1. **Life & CI Rebalance**: Aims to balance between Death and Critical Illness benefits. Critical Illness cover increases annually with a corresponding reduction in Life Cover. Future premiums are waived on detection of covered Critical Illnesses, and life cover continues.\n\n2. **Life Protect**: Provides a lump sum on the death of the life assured.\n\n3. **Income Plus**: Covers the Life Assured for the entire policy term, provides a lump sum payout on maturity, and regular income starting from age 60.",
+        "page_number": "10",
+        "description": "Plan options available under the HDFC Life Click 2 Protect Life policy with brief descriptions.",
+        "chunks": [
+            "and the life cover continues.\n2. Life Protect -  Under this plan option, a lump sum is provided on death of the life \nassured.\n3. Income Plus - Under this plan option, the Life Assured is covered for the entire policy \nterm and also receives a lump sum payout on maturity along with regular income \nstarting from age 60.\nYou may choose one of the above plan options at inception of the policy. Plan option \nonce selected cannot be changed during the Policy Term. Benefits under each option",
+            "during the policy term. This option will be available only where Life Protect Option has \nbeen selected.\nAn additional premium (over and above the premium payable for the base plan) will be \npayable if this add-on option is chosen.\n4. Alteration of premium payment frequency\nYou have an option to alter the premium payment frequency during the premium payment \nterm without any charge/ fee.\n5. Option to reduce Premium Payment Term from Regular Pay to Limited Pay",
+            "This option will be available only where Premium Paying Term is at least 5 years and Life \nProtect Option with Fixed Term is selected.\nAn additional premium (over and above the premium payable for the base plan) will be \npayable if this add-on option is chosen.\n3. Accidental Death Benefit (ADB) Option \nIf you choose this add-on option, an additional amount equal to 100% of Basic Sum \nAssured will be payable to the Nominee on your (Life Assured\u2019s) death due to accident \n10\nSurvival Benefit:",
+            "You can choose from following 3 plan options \u2013 \n1. Life & CI Rebalance  -  A smart cover which aims to achieve a balance between Death \nand Critical Illness benefit as you go along in your life. Critical Illness cover increases \nat each policy anniversary with corresponding reduction in Life Cover. In addition, all \nfuture premiums are waived off on detection of any of the covered Critical Illnesses \nand the life cover continues."
+        ]
+    },
+    "terminal_illness_benefits": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Terminal illness benefits on diagnosis",
+        "chunks": [
+            "CI Benefit\nPolicy Term (20 \nYears)\nDiagnosis of Critical Illness Policy Terminates\nFuture premiums are waived off\nOn death of the Life \nAssured, a lump sum \nbenefit of `71,00,000 is \npaid out to the Nominee\n05",
+            "maturity of the policy, in accordance with the terms and conditions of the policy.\nBenefit on diagnosis of Critical Illness:\nOn diagnosis of any of the covered critical illnesses, the applicable Critical Illness (CI) SA \nat the time of diagnosis of the disease, will be payable to you.\nIn addition, all future premiums payable under the plan will be waived off and the life \ncover continues.\nPlease refer the section on \u201cCritical Illnesses covered\u201d for list of Critical Illnesses covered",
+            "Exclusions for Critical Illness Benefit\nApart from the disease specific exclusions given along with definitions of diseases \nabove, no benefit will be payable if the critical illness is caused or aggravated directly \nor indirectly by any of the following:\n\u2022 Diagnosis of any of the listed critical illness and/or hospitalization and/or treatment \n(availed or advised) within 90 days of the risk commencement date or reinstatement \ndate whichever is later.",
+            "definitions above, is made available before the death of the life assured.\n\u2022 The insured has to survive 30 days after the 'complete diagnosis' of the defined critical \nillness condition being claimed and subject to fulfilment of policy definitions. Failure to \ndo so entitles the Insurance Company to refuse any claim under this cover.\n\u2022 No payment under Critical Illness benefit would be made if the diagnosis of the"
+        ]
+    },
+    "other_benefits": {
+        "value": "1. **Accidental Death Benefit (ADB) Option**: Provides an additional amount equal to 100% of Basic Sum Assured to the Nominee on the Life Assured\u2019s death due to an accident during the policy term. Requires an additional premium.\n\n2. **Return of Premium (ROP) Option**: Offers a return of 100% of the Total Premiums Paid as a lump sum upon survival until maturity. Available for policy terms between 10 and 40 years for Single, Regular, and 5 Pay, and between 15 and 40 years for 8, 10, and 12 Pay. Requires an additional premium.\n\n3. **Waiver of Premium on CI (WOP CI) Option**: Waives all future premiums if the life assured is diagnosed with any covered critical illnesses. Requires an additional premium.\n\n4. **Alteration of Premium Payment Frequency**: Allows alteration of the premium payment frequency during the premium payment term without any charge/fee.\n\n5. **Option to Reduce Premium Payment Term**: Allows reduction of Premium Payment Term from Regular Pay to Limited Pay.",
+        "page_number": "10",
+        "description": "Additional/optional benefits included in the policy",
+        "chunks": [
+            "This option will be available only where Premium Paying Term is at least 5 years and Life \nProtect Option with Fixed Term is selected.\nAn additional premium (over and above the premium payable for the base plan) will be \npayable if this add-on option is chosen.\n3. Accidental Death Benefit (ADB) Option \nIf you choose this add-on option, an additional amount equal to 100% of Basic Sum \nAssured will be payable to the Nominee on your (Life Assured\u2019s) death due to accident \n10\nSurvival Benefit:",
+            "during the policy term. This option will be available only where Life Protect Option has \nbeen selected.\nAn additional premium (over and above the premium payable for the base plan) will be \npayable if this add-on option is chosen.\n4. Alteration of premium payment frequency\nYou have an option to alter the premium payment frequency during the premium payment \nterm without any charge/ fee.\n5. Option to reduce Premium Payment Term from Regular Pay to Limited Pay",
+            "Add-on benefits available under the Product:\nOption\nLife & CI Rebalance\nLife Protect Fixed Term\nWhole Life\nFixed Term\nWhole LifeIncome Plus\nYes\nNo\nAllowed to opt for ROP option? \n1. Return of Premium (ROP) option\nYou may choose to opt for this benefit under plan option as per below table:\nIf you choose this plan option, you will have to pay an additional premium over and \nabove the premium payable for the base plan option chosen and you will receive a",
+            "return of 100% of the Total Premiums Paid as a lump sum, upon survival until maturity. \nThis add-on option will be available for:\n\uf0a1All policy terms between 10 and 40 years for Single, Regular and 5 Pay.\n\uf0a1 All policy terms between 15 and 40 years for 8, 10 and 12 Pay.\n 2. Waiver of Premium on CI (WOP CI) Option \nIf you choose this add-on option, all future premiums payable under the plan will be \nwaived, if you, the life assured are diagnosed with any of the covered critical illnesses."
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Death Benefit** is payable as a lump sum to the Nominee if the Life Assured dies during the policy term.\n2. The **Death Benefit** is the higher of:\n   - **Sum Assured on Death**\n   - **105% of Total Premiums Paid**\n   - **Life Cover SA**\n3. **Sum Assured on Death** for **Single Pay (SP)** is the highest of:\n   - **125% of Single Premium**\n   - **Sum Assured on Maturity**\n   - **Basic Sum Assured**\n4. **Sum Assured on Death** for other than **Single Pay (Limited Pay and Regular Pay)** is the highest of:\n   - **10 times of the Annualized Premium**\n   - **Sum Assured on Maturity**\n5. The **Death Benefit** is reduced by the total **Survival Benefits** paid out till the date of death.",
+        "page_number": "Not available",
+        "description": "Death benefit payout/payment options",
+        "chunks": [
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die during the \npolicy term. It is the higher of:\n\uf0a1 Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) \nis the highest of:\n\uf0a1 10 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the highest of:\n\uf0a1Sum Assured on Death \n\uf0a1 105% of Total Premiums Paid\n\uf0a1 Life Cover SA\nSum Assured on Death for Single Pay (SP) is the higher of:\n\uf0a1125% of Single Premium\n\uf0a1 Sum Assured on Maturity\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhigher of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\nWhere,",
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured",
+            "income from age 60 onwards along with a lump sum payout on maturity. Monthly \nincome of 0.1% of the Basic Sum Assured shall be paid in arrears, starting from the policy \nanniversary following your 60th birthday and continues until your death or policy \nmaturity, whichever occurs earlier. The Survival Benefits already paid out shall be \ndeducted from the Death Benefit payable to the Nominee.\nYou may choose maturity ages as per the below table, subject to eligibility criteria"
+        ]
+    },
+    "premium_payment_option": {
+        "value": "Single Pay, Regular Pay, Limited Pay (5, 10, 15 pay)",
+        "page_number": "2",
+        "description": "Different premium payment options available (e.g., Single, Regular, Limited)",
+        "chunks": null
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "1",
+        "description": "Minimum age required to purchase the policy/product (in years)",
+        "chunks": null
+    },
+    "max_age_at_entry": {
+        "value": "65 years for non-PoS, 60 years for PoS",
+        "page_number": "1",
+        "description": "Maximum age allowed for policy/product entry (in years)",
+        "chunks": null
+    },
+    "max_age_at_maturity": {
+        "value": "85 years for non-PoS, 65 years for PoS",
+        "page_number": "2",
+        "description": "Maximum age allowed at policy/product maturity (in years)",
+        "chunks": null
+    },
+    "minimum_sum_assured": {
+        "value": "\u20b920,00,000",
+        "page_number": "2",
+        "description": "Min. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "maximum_sum_assured": {
+        "value": "No limit, subject to Board Approved Underwriting Policy (BAUP)",
+        "page_number": "2",
+        "description": "Max. Basic Sum assured for the policy/product",
+        "chunks": null
+    },
+    "minimum_policy_term": {
+        "value": "10 years",
+        "page_number": "2",
+        "description": "Minimum policy/product term(in years)",
+        "chunks": null
+    },
+    "maximum_policy_term": {
+        "value": "40 years",
+        "page_number": "2",
+        "description": "Maximum policy/product term (in years)",
+        "chunks": null
+    },
+    "premium_paying_term": {
+        "value": "1. **Single Pay**\n2. **Limited Pay** (5, 10, 15 pay)\n3. **Regular Pay**",
+        "page_number": "02",
+        "description": "Premium payment terms available for the HDFC Life Click 2 Protect Life policy.",
+        "chunks": [
+            "Premium\nPayment Term\nMin. Basic\nSum Assured\nMax. Basic\nSum Assured\nLimited Pay\n(5, 10, 15 pay)\nSingle Pay, \nLimited Pay\n(5, 10 pay)\nSingle Pay, Regular Pay,\nLimited Pay\n(5 to any PPT less than PT)\n` 20,00,000 ` 50,000\nNo limit, subject to Board Approved\nUnderwriting Policy (BAUP)\n85 years - Age \nat Entry for \nnon-PoS\n65 years - Age \nat Entry for PoS\n02",
+            "during the policy term. This option will be available only where Life Protect Option has \nbeen selected.\nAn additional premium (over and above the premium payable for the base plan) will be \npayable if this add-on option is chosen.\n4. Alteration of premium payment frequency\nYou have an option to alter the premium payment frequency during the premium payment \nterm without any charge/ fee.\n5. Option to reduce Premium Payment Term from Regular Pay to Limited Pay",
+            "policies already sold.\nThe calculation of SSV in the product is in compliance with Clause 4(5) of Schedule I of IRDAI \n(Insurance Products) Regulations, 2024 and clause 26.4 of Master circular on Life Insurance \nProducts. dated 12th June, 2024.\nPolicy Year PCV Factor\nDuring PPT or if all due\npremiums have not\nbeen paid 30%\nPost PPT if all due\npremiums have\nbeen paid 50%\n1If you have exercised the option to change premium payment term, Total Premiums Paid",
+            "Payment Term from \nRegular Pay to Limited Pay\n1. The settlement of Claim would be subject to declaration of all pre-existing medical conditions at the time of \npolicy purchase and in accordance to applicable terms and conditions of policy contract\n* Premium for Life Protect Option, Male Life Assured, Non-Smoker, 25 years of age, Policy term of 30 years, Regular \npay, Annual frequency, exclusive of taxes and levies as applicable. (Annualized Premium of `9214/365=25)"
+        ]
+    },
+    "minimum_premium": {
+        "value": "\u20b959 for Single Pay, \u20b9205 for Annual, \u20b9105 for Half-yearly, \u20b953 for Quarterly, \u20b918 for Monthly",
+        "page_number": "2",
+        "description": "Minimum annual premium amount  for the policy/product, if applicable",
+        "chunks": null
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": "Maximum premium amount for the policy/product, if applicable",
+        "chunks": null
+    },
+    "death_benefits": {
+        "value": "1. **Death Benefit**: Payable as a lump sum to the Nominee if the Life Assured dies during the policy term. It is the higher of:\n   - **Sum Assured on Death**\n   - 105% of **Total Premiums Paid**\n   - **Life Cover SA**\n2. **Sum Assured on Death for Single Pay (SP)**: The higher of:\n   - 125% of **Single Premium**\n   - **Sum Assured on Maturity**\n3. **Sum Assured on Death for other than Single Pay (Limited Pay and Regular Pay)**: The higher of:\n   - 10 times of the **Annualized Premium**\n   - **Sum Assured on Maturity**\n   - **Basic Sum Assured**",
+        "page_number": "Not available",
+        "description": "Enumerated death benefits available for the policy",
+        "chunks": [
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die during the \npolicy term. It is the higher of:\n\uf0a1 Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) \nis the highest of:\n\uf0a1 10 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the highest of:\n\uf0a1Sum Assured on Death \n\uf0a1 105% of Total Premiums Paid\n\uf0a1 Life Cover SA\nSum Assured on Death for Single Pay (SP) is the higher of:\n\uf0a1125% of Single Premium\n\uf0a1 Sum Assured on Maturity\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhigher of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\nWhere,",
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhighest of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSurvival Benefit `1,20,000 p.a.\nAnnualized Premium `5,08,837\nPolicy\nStarts 01234 5 6 1 5 1 6 1 7 1 8 1 9\nPolicy Term (for Whole of Life)\nPolicy Terminates\nOn death of the Life Assured,\na lump sum benefit of `95,20,000 is \npaid out to the Nominee\n09"
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "1. **Lump Sum Benefit on Death**: On the death of the Life Assured, a lump sum benefit of \u20b971,00,000 is paid out to the Nominee.\n2. **Critical Illness Benefit**: Upon diagnosis of a Critical Illness, the policy terminates, and future premiums are waived off.\n3. **Income Plus Option**: Monthly income payouts start from the policy anniversary following the 60th birthday of the Life Assured and continue until death or policy maturity.",
+        "page_number": null,
+        "description": "Instant cash benefits or claims available under the HDFC Life Click 2 Protect Life policy.",
+        "chunks": [
+            "CI Benefit\nPolicy Term (20 \nYears)\nDiagnosis of Critical Illness Policy Terminates\nFuture premiums are waived off\nOn death of the Life \nAssured, a lump sum \nbenefit of `71,00,000 is \npaid out to the Nominee\n05",
+            "^ Available under Life & CI Rebalance option. Critical Illness cover increases at each policy anniversary \nwith corresponding reduction in Life Cover.\n# Available under Income Plus option. Monthly income payouts start from the policy anniversary following \n60th birthday of the Life Assured and continue until death or policy maturity."
+        ]
+    },
+    "surrender_benefits": {
+        "value": "1. **Surrender Benefits** for the **Income Plus Option** or **Return of Premium Option** are determined by the **Unexpired Risk Premium Value**, which is the higher of the **Guaranteed Surrender Value (GSV)** and the **Special Surrender Value (SSV)**.\n\n2. **Unexpired Risk Premium Value** is acquired immediately upon payment of premium in case of **Single Pay** and upon payment of premiums for 2 years in case of **Limited Pay** or **Regular Pay**.\n\n3. **Guaranteed Surrender Value (GSV)** is calculated as **GSV Factor%** multiplied by **Total Premiums Paid** minus **Survival Benefits** or **ROP instalment Already Paid**. The GSV will be floored to 0.\n\n4. The company may pay a surrender value higher than the GSV in the form of a **Special Surrender Value (SSV)**.\n\n5. **SSV** becomes payable after the completion of the first policy year provided one full year premium is paid.",
+        "page_number": "11",
+        "description": "Surrender benefits for the policy excluding paid-up value and exit options.",
+        "chunks": [
+            "rity and survival benefits, whether ROP benefit has been selected or not, will be reduced \nas follows:\nSurrender\nFor Income Plus Option or Return of Premium Option:\nUnexpired Risk Premium Value will be the higher of Guaranteed Surrender Value (GSV) \nand Special Surrender Value (SSV). \nUnexpired Risk Premium Value gets acquired immediately upon payment of Premium in \ncase of Single Pay and upon payment of Premiums for 2 years in case of Limited Pay or \nRegular Pay. Where,\nNon Payment of Premiums",
+            "Regular Pay. Where,\nNon Payment of Premiums\nPaid-up benefit = In-force benefit x Total Premiums Paid\nTotal Premiums Payable\nGSV = GSV Factor% x Total Premiums Paid - Survival Benefits or ROP instalment Already Paid\nThe GSV will be floored to 0.\nThe Company may pay a surrender value higher than the GSV in the form of a Special\nSurrender Value (SSV).\n11\nSSV shall become payable after completion of first policy year provided one full year pre-",
+            "return of 100% of the Total Premiums Paid as a lump sum, upon survival until maturity. \nThis add-on option will be available for:\n\uf0a1All policy terms between 10 and 40 years for Single, Regular and 5 Pay.\n\uf0a1 All policy terms between 15 and 40 years for 8, 10 and 12 Pay.\n 2. Waiver of Premium on CI (WOP CI) Option \nIf you choose this add-on option, all future premiums payable under the plan will be \nwaived, if you, the life assured are diagnosed with any of the covered critical illnesses.",
+            "premiums paid till the date of death or the surrender value available as on the date \nof death whichever is higher, provided the policy is in force.\nii)  Age Admitted\nThe Company has calculated the Premiums under the Policy on the basis of the age \nof the Life Assured as declared in the Proposal. In case You have not provided proof of \nage of the Life Assured with the Proposal, you will be required to furnish such proof of"
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "1. **Policy Cancellation Value (PCV)**: Acquired immediately upon payment of premium in case of Single Pay (SP) and upon payment of premiums for at least 1 full year and after completion of the first policy year in case of Limited Pay (LP).\n\n2. **Guaranteed Surrender Value (GSV)**: Calculated as GSV Factor% x Total Premiums Paid - Survival Benefits or Return of Premium (ROP) installment already paid. The GSV will be floored to 0.\n\n3. **Special Surrender Value (SSV)**: May be paid by the company if it is higher than the GSV. SSV becomes payable after completion of the first policy year provided one full year premium is paid.",
+        "page_number": "11",
+        "description": "Surrender value/benefit factor for the policy",
+        "chunks": [
+            "10\nSurvival Benefit:\nOn your survival during the policy term provided all due premiums have been paid, an \nincome equal to 0.1% of Basic Sum Assured will be payable to you at the end of every \nmonth, following policy anniversary after your attaining age 60 years, until death or end \nof the policy term, whichever occurs first.\nMaturity Benefit:\nFor Fixed Term: \nOn Survival until Maturity, Sum Assured on Maturity will be payable.",
+            "PCV Factor  x Total Premium Paid X Max (100- age at Surrender, 0)\n100- age at Entry\nPCV factor  x Total Premiums Paid x \nAmount payable for Regular Premium = Nil\nWhere, PCV Factor is as follows:\nUnexpired Policy Term \nOriginal Policy Term\nPolicy Cancellation Value\nPolicy cancellation value gets acquired immediately upon payment of premium in case of \nSP and upon payment of premiums for at least 1 full year and after completion of first policy \nyearin case of LP.",
+            "Regular Pay. Where,\nNon Payment of Premiums\nPaid-up benefit = In-force benefit x Total Premiums Paid\nTotal Premiums Payable\nGSV = GSV Factor% x Total Premiums Paid - Survival Benefits or ROP instalment Already Paid\nThe GSV will be floored to 0.\nThe Company may pay a surrender value higher than the GSV in the form of a Special\nSurrender Value (SSV).\n11\nSSV shall become payable after completion of first policy year provided one full year pre-",
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured"
+        ]
+    },
+    "paid_up_value": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Paid-up value/benefit for the policy",
+        "chunks": [
+            "10\nSurvival Benefit:\nOn your survival during the policy term provided all due premiums have been paid, an \nincome equal to 0.1% of Basic Sum Assured will be payable to you at the end of every \nmonth, following policy anniversary after your attaining age 60 years, until death or end \nof the policy term, whichever occurs first.\nMaturity Benefit:\nFor Fixed Term: \nOn Survival until Maturity, Sum Assured on Maturity will be payable.",
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured",
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhighest of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSurvival Benefit `1,20,000 p.a.\nAnnualized Premium `5,08,837\nPolicy\nStarts 01234 5 6 1 5 1 6 1 7 1 8 1 9\nPolicy Term (for Whole of Life)\nPolicy Terminates\nOn death of the Life Assured,\na lump sum benefit of `95,20,000 is \npaid out to the Nominee\n09",
+            "CI Benefit\nPolicy Term (20 \nYears)\nDiagnosis of Critical Illness Policy Terminates\nFuture premiums are waived off\nOn death of the Life \nAssured, a lump sum \nbenefit of `71,00,000 is \npaid out to the Nominee\n05"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Paid-up sum assured on death",
+        "chunks": [
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured",
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhighest of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSurvival Benefit `1,20,000 p.a.\nAnnualized Premium `5,08,837\nPolicy\nStarts 01234 5 6 1 5 1 6 1 7 1 8 1 9\nPolicy Term (for Whole of Life)\nPolicy Terminates\nOn death of the Life Assured,\na lump sum benefit of `95,20,000 is \npaid out to the Nominee\n09",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die during the \npolicy term. It is the higher of:\n\uf0a1 Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) \nis the highest of:\n\uf0a1 10 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity",
+            "Death Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the highest of:\n\uf0a1Sum Assured on Death \n\uf0a1 105% of Total Premiums Paid\n\uf0a1 Life Cover SA\nSum Assured on Death for Single Pay (SP) is the higher of:\n\uf0a1125% of Single Premium\n\uf0a1 Sum Assured on Maturity\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhigher of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\nWhere,"
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Return of Premium (ROP) Benefit**: Offers a return of 100% of the Total Premiums Paid as a lump sum upon survival until maturity. This option is available for all policy terms between 10 and 40 years for Single, Regular, and 5 Pay, and between 15 and 40 years for 8, 10, and 12 Pay.\n\n2. **Waiver of Premium on Critical Illness (WOP CI) Option**: If the life assured is diagnosed with any covered critical illnesses, all future premiums payable under the plan will be waived.\n\n3. **Income Plus Option**: Provides life cover for the chosen policy term and regular monthly income.",
+        "page_number": "Not available",
+        "description": "Exit values/options/benefits available for the policy excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "future prospects or returns.\n(2) Please know the associated risks and the applicable charges, from your Insurance \nagent or the Intermediary or policy document issued by insurance company.\nB) Exclusions\n i) Suicide Exclusion\n In case of death due to suicide within 12 months from the date of commencement of \nrisk under the policy or from the date of revival of the policy, as applicable, the \nnominee or beneficiary of the policyholder shall be entitled to at least 80% of the total",
+            "rity and survival benefits, whether ROP benefit has been selected or not, will be reduced \nas follows:\nSurrender\nFor Income Plus Option or Return of Premium Option:\nUnexpired Risk Premium Value will be the higher of Guaranteed Surrender Value (GSV) \nand Special Surrender Value (SSV). \nUnexpired Risk Premium Value gets acquired immediately upon payment of Premium in \ncase of Single Pay and upon payment of Premiums for 2 years in case of Limited Pay or \nRegular Pay. Where,\nNon Payment of Premiums",
+            "return of 100% of the Total Premiums Paid as a lump sum, upon survival until maturity. \nThis add-on option will be available for:\n\uf0a1All policy terms between 10 and 40 years for Single, Regular and 5 Pay.\n\uf0a1 All policy terms between 15 and 40 years for 8, 10 and 12 Pay.\n 2. Waiver of Premium on CI (WOP CI) Option \nIf you choose this add-on option, all future premiums payable under the plan will be \nwaived, if you, the life assured are diagnosed with any of the covered critical illnesses.",
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity will be payable. \nSum Assured on Maturity will be equal to the Total Premiums Paid if ROP benefit is select-\ned, Nil otherwise.\nUpon the pay ment of death or maturity benefit as above, the policy terminates and no \nfurther benefits are payable.\n3. Income Plus\nThis option provides you with a life cover for the chosen policy term and regular monthly"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_online": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_existing_customers": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_salaried": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_high_sum": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Discounts available for high sum assured in the policy",
+        "chunks": [
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSum Assured on Death for other than Single Pay (Limited Pay and Regular Pay) is the \nhighest of:\n\uf0a110 times of the Annualized Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nSurvival Benefit `1,20,000 p.a.\nAnnualized Premium `5,08,837\nPolicy\nStarts 01234 5 6 1 5 1 6 1 7 1 8 1 9\nPolicy Term (for Whole of Life)\nPolicy Terminates\nOn death of the Life Assured,\na lump sum benefit of `95,20,000 is \npaid out to the Nominee\n09",
+            "death benefit of `95,20,000.\nTotal Premiums Paid: `25,44,185\nDeath Benefit:\n\u201cDeath Benefit\u201d is payable as a lump sum to your Nominee if you, the Life Assured die \nduring the policy term. It is the higher of:\n\uf0a1Sum Assured on Death\n\uf0a1 105% of Total Premiums Paid\nless total Survival Benefits paid out till  the date of death\nSum Assured on Death for Single Pay (SP) is the highest of:\n\uf0a1 125% of Single Premium\n\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured",
+            "Life Assured eligible for the Policy, the difference between the revised Premium, as per \nthe Correct Age and the original Premium, with interest, will be due on the next Policy \nAnniversary date and the revised Premium will continue for the rest of the Premium \nPayment Term.  The provisions of Section 45 of the Insurance Act, 1938 as amended \nfrom time to time shall be applicable.\niii) Exclusions for Accidental Death benefit",
+            "\uf0a1 Sum Assured on Maturity\n\uf0a1 Basic Sum Assured\nMaturity Benefit:\nOn survival until Maturity, Sum Assured on Maturity will be payable. \nSum Assured on Maturity will be equal to the Total Premiums Paid if ROP benefit is select-\ned, Nil otherwise.\nUpon the pay ment of death or maturity benefit as above, the policy terminates and no \nfurther benefits are payable.\n3. Income Plus\nThis option provides you with a life cover for the chosen policy term and regular monthly"
+        ]
+    },
+    "rider_benefits": {
+        "value": "1. **HDFC Life Health Plus Rider**: This is a Non-Linked, Non-Participating/Participating, Pure risk premium, Individual Health rider. It provides a **lump sum benefit** equivalent to the Rider Sum Assured upon diagnosis of any of the covered 60 Critical Illnesses. Alternatively, a **proportionate benefit** of the Rider Sum Assured is payable.\n\n2. **HDFC Life Income Benefit on Accidental Disability Rider**: This is a Non-Linked, Non-Participating/Participating, Pure risk premium, Individual Life/Health rider. It offers a **proportionate benefit** of the Rider Sum Assured in case of accidental death or partial/total disability due to an accident. Additionally, it provides a benefit if diagnosed with cancer, as per the option chosen under this rider. **No maturity benefit** is payable under this rider.",
+        "page_number": "13",
+        "description": "Different benefits available to riders under the policy",
+        "chunks": [
+            "Critical Illnesses covered \n**For all details on Riders, kindly refer to the Rider Brochures available on our website.\nRider\nHDFC Life Health\nPlus Rider \n\u2013 Non Linked\n101B031V02\nUIN Scope of Benefits**\nIt is a Non-Linked, Non- Participating/Participating, \nPure risk premium, Individual Health rider. \nA lump sum benefit equivalent to Rider Sum \nAssured shall be payable on diagnosis of any of \nthe covered 60 Critical Illnesses or benefit as a \nproportionate of the Rider Sum Assured shall be",
+            "25th August each year. Any change on basis of determination of interest rate for revival \nwill be done only after prior approval of the Authority.\nOnce the policy is revived, you are entitled to receive all contractual benefits.\nWe offer the following Rider options (as modified from time to time) to help you enhance \nyour protection:\n**For all details on Riders, kindly refer to the Rider Brochures available on our website.\nRider\nHDFC Life Income\nBenefit on Accidental\nDisability Rider",
+            "maturity benefit available under this rider.\n101B040V01 It is a Non-Linked, Non- Participating/Participating, \nPure risk premium, Individual Life/Health rider. \nA benefit as a proportion of the Rider Sum Assured \nshall be payable in case on accidental death or \npartial/total disability due to accident or if you are \ndiagnosed with cancer as per the option chosen \nunder this rider. No maturity benefit is payable \nunder this rider.\n13\nPlease note:",
+            "HDFC Life Health Plus Rider \u2013 Non Linked (UIN: 101B031V02) is a Non-Linked, Non- \nParticipating/Participating, Pure risk premium, Individual Health rider. \nThis Product brochure is indicative of the terms, warranties, conditions and exclusions contained in the \ninsurance policy.\nPlease know the associated risk and applicable charges from your insurance agent or the intermediary or \nthe policy document of the insurer. ARN: PP/10/24/17170."
+        ]
+    }
+}

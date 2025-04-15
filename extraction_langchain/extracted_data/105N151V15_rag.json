@@ -1,0 +1,312 @@
+{
+    "company_name": {
+        "value": "ICICI Prudential Life Insurance Company Limited",
+        "page_number": "1",
+        "description": "Joint venture between ICICI Bank Limited and Prudential Corporation Holdings Limited.",
+        "chunks": []
+    },
+    "product_name": {
+        "value": "ICICI Pru iProtect Smart",
+        "page_number": "1",
+        "description": "A flexible term insurance plan that provides coverage against death, terminal illness, and disability.",
+        "chunks": []
+    },
+    "product_uin": {
+        "value": "105N151V15",
+        "page_number": "1",
+        "description": "Unique Identification Number for the product.",
+        "chunks": []
+    },
+    "product_type": {
+        "value": "Term Insurance",
+        "page_number": "1",
+        "description": "A type of insurance that provides coverage for a specified term.",
+        "chunks": []
+    },
+    "distribution_channel": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "plan_description": {
+        "value": "A comprehensive insurance plan that offers various benefits including death benefit, terminal illness cover, and critical illness cover.",
+        "page_number": "1",
+        "description": "The plan allows customization of coverage options to suit individual needs.",
+        "chunks": []
+    },
+    "plan_options": {
+        "value": "1. **Life Option**: This plan provides basic coverage including **Death Benefit**, **Terminal Illness**, and **Waiver of Premium** on permanent disability.\n2. **Life Plus Option**: This option includes all benefits of the **Life Option** plus an additional **Accidental Death Benefit**.\n3. **Life & Health Option**: This plan offers the benefits of the **Life Option** along with an **Accelerated Critical Illness Benefit**.\n4. **All in One Option**: This comprehensive plan includes all benefits from the previous options, providing extensive coverage with **Death Benefit**, **Terminal Illness**, **Waiver of Premium** on permanent disability, and more.",
+        "page_number": "null",
+        "description": "Summary of the plan options available under the ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "How does this plan protect you\nYou can choose your level of protection by selecting one of the below bene\ufb01t options:\nBene\ufb01t Option     Bene\ufb01ts\nLife Death Bene\ufb01t + Terminal Illness + Waiver of Premium on permanent disability \nLife Plus  Death Bene\ufb01t + Terminal Illness + Waiver of Premium on permanent disability \n + Accidental Death Bene\ufb01t\nLife & Health Death Bene\ufb01t + Terminal Illness + Waiver of Premium on permanent disability \n + Accelerated Critical Illness Bene\ufb01t\nAll in One Death Bene\ufb01t + Terminal Illness + Waiver of Premium on permanent disability"
+        ]
+    },
+    "terminal_illness_benefits": {
+        "value": "1. **Death Benefit**: The policy pays a **Death Benefit** to the nominee/legal heir upon the first occurrence of either:\n   - **Death of the Life Assured**, or\n   - **Diagnosis of Terminal Illness**.\n   The policy terminates upon payment of this benefit.\n\n2. **Life Option**: For the **Life Option**, the **Death Benefit** is payable as follows:\n   - **Single Pay**: Higher of:\n     - 125% of the Single Premium, or \n     - Sum Assured chosen by you.\n   - **Regular Pay and Limited Pay**: Higher of:\n     - 7 times the annualized premium, or \n     - 105% of the total premiums paid up to the date of death or diagnosis of terminal illness, or \n     - Sum Assured chosen by you.\n\n3. **Terminal Illness Definition**: A Life Assured is considered **Terminally Ill** if diagnosed with a condition likely to lead to death within 6 months, confirmed by two independent medical practitioners registered with the Indian Medical Association and approved by the Company.\n\n4. **Critical Illness Benefit**: The critical illness benefit is an accelerated benefit, meaning the **Death Benefit** will be reduced by the amount paid for the critical illness cover. This is available only under **Life & Health** and **All in One Options**.\n\n5. **Payout for Major Illnesses**: The policy offers a payout in case of diagnosis of 34 major illnesses like **Heart Attack**, **Cancer**, **Kidney Failure**, etc. (optional).",
+        "page_number": "1",
+        "description": "Summary of terminal illness benefits under the ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "1. We will pay the Death Bene\ufb01t (DB) to your nominee/legal heir, on the \ufb01rst occurrence of either \n \u2022 Death of the Life Assured, or\n \u2022 Diagnosis of Terminal Illness\n The policy will terminate on payment of this bene\ufb01t. \nDeath Bene\ufb01t shall be payable as follows: \nA. Life Option\nBene\ufb01ts in detail\nPremium Payment Option\nRegular Pay and\nLimited Pay\nDeath Bene\ufb01t\nSingle Pay Higher of:\n\u2022 125% of the Single Premium or \n\u2022 Sum Assured chosen by you\nHigher of:\n\u2022 7 times the annualized premium or \n\u2022 105% of the total premiums paid up to the date of death or diagnosis \n         of terminal illness or",
+            "of terminal illness or \n\u2022 Sum Assured chosen by you\nIn addition to the bene\ufb01ts under the Life Option, you are also covered for Accidental Death (AD) Bene\ufb01t. In case of death \ndue to an accident within Accidental Death Bene\ufb01t term, we will pay your nominee/legal heir AD Bene\ufb01t as lump sum. \nThis bene\ufb01t ensures that you enhance your coverage signi\ufb01cantly at very affordable rates. The policy will terminate on \npayment of these bene\ufb01ts.\nB. Life Plus Option\nIn the event of the death of the Life Assured or where the Life Assured is diagnosed with terminal illness on the Date of",
+            "can be increased under this feature cannot exceed the maximum \nadditional sum assured mentioned in the table above.\nA Life Assured shall be regarded as Terminally Ill only if that Life \nAssured is diagnosed as suffering from a condition which, in the \nopinion of two independent medical practitioners\u2019 specializing in \ntreatment of such illness, is highly likely to lead to death within 6 \nmonths. The terminal illness must be diagnosed and con\ufb01rmed by \nmedical practitioners\u2019 registered with the Indian Medical Association \nand approved by the Company. The Company reserves the right for",
+            "*The critical illness bene\ufb01t is an accelerated bene\ufb01t and the death bene\ufb01t will be reduced by the critical illness cover paid to the policyholder. This is available only under Life & Health and All in One Options.\nThe new\nPayout to you in case of\n34 major illnesses like Heart Attack,\nCancer, Kidney Failure, etc. (optional*)\nPayout for your family in\nyour absence"
+        ]
+    },
+    "other_benefits": {
+        "value": "1. **Marriage Benefit**: An additional Sum Assured of **50%** of the original Sum Assured, with a maximum additional Sum Assured of \u20b950,00,000.\n2. **Birth/Legal Adoption of 1st Child**: An additional Sum Assured of **25%** of the original Sum Assured, with a maximum additional Sum Assured of \u20b925,00,000.\n3. **Birth/Legal Adoption of 2nd Child**: An additional Sum Assured of **25%** of the original Sum Assured, with a maximum additional Sum Assured of \u20b925,00,000.\n4. **Base Benefit**: Upon exercising this option, the policyholder will receive an amount equal to the Total Premiums Paid under the Policy.\n5. **Additional Benefit**: If availed in the (T-10)th Policy year, the policyholder will receive an additional amount equal to the Total Premiums Paid under the policy, applicable only under Limited Pay policies with Premium Payment Terms of 5 years, 7 years, or 10 years.\n6. **Accidental Death Benefit**: Must be chosen at Policy inception and cannot be added during the Policy term.\n7. **Accelerated Critical Illness Benefit**: Coverage against 34 critical illnesses, providing a lump sum payment irrespective of actual expenses incurred, must also be chosen at Policy inception.",
+        "page_number": "null",
+        "description": "Summary of additional/optional benefits included in the ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "marriage and child birth/ adoption of child, without any medicals as below.\nAdditional premium will be calculated based on the increased Sum Assured and outstanding policy term as per your \nage at the time of each such increase. \n                     Event Additional Sum Assured Maximum additional \n   (percentage of original Sum Assured) Sum Assured\n                    Marriage 50% ` 50,00,000\nBirth / Legal adoption of 1st child 25% ` 25,00,000\nBirth / Legal adoption of 2nd child 25% ` 25,00,000",
+            "i. Base Bene\ufb01t \u2013 If this option is exercised, You will receive an amount equal to the Total Premiums Paid* under the Policy; \nii. Additional Bene\ufb01t \u2013 If this option is availed in the (T-10)th Policy year where T is the Policy Term, then in furtherance to \n the Base Bene\ufb01t, You will receive an additional amount equal to the Total Premiums Paid* under the policy. This \n additional bene\ufb01t is available only under Limited Pay policies with Premium Payment Terms of 5 years, 7 years, 10",
+            "any) as per applicable rates will be charged extra.\nAccidental Death Bene\ufb01t and Accelerated Critical Illness Bene\ufb01t have to be chosen at Policy inception. They cannot be \nadded to your Policy during the Policy term.\nThe premiums for various ages and bene\ufb01t options are given below\n30\n35\n40\n45\n50\n9,036\n12,095\n18,706\n27,750\n41,848\n15,036\n18,095\n24,706\n33,750\n47,848\n14,112\n20,841\n33,055\n50,685\n76,830\n20,112\n26,841\n39,055\n56,685\n82,830\nLife\nAge\nLife Plus Life and Health All in One\nBene\ufb01t Option\nSample premiums",
+            "In this option, along with the bene\ufb01ts under the Life Option, you are also covered for the Accelerated Critical Illness \nBene\ufb01t (ACI Bene\ufb01t). The ACI Bene\ufb01t offers you coverage against 34 critical illnesses. When a major illness strikes, it \ncan place a huge burden on your family, not only because of the cost of medical care but also because you may not be \nable to work. To protect you against this, we will pay you the ACI Bene\ufb01t, as a lump sum to meet your \ufb01nancial needs. \nThe bene\ufb01t is payable irrespective of the actual expenses incurred by the policyholder."
+        ]
+    },
+    "death_benefit_payment_option": {
+        "value": "1. **Lump sum**: The entire benefit amount is payable as a lump sum.\n2. **Income**: A percentage of the benefit amount is payable every year throughout the Income term of 10, 20, or 30 years, as chosen at policy inception. This will be paid in equal monthly installments in advance at a defined rate of the death benefit amount.\n3. **Lump sum and Income**: The total amount payable on death or terminal illness will be equal to the Death Benefit reduced by ACI benefit paid, if any. The Death Benefit will be paid as a combination of income and lump sum payout options, with the percentage of the Death Benefit to be paid out as lump sum chosen at inception.\n4. **Increasing Income**: The benefit amount is payable in monthly installments for 10 years, starting with 10% of the benefit amount per annum in the first year, increasing by 10% per annum simple interest every year thereafter. The total monthly benefits payable over 10 years equal 145% of the death benefit amount reduced by ACI benefit paid, if any.",
+        "page_number": "1",
+        "description": "Summary of death benefit payout/payment options for ICICI Pru iProtect Smart insurance policy.",
+        "chunks": [
+            "Bene\ufb01t can be paid to your bene\ufb01ciary as:\n1. Lump sum: the entire bene\ufb01t amount is payable as a lump sum\n2. Income: A percentage of the bene\ufb01t amount is payable every year throughout the Income term of 10, 20 or 30 \nyears, as chosen by you at policy inception. This will be paid in equal monthly instalments in advance at a de\ufb01ned \nrate of death bene\ufb01t amount given in the table below.\n The income term wise bene\ufb01t amount payable is given below:\n The bene\ufb01ciary can also advance the \ufb01rst year\u2019s income as lump sum. In such a case, the monthly income",
+            "1. We will pay the Death Bene\ufb01t (DB) to your nominee/legal heir, on the \ufb01rst occurrence of either \n \u2022 Death of the Life Assured, or\n \u2022 Diagnosis of Terminal Illness\n The policy will terminate on payment of this bene\ufb01t. \nDeath Bene\ufb01t shall be payable as follows: \nA. Life Option\nBene\ufb01ts in detail\nPremium Payment Option\nRegular Pay and\nLimited Pay\nDeath Bene\ufb01t\nSingle Pay Higher of:\n\u2022 125% of the Single Premium or \n\u2022 Sum Assured chosen by you\nHigher of:\n\u2022 7 times the annualized premium or \n\u2022 105% of the total premiums paid up to the date of death or diagnosis \n         of terminal illness or",
+            "(payable in equal monthly instalments), at a different rate than above, will start from the subsequent month for \nthe remaining income term (total income term less 1 year), at a de\ufb01ned rate of the death bene\ufb01t amount as given \nbelow:\n3. Lump sum and Income: The total amount payable on death or terminal illness under this option will be equal to \nthe Death Bene\ufb01t  reduced by ACI bene\ufb01t paid, if any. The Death Bene\ufb01t will be paid as a combination of income \nand lump sum payout options. The percentage of the Death Bene\ufb01t to be paid out as lump sum is chosen at",
+            "inception. The balance Death Bene\ufb01t will be paid out in equal monthly instalments in advance, for the chosen \nIncome Term at a de\ufb01ned rate of death bene\ufb01t as given in option 2 (Income payout option) above. \n4. Increasing Income: The bene\ufb01t amount is payable in monthly installments for 10 years starting with 10% of the \nbene\ufb01t amount per annum in the \ufb01rst year. The income amount will increase by 10% per annum simple interest \nevery year thereafter. Sum of total monthly bene\ufb01ts payable over 10 years is equal to 145% of the death bene\ufb01t \namount reduced by ACI bene\ufb01t paid, if any.\nIncome Term"
+        ]
+    },
+    "premium_payment_option": {
+        "value": "Single, Regular Pay, Limited Pay.",
+        "page_number": "1",
+        "description": "Different options for how premiums can be paid.",
+        "chunks": []
+    },
+    "min_age_at_entry": {
+        "value": "18",
+        "page_number": "1",
+        "description": "Minimum age required to purchase the policy.",
+        "chunks": []
+    },
+    "max_age_at_entry": {
+        "value": "65",
+        "page_number": "1",
+        "description": "Maximum age allowed for policy entry.",
+        "chunks": []
+    },
+    "max_age_at_maturity": {
+        "value": "75",
+        "page_number": "1",
+        "description": "Maximum age at which the policy can mature.",
+        "chunks": []
+    },
+    "minimum_sum_assured": {
+        "value": "\u20b91,00,000",
+        "page_number": "null",
+        "description": "Minimum Sum Assured for the ICICI Pru iProtect Smart policy",
+        "chunks": [
+            "Eligibility conditions\nMinimum Premium ` 2,400 excluding applicable taxes such as Goods and Services  \n tax and/or cesses\n Minimum: ` 1,00,000\n Maximum: 3 times of the Sum Assured chosen by you at the   \nAccidental Death Bene\ufb01t inception, subject to a maximum limit as per the Board Approved \n Underwriting Policy Accidental death Bene\ufb01t will be for the policy  \n term or (80-Age at entry), whichever is lower \n  Minimum: ` 1,00,000",
+            "Minimum: ` 1,00,000\n Maximum: As per the Board Approved Underwriting Policy. Accelerated Critical Illness  ACI Bene\ufb01t is not available for Single Pay policies(ACI) Bene\ufb01t ACI Bene\ufb01t would be for the policy term or 30 or \n (75-Age at entry), whichever is lower \nMinimum Sum Assured Subject to the minimum premium\nMaximum Sum Assured Unlimited\nMode of Premium Payment Single, Yearly, Half-yearly and Monthly\nSingle Pay*\nRegular Pay\nLimited Pay\nSingle\nEqual to policy term\n5, 7, PT- 5 years\n10 years\n60 years less age \n at entry\n18/65 years\n18/55 years\n18/65 years\n18/65 years\n5 years / 20 years",
+            "32 40 52Age\nPolicy year 0     1     2 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026......................................................... 8    9    10 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026............................................................20\nPriya takes ICICI Pru iProtect \nSmart Life & Health option \nwith a base cover of \n` 1 Crore and a CI Bene\ufb01t of \n` 25 lakh for 30 years. She \nregularly pays an annual \npremium of ` 17,026.\nPriya is diagnosed with Critical Illness. \n` 25 lakh is paid as a lump sum and the \nPolicy continues with reduced Sum \nAssured of ` 75 lakh. The subsequent \npremiums are proportionately reduced",
+            "feature is available for Regular Pay policies only. Such increase in sum \nassured is only applicable to base death bene\ufb01t. The ACI Sum Assured \nand ADB Sum Assured will remain unchanged. Total Sum Assured that \ncan be increased under this feature cannot exceed the maximum \nadditional sum assured mentioned in the table above.\nA Life Assured shall be regarded as Terminally Ill only if that Life \nAssured is diagnosed as suffering from a condition which, in the \nopinion of two independent medical practitioners\u2019 specializing in"
+        ]
+    },
+    "maximum_sum_assured": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Maximum Sum Assured for ICICI Pru iProtect Smart policy",
+        "chunks": [
+            "on above. \nIf the Life Assured, whether sane or insane, commits suicide within 12 \nmonths from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company.",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company.",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company."
+        ]
+    },
+    "minimum_policy_term": {
+        "value": "10",
+        "page_number": "1",
+        "description": "Minimum policy term in years.",
+        "chunks": []
+    },
+    "maximum_policy_term": {
+        "value": "99",
+        "page_number": "1",
+        "description": "Maximum policy term in years.",
+        "chunks": []
+    },
+    "premium_paying_term": {
+        "value": "1. **Grace Period for Premium Payment**: 15 days for monthly premium payment mode and 30 days for other modes of premium payment.\n2. **Commencement of Grace Period**: Grace period commences from the premium due date.\n3. **Policy Status During Grace Period**: The policy is considered to be **in-force** with the risk cover without any interruption during the grace period, without any penalty or late fee.",
+        "page_number": "Not available",
+        "description": "Summary of premium payment terms for ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "payable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms \nand conditions of the policy. In case of Death or diagnosis of terminal",
+            "payable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms \nand conditions of the policy. In case of Death or diagnosis of terminal",
+            "payable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms \nand conditions of the policy. In case of Death or diagnosis of terminal",
+            "payable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms \nand conditions of the policy. In case of Death or diagnosis of terminal"
+        ]
+    },
+    "minimum_premium": {
+        "value": "\u20b92,400",
+        "page_number": "1",
+        "description": "Minimum annual premium amount for the policy.",
+        "chunks": []
+    },
+    "maximum_premium": {
+        "value": "3 times of the Sum Assured chosen.",
+        "page_number": "1",
+        "description": "Maximum premium amount for the policy.",
+        "chunks": []
+    },
+    "death_benefits": {
+        "value": "1. **Death Benefit**: The policy pays the Death Benefit (DB) to the nominee/legal heir upon the first occurrence of either:\n   - **Death of the Life Assured**\n   - **Diagnosis of Terminal Illness**\n\n2. **Death Benefit Amounts**:\n   - For **Single Pay**: Higher of:\n     - **125% of the Single Premium** or \n     - **Sum Assured** chosen by the policyholder.\n   - For **Regular Pay and Limited Pay**: Higher of:\n     - **7 times the annualized premium** or \n     - **105% of the total premiums paid** up to the date of death or diagnosis of terminal illness or unexpired risk premium value as available on the date of death.\n\n3. **Policy Termination**: The policy will terminate upon payment of the Death Benefit, extinguishing all rights, benefits, and interests under the policy.\n\n4. **Grace Period**: A grace period of **15 days** for monthly premium payment mode and **30 days** for other modes applies, during which the policy remains in-force without interruption.\n\n5. **Death Benefit Payout Options**: The policyholder can select a payout option at policy inception, which cannot be changed during the policy term. The options include:\n   - At the time of death claim approval, the claimant can convert the outstanding monthly income into a lump sum payout, terminating the policy after the payout.\n   - The lump sum amount will be the present value of future payouts calculated at a discount rate of **4% p.a.** or the higher of **4% and 10-year Government Securities yield** after the first monthly income payment.",
+        "page_number": "1",
+        "description": "Summary of death benefits available under the ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "1. We will pay the Death Bene\ufb01t (DB) to your nominee/legal heir, on the \ufb01rst occurrence of either \n \u2022 Death of the Life Assured, or\n \u2022 Diagnosis of Terminal Illness\n The policy will terminate on payment of this bene\ufb01t. \nDeath Bene\ufb01t shall be payable as follows: \nA. Life Option\nBene\ufb01ts in detail\nPremium Payment Option\nRegular Pay and\nLimited Pay\nDeath Bene\ufb01t\nSingle Pay Higher of:\n\u2022 125% of the Single Premium or \n\u2022 Sum Assured chosen by you\nHigher of:\n\u2022 7 times the annualized premium or \n\u2022 105% of the total premiums paid up to the date of death or diagnosis \n         of terminal illness or",
+            "or unexpired risk premium value as available on date of death will be \npayable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms",
+            "Death Bene\ufb01t payout options \nYou buy a term plan with an objective that your loved ones lead their lives comfortably without any \ufb01nancial worries, \neven in your absence. ICICI Pru iProtect Smart works as a \u201cLife Continuity plan\u201d for your loved ones by providing the \n\ufb02exibility to take the Death Bene\ufb01t in a way that meets your family\u2019s \ufb01nancial requirement. The Death Bene\ufb01t payout \noption has to be selected by you at Policy inception and it cannot be changed during the Policy Term. The Death \nBene\ufb01t can be paid to your bene\ufb01ciary as:",
+            "At the time of death claim approval and at any time after the start of monthly income, the Claimant will have the option to \nconvert the outstanding monthly income into lump sum pay out and the policy will terminate after the lump sum payout. \nThe lump sum amount will be the present value of future payouts calculated at a discount rate as given below:\nAt the time of death claim approval: 4% p.a.\nAt any time after the payment of \ufb01rst monthly income: Higher of 4% and 10-year Government Securities yield, rounded"
+        ]
+    },
+    "instant_cash_benefit": {
+        "value": "The **Accelerated Critical Illness Benefit (ACI Benefit)** provides an instant cash benefit as a lump sum payment upon the first occurrence of any of the covered 34 critical illnesses. This benefit is payable irrespective of the actual expenses incurred by the policyholder. However, it is important to note that the ACI Benefit is accelerated and not an additional benefit, meaning that the **Death Benefit** will be reduced by the amount of the ACI Benefit paid. If the ACI Benefit paid equals the Death Benefit, the policy will terminate upon payment of the ACI Benefit.",
+        "page_number": "1",
+        "description": "Instant cash benefit available under the ICICI Pru iProtect Smart policy for critical illnesses.",
+        "chunks": [
+            "In this option, along with the bene\ufb01ts under the Life Option, you are also covered for the Accelerated Critical Illness \nBene\ufb01t (ACI Bene\ufb01t). The ACI Bene\ufb01t offers you coverage against 34 critical illnesses. When a major illness strikes, it \ncan place a huge burden on your family, not only because of the cost of medical care but also because you may not be \nable to work. To protect you against this, we will pay you the ACI Bene\ufb01t, as a lump sum to meet your \ufb01nancial needs. \nThe bene\ufb01t is payable irrespective of the actual expenses incurred by the policyholder.",
+            "This bene\ufb01t is payable, on \ufb01rst occurrence of any of the covered 34 illnesses. The ACI Bene\ufb01t, is accelerated and not an \nadditional bene\ufb01t which means, the policy will continue with the Death Bene\ufb01t reduced by the extent of the ACI Bene\ufb01t \npaid. Premium payment on account of ACI Bene\ufb01t will cease after payout of ACI Bene\ufb01t and the future premiums \npayable under the policy for death bene\ufb01t will reduce proportionately. If ACI Bene\ufb01t paid is equal to the Death Bene\ufb01t, \nthen the policy will terminate on payment of the ACI Bene\ufb01t to policyholder/ Claimant as the case maybe. In case of",
+            "Waiting period for Critical Illness Bene\ufb01t: \n1. The bene\ufb01t shall not apply or be payable in respect of any \nCritical Illnessfor which care, treatment, or advice was \nrecommended by or received from a Physician, or which \ufb01rst \nmanifested itself or was contracted during the \ufb01rst six months \nfrom the date of commencement of risk or 3 months from the \npolicy revival date where the policy has lapsed for more than \n3 months.\n2. In the event of occurrence of any of the scenarios mentioned \nabove, or In case of a death claim, where it is established that",
+            "Waiting period for Critical Illness Bene\ufb01t: \n1. The bene\ufb01t shall not apply or be payable in respect of any \nCritical Illnessfor which care, treatment, or advice was \nrecommended by or received from a Physician, or which \ufb01rst \nmanifested itself or was contracted during the \ufb01rst six months \nfrom the date of commencement of risk or 3 months from the \npolicy revival date where the policy has lapsed for more than \n3 months.\n2. In the event of occurrence of any of the scenarios mentioned \nabove, or In case of a death claim, where it is established that"
+        ]
+    },
+    "surrender_benefits": {
+        "value": "1. **Surrender Value**: On policy surrender, the Surrender Value equal to **Unexpired risk premium value** will be payable.  \n2. **Single Pay Policies**:  \n   - Surrender value equals **unexpired risk premium value** if the policyholder voluntarily surrenders during the policy term.  \n   - **Unexpired risk premium value** = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.  \n3. **Limited Pay Policies**:  \n   - If one full year\u2019s premium is not paid, **Unexpired risk premium value** = 0.  \n   - If one full year\u2019s premium has been paid, then **Unexpired risk premium value** = 25% X [Number of months for which premiums are paid / (Premium Payment Term X 12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.  \n4. **Regular Pay Policies**:  \n   - **Unexpired risk premium value** = 0.  \n5. **Grace Period**: If any premium installment is not paid within the grace period, the **Unexpired risk premium value** will still apply as per the above conditions.  \n6. **Cancellation Option**: The policy can be canceled, and upon surrender, the **Surrender Value** will be equal to the **Unexpired risk premium value** as described above.",
+        "page_number": "null",
+        "description": "Summary of surrender benefits for ICICI Pru iProtect Smart policy, excluding paid-up value and exit options.",
+        "chunks": [
+            "Maturity or paid-up or survival bene\ufb01t\nSurrender\nFor Single Pay policies, Surrender value equal to unexpired risk premium value will be payable if the policy holder \nvoluntarily surrenders the policy during the policy term.\nUnexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.\nFor unexpired risk premium value for Limited Pay policies & Regular policies, please refer T&C 13.\nYou have an option to cancel the policy and avail the below bene\ufb01ts:",
+            "grace period, all bene\ufb01ts under this policy will cease.\nOn policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0",
+            "On policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0\nIf any premium instalment is not paid within the grace period, then the",
+            "On policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0\nIf any premium instalment is not paid within the grace period, then the"
+        ]
+    },
+    "surrender_value_factor": {
+        "value": "Surrender Value equal to Unexpired risk premium value will be payable. For Limited Pay policies: If one full year\u2019s premium has been paid, Unexpired risk premium value = 25% X [Number of months for which premiums are paid / (Premium Payment Term X 12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid. For Regular Pay policies: Unexpired risk premium value = 0. For Single Pay policies: Unexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.",
+        "page_number": "Not available",
+        "description": "Details on the surrender value and calculation of unexpired risk premium value for Limited Pay, Regular Pay, and Single Pay policies.",
+        "chunks": [
+            "grace period, all bene\ufb01ts under this policy will cease.\nOn policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0",
+            "On policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0\nIf any premium instalment is not paid within the grace period, then the",
+            "On policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0\nIf any premium instalment is not paid within the grace period, then the",
+            "Maturity or paid-up or survival bene\ufb01t\nSurrender\nFor Single Pay policies, Surrender value equal to unexpired risk premium value will be payable if the policy holder \nvoluntarily surrenders the policy during the policy term.\nUnexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.\nFor unexpired risk premium value for Limited Pay policies & Regular policies, please refer T&C 13.\nYou have an option to cancel the policy and avail the below bene\ufb01ts:"
+        ]
+    },
+    "paid_up_value": {
+        "value": "1. **Surrender Value**: For Single Pay policies, the surrender value is equal to the **unexpired risk premium value** if the policyholder voluntarily surrenders the policy during the policy term.  \n2. **Unexpired Risk Premium Value Calculation**:  \n   - For Single Pay: Unexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.  \n   - For Limited Pay and Regular Pay policies, refer to T&C 13 for specific calculations.  \n3. **Cancellation Option**:  \n   - **Base Benefit**: If the policy is canceled, the policyholder will receive an amount equal to the **Total Premiums Paid** under the policy.  \n   - **Additional Benefit**: If canceled in the (T-10)th Policy year, an additional amount equal to the **Total Premiums Paid** will be received, applicable only for Limited Pay policies with Premium Payment Terms of 5, 7, or 10 years.  \n4. **Need-Based Benefit Payout**: The benefit amount can be received as a lump sum or as monthly income for 10, 20, or 30 years, or a combination of both.  \n5. **Flexibility in Premium Payments**: Premiums can be paid once, for a limited period, or throughout the policy term.  \n6. **Tax Benefits**: Tax benefits may apply on premiums paid and benefits received as per prevailing tax laws.  \n7. **Limited Pay Policies**:  \n   - If one full year\u2019s premium is not paid, the unexpired risk premium value = 0.  \n   - If one full year\u2019s premium has been paid, the unexpired risk premium value is calculated based on the number of months premiums are paid.  \n8. **Regular Pay Policies**: The unexpired risk premium value = 0 if any premium installment is not paid within the grace period.",
+        "page_number": "null",
+        "description": "Summary of paid-up value/benefit available for ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "Maturity or paid-up or survival bene\ufb01t\nSurrender\nFor Single Pay policies, Surrender value equal to unexpired risk premium value will be payable if the policy holder \nvoluntarily surrenders the policy during the policy term.\nUnexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.\nFor unexpired risk premium value for Limited Pay policies & Regular policies, please refer T&C 13.\nYou have an option to cancel the policy and avail the below bene\ufb01ts:",
+            "i. Base Bene\ufb01t \u2013 If this option is exercised, You will receive an amount equal to the Total Premiums Paid* under the Policy; \nii. Additional Bene\ufb01t \u2013 If this option is availed in the (T-10)th Policy year where T is the Policy Term, then in furtherance to \n the Base Bene\ufb01t, You will receive an additional amount equal to the Total Premiums Paid* under the policy. This \n additional bene\ufb01t is available only under Limited Pay policies with Premium Payment Terms of 5 years, 7 years, 10",
+            "Need based bene\ufb01t payout: Choose to receive the bene\ufb01t amount as a lump sum or as monthly \nincome for 10/ 20/ 30 years or a combination of both\nFlexibility to pay premiums once, for a limited period or throughout the policy term\nTax Bene\ufb01ts may be applicable on premiums paid and bene\ufb01ts received as per the prevailing tax laws \nKey features",
+            "On policy surrender, Surrender Value equal to Unexpired risk premium \nvalue will be payable: \n i  Limited Pay\n\u2022 If one full year\u2019s premium is not paid, Unexpired risk \npremium value = 0.\n\u2022 If one full year\u2019s premium has been paid, then the \nUnexpired risk premium value = 25% X [Number of months \nfor which premiums are paid / (Premium Payment Term X \n12)] X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X \n12)] X Total Premiums Paid.\n ii)  Regular Pay \n  Unexpired risk premium value = 0\nIf any premium instalment is not paid within the grace period, then the"
+        ]
+    },
+    "paid_up_death_benefit": {
+        "value": "higher of 80% of the total premiums paid if any till the date of death or unexpired risk premium value as available on date of death",
+        "page_number": "Not available",
+        "description": "Paid-up sum assured on death available for this policy",
+        "chunks": [
+            "or unexpired risk premium value as available on date of death will be \npayable by the Company.\nThe Policy will terminate on making such a payment and all rights, \nbene\ufb01ts and interests under the Policy will stand extinguished.\nA grace period for payment of premium of 15 days applies for monthly \npremium payment mode and 30 days for other modes of premium \npayment, commencing from the premium due date, without any \npenalty or late fee, during which time the policy is considered to be \nin-force with the risk cover without any interruption, as per the terms",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company.",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company.",
+            "months from the date of commencement of risk of this Policy, the \nCompany will refund higher of 80% of the total premiums paid if any till \nthe date of death or unexpired risk premium value as available on date of \ndeath, provided the policy is in force.\nIn the case of a revived Policy, if the Life Assured, whether sane or \ninsane, commits suicide within 12 months of the date of revival of the \nPolicy, higher of 80% of the total premiums paid, if any till date of death \nor unexpired risk premium value as available on date of death will be \npayable by the Company."
+        ]
+    },
+    "exit_options": {
+        "value": "1. **Smart Exit Benefit**: This option allows the policyholder to terminate the policy and receive a payout. The policy will terminate upon payment of this benefit, and all benefits and interests under the policy will be extinguished. No additional premium is required to avail this option. \n   - **Eligibility**: \n     - Can be exercised in any policy year greater than 29 but not during the last 5 policy years. \n     - The age of the life assured must be 60 years or more at the time of exercise. \n   - **Payout Example**: If the Premium Payment Term is 10 years and the policy is canceled in the 30th Policy Year, the policyholder is eligible to receive 200% of Total Premiums Paid as the total payout upon cancellation.",
+        "page_number": "16",
+        "description": "Exit values/options/benefits available for the policy excluding surrender benefits and paid-up value.",
+        "chunks": [
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA\nThe policy shall terminate on payment of this Smart Exit Bene\ufb01t (if exercised) and all bene\ufb01ts and interests under \nthis policy will stand extinguished. No additional premium is payable to avail this option. \nThe policyholder can either opt for Smart Exit Bene\ufb01t or Unexpired Risk Premium Value as per S. No. 13 of Terms &",
+            "years and 15 years. For example, if the Premium Payment Term is 10 years, Policy Term is 40 years and cancellation \n of the policy has been availed in the 30th Policy Year, the policyholder is eligible to receive 200% of Total Premiums \n Paid* as the total payout upon cancellation.\nThe Smart Exit Bene\ufb01t shall become payable subject to the ful\ufb01llment of all the below mentioned conditions:\n\u2022 This option can be exercised in any policy year greater than 29 but not during the last 5 policy years.\n\u2022 The age of the life assured is 60 years or more at the time of exercise.",
+            "Maturity or paid-up or survival bene\ufb01t\nSurrender\nFor Single Pay policies, Surrender value equal to unexpired risk premium value will be payable if the policy holder \nvoluntarily surrenders the policy during the policy term.\nUnexpired risk premium value = 25% X [1 \u2013 (Policy Month of surrender \u2013 1)/ (Policy Term X 12)] X Total Premiums Paid.\nFor unexpired risk premium value for Limited Pay policies & Regular policies, please refer T&C 13.\nYou have an option to cancel the policy and avail the below bene\ufb01ts:",
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%"
+        ]
+    },
+    "exit_option_conditions": {
+        "value": "1. **Smart Exit Benefit** can be exercised under the following conditions:\n   - The option can be exercised in any policy year greater than **29** but not during the last **5** policy years.\n   - The age of the life assured must be **60 years or more** at the time of exercise.\n\n2. Upon exercising the **Smart Exit Benefit**, the policy shall terminate, and all benefits and interests under the policy will stand extinguished. No additional premium is payable to avail this option.\n\n3. The policyholder can choose between the **Smart Exit Benefit** or the **Unexpired Risk Premium Value** as per the terms outlined in the policy.\n\n4. If the policyholder opts for cancellation of the policy, the payout will be **200% of Total Premiums Paid** if the cancellation occurs after the **30th Policy Year** (given the Premium Payment Term is **10 years** and Policy Term is **40 years**).",
+        "page_number": "16",
+        "description": "Terms and conditions for availing the Smart Exit Benefit under the ICICI Pru iProtect Smart policy.",
+        "chunks": [
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA\nThe policy shall terminate on payment of this Smart Exit Bene\ufb01t (if exercised) and all bene\ufb01ts and interests under \nthis policy will stand extinguished. No additional premium is payable to avail this option. \nThe policyholder can either opt for Smart Exit Bene\ufb01t or Unexpired Risk Premium Value as per S. No. 13 of Terms &",
+            "years and 15 years. For example, if the Premium Payment Term is 10 years, Policy Term is 40 years and cancellation \n of the policy has been availed in the 30th Policy Year, the policyholder is eligible to receive 200% of Total Premiums \n Paid* as the total payout upon cancellation.\nThe Smart Exit Bene\ufb01t shall become payable subject to the ful\ufb01llment of all the below mentioned conditions:\n\u2022 This option can be exercised in any policy year greater than 29 but not during the last 5 policy years.\n\u2022 The age of the life assured is 60 years or more at the time of exercise.",
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%"
+        ]
+    },
+    "discount_online": {
+        "value": "Not available",
+        "page_number": "null",
+        "description": "Discounts available in the policy for online channel excluding salaried or existing customers.",
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%",
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA",
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA",
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA"
+        ]
+    },
+    "discount_staff": {
+        "value": "Not available",
+        "page_number": null,
+        "description": null,
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%"
+        ]
+    },
+    "discount_female": {
+        "value": "15% discount on premium rates for life cover (Death Bene\ufb01t) as compared to male lives",
+        "page_number": "Not available",
+        "description": "Discount for female individuals on life cover premium rates",
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%",
+            "Covers female organ cancers such as breast cancer and cervical cancer under Accelerated Critical Illness Bene\ufb01t\nSpecial premium rates for Accelerated Critical Illness Bene\ufb01t \n15% discount on premium rates for life cover (Death Bene\ufb01t) as compared to male lives\nKey bene\ufb01ts for women\nEnhanced protection: Coverage against death, terminal illness and disability\nComprehensive additional bene\ufb01ts: Option to choose Accidental Death Bene\ufb01t and Accelerated \nCritical Illness Bene\ufb01t\nSpecial premium rates for non-tobacco users\nSpecial discount on \ufb01rst year\u2019s premium for salaried customers"
+        ]
+    },
+    "discount_existing_customers": {
+        "value": "15% for Limited Pay and 10% for Regular Pay",
+        "page_number": "Not available",
+        "description": "Discounts available for salaried customers opting for sum assured greater than or equal to \u20b910,000,000",
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%",
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA\nThe policy shall terminate on payment of this Smart Exit Bene\ufb01t (if exercised) and all bene\ufb01ts and interests under \nthis policy will stand extinguished. No additional premium is payable to avail this option. \nThe policyholder can either opt for Smart Exit Bene\ufb01t or Unexpired Risk Premium Value as per S. No. 13 of Terms &"
+        ]
+    },
+    "discount_salaried": {
+        "value": "15% discount for Limited Pay option and 10% discount for Regular Pay option",
+        "page_number": "Not available",
+        "description": "Discounts available for salaried customers opting for sum assured greater than or equal to \u20b910,000,000",
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%"
+        ]
+    },
+    "discount_high_sum": {
+        "value": "15% for Limited Pay and 10% for Regular Pay on first year\u2019s premium of Death Benefit, Terminal Illness and Waiver of Premium on permanent disability for sum assured greater than or equal to \u20b910,000,000.",
+        "page_number": "1",
+        "description": "Discounts available for high sum assured in the policy for salaried customers.",
+        "chunks": [
+            "Conditions below i.e. both the Smart Exit Bene\ufb01t and Surrender Bene\ufb01t cannot be availed simultaneously. \nA discount as mentioned below will be offered on \ufb01rst year\u2019s premium of Death Bene\ufb01t, Terminal Illness and Waiver \nof Premium on permanent disability (excluding rider premiums, underwriting extra premiums and taxes) to salaried \ncustomers opting for sum assured greater than or equal to `10,000,000:\nSalaried customer discount\nPremium Payment Option\nLimited Pay\nRegular Pay\nDiscount\n15%\n10%",
+            "Eligibility conditions\nMinimum Premium ` 2,400 excluding applicable taxes such as Goods and Services  \n tax and/or cesses\n Minimum: ` 1,00,000\n Maximum: 3 times of the Sum Assured chosen by you at the   \nAccidental Death Bene\ufb01t inception, subject to a maximum limit as per the Board Approved \n Underwriting Policy Accidental death Bene\ufb01t will be for the policy  \n term or (80-Age at entry), whichever is lower \n  Minimum: ` 1,00,000",
+            "policyholders. \n \u2022 On revival of a lapsed policy, the lower of the Sum Assured \nas applicable on the date of premium discontinuance or as \napproved during revival (following Board Approved \nUnderwriting policy) shall be restored.\n16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA\n23 Section 45 of the Insurance Act, 1938, as\namended from time to time:  \n22 Section 41\n21 Assignment Requirements",
+            "16. No loans are allowed under this policy.\nLoadings for various modes of premium payment are given below\n    Mode of Premium Payment Loading (as a % of Premium)\n    Monthly   2.5%\n    Semi-Annual  1.25%\n    Annual   NA\nThe policy shall terminate on payment of this Smart Exit Bene\ufb01t (if exercised) and all bene\ufb01ts and interests under \nthis policy will stand extinguished. No additional premium is payable to avail this option. \nThe policyholder can either opt for Smart Exit Bene\ufb01t or Unexpired Risk Premium Value as per S. No. 13 of Terms &"
+        ]
+    },
+    "rider_benefits": {
+        "value": "Not available",
+        "page_number": null,
+        "description": "Information regarding rider benefits under the ICICI Pru iProtect Smart policy is not provided in the available documents.",
+        "chunks": [
+            "Need based bene\ufb01t payout: Choose to receive the bene\ufb01t amount as a lump sum or as monthly \nincome for 10/ 20/ 30 years or a combination of both\nFlexibility to pay premiums once, for a limited period or throughout the policy term\nTax Bene\ufb01ts may be applicable on premiums paid and bene\ufb01ts received as per the prevailing tax laws \nKey features",
+            "i. Base Bene\ufb01t \u2013 If this option is exercised, You will receive an amount equal to the Total Premiums Paid* under the Policy; \nii. Additional Bene\ufb01t \u2013 If this option is availed in the (T-10)th Policy year where T is the Policy Term, then in furtherance to \n the Base Bene\ufb01t, You will receive an additional amount equal to the Total Premiums Paid* under the policy. This \n additional bene\ufb01t is available only under Limited Pay policies with Premium Payment Terms of 5 years, 7 years, 10"
+        ]
+    }
+}
