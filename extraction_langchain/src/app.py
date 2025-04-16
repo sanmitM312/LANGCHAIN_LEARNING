@@ -96,15 +96,15 @@ def main():
                     st.write(f"**Average Score**: {comparison_result['average_score_normalized']:.2f}")
 
                 # Add the updated policy to the Excel file
-                print("----Writing to Excel file----")
-                current_dir = os.path.dirname(os.path.abspath(__file__))
-                parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
-                excel_data_dir = os.path.join(parent_dir,"results")
-                excel_path = os.path.join(excel_data_dir, "results_second.xlsx")
-                output_data_dir = os.path.join(parent_dir,"neo_extracted_data")
-                json_file = os.path.join(output_data_dir, f"{updated_policy_details.product_uin.value}_rag.json")
-                add_row_to_excel(json_file, excel_path)
-                print("----Excel file updated----")
+                # print("----Writing to Excel file----")
+                # current_dir = os.path.dirname(os.path.abspath(__file__))
+                # parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
+                # excel_data_dir = os.path.join(parent_dir,"results")
+                # excel_path = os.path.join(excel_data_dir, "results_second.xlsx")
+                # output_data_dir = os.path.join(parent_dir,"neo_extracted_data")
+                # json_file = os.path.join(output_data_dir, f"{updated_policy_details.product_uin.value}_rag.json")
+                # add_row_to_excel(json_file, excel_path)
+                # print("----Excel file updated----")
 
             else:
                 st.error("Failed to extract using RAG")

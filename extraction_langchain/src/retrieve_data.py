@@ -24,7 +24,15 @@ def extract_text_from_pdf(uploaded_file) -> str:
         return None
 
 
-
+def write_to_excel(updated_policy_details: TUnitLinkedPlan) -> None:
+    """Write the updated policy details to an Excel file."""
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
+    excel_data_dir = os.path.join(parent_dir,"results")
+    excel_path = os.path.join(excel_data_dir, "results_third.xlsx")
+    output_data_dir = os.path.join(parent_dir,"neo_extracted_data")
+    json_file = os.path.join(output_data_dir, f"{updated_policy_details.product_uin.value}_rag.json")
+    add_row_to_excel(json_file, excel_path)
 def update_rag_fields(
     policy: TUnitLinkedPlan,
     rag_fields: dict[str,TUnitLinkedPlanField]
@@ -74,13 +82,7 @@ def main():
             comparison_result = compare_json_files(uin, updated_policy_details)
 
             print("----Writing to Excel file----")
-            current_dir = os.path.dirname(os.path.abspath(__file__))
-            parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
-            excel_data_dir = os.path.join(parent_dir,"results")
-            excel_path = os.path.join(excel_data_dir, "results_third.xlsx")
-            output_data_dir = os.path.join(parent_dir,"neo_extracted_data")
-            json_file = os.path.join(output_data_dir, f"{updated_policy_details.product_uin.value}_rag.json")
-            add_row_to_excel(json_file, excel_path)
+            write_to_excel(updated_policy_details)
             print("----Excel file updated----")
             
             # print(f"comparison result {uin}: {comparison_result}")
