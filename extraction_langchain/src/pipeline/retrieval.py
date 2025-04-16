@@ -111,7 +111,7 @@ def init_retrieval(uin,policy_name):
     # Default search parameters - can be customized per query if needed
     search_params = {
         "search_type": "similarity_score_threshold",
-        "search_kwargs": {"k": 3, "score_threshold": 0.4}
+        "search_kwargs": {"k": 2, "score_threshold": 0.4}
     }
 
     search_params_mmr = {

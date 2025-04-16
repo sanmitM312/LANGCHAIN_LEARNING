@@ -1,0 +1,218 @@
+{
+    "company_name": {
+        "value": "PNB MetLife India Insurance Company Limited",
+        "page_number": "1",
+        "description": "Name of the insurance company",
+        "chunks": []
+    },
+    "product_name": {
+        "value": "Mera Term Plan Plus",
+        "page_number": "1",
+        "description": "Name of the insurance product/policy",
+        "chunks": []
+    },
+    "product_uin": {
+        "value": "117N126V04",
+        "page_number": "1",
+        "description": "Unique Identification Number of the product",
+        "chunks": []
+    },
+    "product_type": {
+        "value": "Individual, Non-Linked, Non-Par, Pure Risk Premium, Life Insurance Product",
+        "page_number": "1",
+        "description": "Type of the insurance product (e.g., Term, ULIP, Endowment)",
+        "chunks": []
+    },
+    "distribution_channel": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Distribution channel for the product (e.g., Online, Offline, Online and Offline, Agent)",
+        "chunks": []
+    },
+    "plan_description": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "plan_options": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "terminal_illness_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "other_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "death_benefit_payment_option": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "premium_payment_option": {
+        "value": "Single pay, Limited pay (5, 10, 15, 20, Pay till Age 60), Regular Pay.",
+        "page_number": "4",
+        "description": "Different premium payment options available (e.g., Single, Regular, Limited)",
+        "chunks": []
+    },
+    "min_age_at_entry": {
+        "value": "18 years",
+        "page_number": "4",
+        "description": "Minimum age required to purchase the policy/product (in years) for different plan options",
+        "chunks": []
+    },
+    "max_age_at_entry": {
+        "value": "60 years (55 if \u2018Pay till 60\u2019 is chosen as PPT)",
+        "page_number": "4",
+        "description": "Maximum age allowed for policy/product entry (in years) for different plan options",
+        "chunks": []
+    },
+    "max_age_at_maturity": {
+        "value": "99 years for Life and Life Plus; 75 years for Life plus Health.",
+        "page_number": "4",
+        "description": "Maximum age allowed at policy/product maturity (in years)",
+        "chunks": []
+    },
+    "minimum_sum_assured": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "maximum_sum_assured": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "minimum_policy_term": {
+        "value": "10 years",
+        "page_number": "4",
+        "description": "Minimum policy/product term(in years)",
+        "chunks": []
+    },
+    "maximum_policy_term": {
+        "value": "99 years - Age at entry (without Return of Premium); 40 years (with Return of Premium)",
+        "page_number": "4",
+        "description": "Maximum policy/product term (in years)",
+        "chunks": []
+    },
+    "premium_paying_term": {
+        "value": "Single pay, Limited pay (5, 10, 15, 20, Pay till Age 60), Regular Pay.",
+        "page_number": "4",
+        "description": "Premium payment terms along with their term details",
+        "chunks": []
+    },
+    "minimum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Minimum annual premium amount for the policy/product, if applicable",
+        "chunks": []
+    },
+    "maximum_premium": {
+        "value": "Not Available",
+        "page_number": "Not Available",
+        "description": "Maximum premium amount for the policy/product, if applicable",
+        "chunks": []
+    },
+    "death_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "instant_cash_benefit": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "surrender_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "surrender_value_factor": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "paid_up_value": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "paid_up_death_benefit": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "exit_options": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "exit_option_conditions": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_online": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_staff": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_female": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_existing_customers": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_salaried": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "discount_high_sum": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    },
+    "rider_benefits": {
+        "value": "Not Available",
+        "page_number": null,
+        "description": null,
+        "chunks": []
+    }
+}

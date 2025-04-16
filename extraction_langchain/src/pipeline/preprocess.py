@@ -19,10 +19,15 @@ from langchain_community.callbacks import get_openai_callback
 from utils.retrieval_prompts import T_PURE_TERM_PLAN
 from utils.schemas import TUnitLinkedPlan
 
+from langchain.document_loaders import PyPDFLoader
+import tiktoken
+
 load_dotenv(override=True)
 
 # Initialize embeddings
 embeddings = OpenAIEmbeddings()
+encoding = tiktoken.get_encoding("cl100k_base")
+
 
 # Initialize text splitter
 # text_splitter = RecursiveCharacterTextSplitter(
@@ -68,7 +73,18 @@ def create_chunks(uploaded_file):
     os.unlink(tmp_path)
     
     pdf_text = " ".join([page.page_content for page in pages])
+    
+    tokens = encoding.encode(pdf_text)
+    num_tokens = len(tokens)
+    print(f"Number of tokens in the document: {num_tokens}")
 
+    if(num_tokens > 100000):
+        num_pages = len(pages)
+        first_ten_pages = pages[:10]
+        last_five_pages = pages[-5:]
+        pdf_text = " ".join([page.page_content for page in first_ten_pages + last_five_pages])
+        print(f"Number of tokens in the first and last 10 pages: {len(encoding.encode(pdf_text))}")
+    
     chunks = text_splitter.split_documents(pages)
 
     return chunks,pdf_text
@@ -142,11 +158,8 @@ def extract_basic_policy_details(text:str)->TUnitLinkedPlan:
 
 
 def preprocess(uploaded_file):
-    
-
     # chunk the documents 
     chunks,pdf_text = create_chunks(uploaded_file)
-
 
     print("\n--- Document Chunks Information ---")
     print(f"Number of page chunks: {len(chunks)}")
@@ -155,13 +168,12 @@ def preprocess(uploaded_file):
     for i, chunk in enumerate(chunks[:5], start=1):
         print(f"Chunk {i}: {chunk.page_content}\n")
 
+
     # TUnitLinkedPlan instance 
     basic_response = extract_basic_policy_details(pdf_text)
 
-
     # store in vectordb
     store_in_vectordb(chunks,basic_response.product_uin.value)
-
 
     return basic_response
 

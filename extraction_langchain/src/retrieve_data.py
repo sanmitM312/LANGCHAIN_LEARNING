@@ -11,6 +11,8 @@ from pipeline.evaluation import merge_policy_and_accuracy_tables, compare_json_f
 import json
 import os
 
+from json_to_excel import add_row_to_excel
+
 def extract_text_from_pdf(uploaded_file) -> str:
     """
     Extract text from an uploaded PDF file and format it by page.
@@ -71,6 +73,15 @@ def main():
 
             comparison_result = compare_json_files(uin, updated_policy_details)
 
+            print("----Writing to Excel file----")
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
+            excel_data_dir = os.path.join(parent_dir,"results")
+            excel_path = os.path.join(excel_data_dir, "results_third.xlsx")
+            output_data_dir = os.path.join(parent_dir,"neo_extracted_data")
+            json_file = os.path.join(output_data_dir, f"{updated_policy_details.product_uin.value}_rag.json")
+            add_row_to_excel(json_file, excel_path)
+            print("----Excel file updated----")
             
             # print(f"comparison result {uin}: {comparison_result}")
 
@@ -89,6 +100,8 @@ def main():
                 st.subheader("Policy Details")
                 st.table(with_rag_table)
                 st.write(f"**Average Score**: {comparison_result['average_score_normalized']:.2f}")
+                
+                
         else:
             st.error("Failed to extract using RAG")
         

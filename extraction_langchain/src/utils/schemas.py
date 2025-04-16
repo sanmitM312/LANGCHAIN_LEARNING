@@ -104,11 +104,11 @@ class TUnitLinkedPlan(BaseModel):
     )
     surrender_benefits: Optional[TUnitLinkedPlanField] = Field(
         default = None,
-        description = "The surrender value/benefits available in the policy/product"
+        description = "The surrender value/benefits available in the policy/product, including unexpired risk premium details if available"
     )
     surrender_value_factor: Optional[TUnitLinkedPlanField] = Field(
         default = None,
-        description = "The surrender value factor for surrender benefits of the policy/product"
+        description = "The surrender value factor for surrender benefits of the policy/product. Include unexpired risk premium detials formula if available"  
     )
     paid_up_value: Optional[TUnitLinkedPlanField] = Field(
         default = None,
